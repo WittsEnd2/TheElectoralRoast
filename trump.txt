@@ -1,0 +1,1165 @@
+{"tweet": "'@dcexaminer @DavidMDrucker Trump for President!!!!'", "coordinates": [-73.093845, 41.513971]}
+{"tweet": "'Is clock on MSNBC screen counting down to next poll closings, or to end of Trump's remarks? More than an hour to go either way, I guess...'", "coordinates": [-71.084335, 42.917127]}
+{"tweet": "'What if all of this is a ploy to sell Trump Rose?'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Economically, Trump is a complete moron. Just shows you that you don't need to be smart to be successful.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@JeffersonObama  I know right? I'm now of the conclusion they want Trump to be President. There's no other explanation. @MSNBC too!'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'people hate trump but he is only one that stands up for american jobs!'", "coordinates": [-88.070827, 42.920822]}
+{"tweet": "'Watching #Trump. On #ChrisChristie 'he's a great prosecutor ...'. Can you say Attorney General in the Trump administration ? @BretBaier'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Multiple uses of  'grand master' may not be quite the right choice for Trump in his speech. So scary.'", "coordinates": [-73.233379, 44.408479]}
+{"tweet": "'I assume they are letting trump go on and I because Michigan is too close to call on the democratic side.'", "coordinates": [-83.800262, 42.215087]}
+{"tweet": "'Donald #Trump: 'I can probably get along with Mitt Romney.....I have nothing against him!' #MichiganPrimary #Mississippi'", "coordinates": [-89.853527, 30.235705]}
+{"tweet": "'Ok, someone needs to pull the cord on Trump's mic. #SuperTuesday2'", "coordinates": [-119.732263, 36.782957]}
+{"tweet": "'@cspanwj If Clintons policies to take back all tax breaks, when Trump moved your clothing to Mexico, do you oppose?'", "coordinates": [-111.842244, 33.204608]}
+{"tweet": "'It's hard to believe that @CNN covers a #Trump press conference when you can't  hear the  questions. Ridiculous!'", "coordinates": [-116.421818, 33.670765]}
+{"tweet": "'No ones cares that you're going to see Trump, Betsy. @betsymnorwood  https://t.co/wrMpFpntIm'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'Trump's primary night victory speech might last longer than William H Harrison's presidency.'", "coordinates": [-88.070827, 42.920822]}
+{"tweet": "'when u need a reason to unfollow someone, then they tweet about trump being a good president :hugging_face:'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'@MSNBC @CNN @FoxNews n#CutTheFeednPlease cut Trump now, Twitter &amp; the rest of America wants its coverage back!'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'Donald Trump's 47 percent moment. https://t.co/5RtDR24jt1 via @motherjones'", "coordinates": [-106.791691, 35.015891]}
+{"tweet": "'Trump never got out of his terrible twos because he sure does pitch a fit like one.'", "coordinates": [-82.064397, 28.808922]}
+{"tweet": "'I love how trump demands respect from the media, yet treats them like absolute shit #primaries2016'", "coordinates": [-74.108576, 40.053829]}
+{"tweet": "'@ezraklein @voxdotcom trump for president.'", "coordinates": [106.894517, -6.518609]}
+{"tweet": "''When they're nasty, you have to be nasty back.' - Donald Trumpnn*End scene*'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Do people just vote Trump because they like his stupidity?? Like I'm really concerned on why some of you imbeciles would pick him?? :thinking_face:'", "coordinates": [-83.446302, 42.179271]}
+{"tweet": "'So many people hate trump but nobody goes out and vote... Keep it up guys. He'll be our next preZ'", "coordinates": [-83.214001, 42.620953]}
+{"tweet": "'@frostyf1 2)Trump won't help us, he's American. If he wins presidency he won't come help Canada, he'll wreck us to make him better...'", "coordinates": [-73.618298, 45.474256]}
+{"tweet": "'@nateklipper35 @hartz84 I was told to favorite this tweet, but it's trash because Donald Trump was mentioned'", "coordinates": [-92.309331, 44.421591]}
+{"tweet": "'Hey guys, did everyone fall asleep in the control room and leave trump on in the middle of the most important primary this year? @CNN @MSNBC'", "coordinates": [-83.555202, 42.436044]}
+{"tweet": "'#Trump wants to fix currency manipulation first and foremost...'free trade' will look a lot different after that'", "coordinates": [-73.380745, 40.767592]}
+{"tweet": "'Democrats leaving  Democratic Party voting for Trump all independents leaving  and voting for Trump and another GOP'", "coordinates": [-80.20811, 26.080935]}
+{"tweet": "'When you hear an 8 yr old say 'Donald Trump is sending us away,' you know something major is wrong here.'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'IF YOU DONT FUCK WITH DONALD TRUMP THEN ITS FUCK YOU :face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy:'", "coordinates": [-83.335007, 42.603793]}
+{"tweet": "'#ID #HI Trump's tax plan will help middle class, simplify tax code &amp; grow economy! https://t.co/RgwPAgay6T #Trump2016 #VoteTrump #MAGA :flag_for_United_States:'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'@foxandfriends @realDonaldTrump Trump for President!!!'", "coordinates": [-73.093845, 41.513971]}
+{"tweet": "'I have to say that Trump Airlines was great. @audreywatters'", "coordinates": [-118.394086, 33.780441]}
+{"tweet": "'And 30 minutes later trump is still talking. I want to puke'", "coordinates": [-97.557572, 35.606823]}
+{"tweet": "'time to force michigan and mississippi out of the union so trump winning them is completely irrelevant.'", "coordinates": [-82.530433, 38.375981]}
+{"tweet": "'Open primary Michigan 7% democrats voted in Trump (still split with Kasich). Next, closed Iowa /Hawaii  - for Republicans only'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Just spoke to people here who were very upset that CNN didn't switch to Clinton's speech while Trump hawked his products'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'Shoutout to the @JohnKasich voters who chose a guy who has won zero states over the guy who can beat Trump. Top shelf. #MichiganPrimary'", "coordinates": [-83.209206, 42.533782]}
+{"tweet": "'Trump is going to unify the #GOP as he tears the country apart.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Just a wild thought. If its Sanders vs Trump, do we see mainstream R's throw weight behind a 'socialist'?! (their words, not mine)'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'Always fun hearing Trump speak.'", "coordinates": [-117.401199, 34.050311]}
+{"tweet": "'#AlwaysTrump #Trump 2016 #Twitter #Fascinating #Way #Expression #Hope #Always #Allows #Freedom #Forgotten #Truth #Needs Voice #Liberty !!'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'Trump's new campaign song should be 'Ramble On!''", "coordinates": [-77.096062, 38.730221]}
+{"tweet": "'#dump trump #CruzCrew https://t.co/NFW0Cp7Wfi'", "coordinates": [-83.353955, 32.04683]}
+{"tweet": "'#MichiganPrimary #Trump Calling people liars isn't being hard on someone. It's juvenile. Silly.You r a joke.'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'#Trump we owe you NOTHING and 51% of the country will stop you! https://t.co/KiObDtglQ0'", "coordinates": [-96.639667, 40.375437]}
+{"tweet": "'@CNN @MSNBC You're embarrassing yourselves giving Trump a free pass for as long as he wants. Ridiculous.'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'Trump tells @JDiamond1 ,'nobody listens to you' during his breathy CNN gotcha question. #OnlyTrump'", "coordinates": [-122.069956, 37.454962]}
+{"tweet": "'@Kwaps40 don't think so, but I am pretty sure he invented the trump-et'", "coordinates": [-88.948596, 43.062752]}
+{"tweet": "'Trump on how he fights his GOP adversaries: 'When they're nasty, you have to be nasty back.''", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'How could these news reporters take such verbal abuse from Trump.'", "coordinates": [-109.060257, 36.992427]}
+{"tweet": "'This #Trump entertains me. But he's a nasty thug of a man. Alternatingly amusing and then utterly repellent. #TheNarcissist'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'He is using TV TIME to get free advertising for his businesses because hurting!! #TrumpForDumbAmericans NUFF SAID!! https://t.co/e3XDERi1oX'", "coordinates": [-77.509702, 39.057529]}
+{"tweet": "'Every Trump speech never ends. #fixedit  https://t.co/a7dsL34O0M'", "coordinates": [-89.478607, 43.162608]}
+{"tweet": "'Very disappointed that not one major news outlet cut into cover @HillaryClinton speech and kept it on  trump!  @CNN @MSNBC @FoxNews #unfair'", "coordinates": [-82.644739, 37.201483]}
+{"tweet": "'@RyanRodeman can you share this with Trump ?'", "coordinates": [-81.716475, 41.090514]}
+{"tweet": "'Seriously, Who are these ppl voting for Trump?? Have u lost your freaking mind? :thinking_face::grinning_face_with_smiling_eyes::flushed_face::face_screaming_in_fear::frowning_face_with_open_mouth:'", "coordinates": [-81.281029, 35.173615]}
+{"tweet": "'@realDonaldTrump @BreitbartNews This was a master at work. Trump will role like a dragster on fire. So very happy! RT ALL'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'Americans are waking up to the reality Trump might be their next president! They are not clever after all :face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy:'", "coordinates": [36.664573, -1.389053]}
+{"tweet": "'Bernie sanders is currently leading Michigan, but instead we are being treated to this bizarre Trump Talk #FeelTheBern'", "coordinates": [-86.348441, 39.631677]}
+{"tweet": "'Marco Rubio's campaign is finished. Kasich too. So it's Trump vs Cruz, Republicans. https://t.co/bOiV24HobW #Rubio #GOPPrimary'", "coordinates": [-80.046503, 40.383294]}
+{"tweet": "'Republicans lose in November with Trump and they will lose with a brokered convention establishment pick. #GOPPrimary'", "coordinates": [-84.438543, 39.817892]}
+{"tweet": "'Trump might forgive you @LindseyGrahamSC , but I never will'", "coordinates": [-88.763404, 32.312389]}
+{"tweet": "'.@blakeshelton #VoiceBlindsI sure wish they'd stop breaking in on ur show!! I'm sick to death of hearing bout Trump!!'", "coordinates": [-84.292805, 37.94511]}
+{"tweet": "'Watching Trump at live Fox business and Love it. So presidential.'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'@Rajanaeeee @_FineAssMari lol that's my nigga yeaaaa Trump :face_with_tears_of_joy:'", "coordinates": [-83.335007, 42.603793]}
+{"tweet": "'dream scenario: after Trump talks shit about a reporter CURRENTLY ASKING A QUESTION, they just say 'fuck you,' and walk out. #SuperTuesday'", "coordinates": [-81.716475, 41.090514]}
+{"tweet": "'I think Coach doesn't realize that if he votes for Trump, he won't have a soccer team this season :confused_face::confused_face:'", "coordinates": [-117.47182, 34.437542]}
+{"tweet": "'@DanielEdelson2 @highyellaheifer Another reason to h8 the #Yankees. Paul O'neil just endorsed #Trump'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'What exactly are Trump's principles with the exception of saying 'trade deals bad' since the late 1980s?nnhttps://t.co/TDQbVR2sA9'", "coordinates": [-76.118058, 40.027049]}
+{"tweet": "'Trump no worse to press than Nixon was'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'The best way to defeat trump is to just let him keep giving speeches like this. :sleeping_symbol::sleeping_symbol:'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'Trump wraps it up by saying he could probably get along with Lindsey Graham and/or Mitt Romney, but when someone hits, you have to hit back.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@SpeakerRyan nTrump wins Mississippi &amp; Michigan.  Unite the Republican party,  don't divide it. Let's take back the White House!'", "coordinates": [-111.791608, 32.858246]}
+{"tweet": "'Just wait TRUMP voters, you will see how ignorant you have all been to support this jerk..you have been made fools OF. .'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'Thank goodness.  Will @CNN now go to Secretary Clinton's speech on #InternationalWomensDay or talk about Trump Steaks some more?'", "coordinates": [-75.130194, 39.698642]}
+{"tweet": "'#Trump is simply brilliant.  I'm telling you right now.  He is going to beat the hell out of Hillary!'", "coordinates": [-95.178987, 29.438994]}
+{"tweet": "'Trump knows how to build things including wealth and the Republican party So say thank you Donald  https://t.co/Qfcas2es3Q'", "coordinates": [-81.631799, 40.732694]}
+{"tweet": "'I aint gone lie trump gone win the election :unamused_face:'", "coordinates": [-82.951773, 42.421348]}
+{"tweet": "'Donald Trump just said he doesn't know Romney well, not remembering that he endorsed him for POTUS 4 years ago, his words mean nothing.'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@jbarro looks like Trump is suckling all the air out the broadcast!'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'Quoting Jesus, I suppose? 'When you're nasty you gotta give nasty back,' says Trump after bragging about his Christian faith.'", "coordinates": [-91.218994, 30.354161]}
+{"tweet": "'God help us if Trump wins the Presidency!'", "coordinates": [-122.027412, 37.779803]}
+{"tweet": "'Please get Trump off of TV'", "coordinates": [-88.337511, 41.390769]}
+{"tweet": "'Honestly if you are voting for trump please just never talk to me again.'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'Every Trump win, this song comes to mind: https://t.co/QCao3c45Yf'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'WTF no 'God Bless America' to close the speech? What happened to the Republican party of my mid to late twenties? #Trump'", "coordinates": [-71.505683, 42.229356]}
+{"tweet": "'Please Florida Vote Trump! https://t.co/p5wFprAdyS'", "coordinates": [-81.277226, 35.158036]}
+{"tweet": "'Like i know i wasn't supposed to tell anyone this but @AntonioLeija1 totes voted for trump 2day and wants america to be gr8 again'", "coordinates": [-83.204418, 42.474131]}
+{"tweet": "'@FoxNews @realDonaldTrump @TrumpTrain8 @P0TUSTrump : TRUMP NOW 50.5% in Mississippi with 18% in!  Woooooooo!  :light_rail:Trump :light_rail:Train!'", "coordinates": [-120.041961, 38.822602]}
+{"tweet": "'Just sitting here waiting for Cruz and Rubio's Victory Speeches. #GOPPrimary @realDonaldTrump'", "coordinates": [-84.286258, 33.985534]}
+{"tweet": "'@AsNr80 @M_Tarar lol guys, you dont live in America. Man im frightened from this Trump guy. It was funny first, now its crazy'", "coordinates": [-95.686106, 29.543372]}
+{"tweet": "'@EternaFreeda dems who are voting for Trump are DONE being Hillary's FOOLS.'", "coordinates": [-81.779032, 33.475332]}
+{"tweet": "'@DJTrump4Prez GOP have been horrible for at least 8yrs.They deserve this.Need to change.But not Trump.He's nuts.'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'Could we please stop Trump from his filibuster and get on with the news? @CNN @MSNBC  #MichiganPrimary #FeelTheBern https://t.co/D8DRsrkIkJ'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'In Donald Trump's news conference in the Florida town of Jupiter, I'm surprised no one has told him, 'Your head is up Uranus.''", "coordinates": [-76.514298, 39.498425]}
+{"tweet": "'Folks think Trump is so off the cuff, such a non-politician. Please. The subtle msgs in his speech are completely calculated. Grow up, ppl.'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'Watching @TheVoice and damn it ... a news segment breaks about Trump's lead. As if I could give two shizzles about the ignorance of the GOP.'", "coordinates": [-111.979047, 33.319945]}
+{"tweet": "'So, I understand Trump owns some property?'", "coordinates": [-118.082615, 33.628991]}
+{"tweet": "'Cant imagine if someone like trump was running for president in my country :frog_face::hot_beverage:ufe0f'", "coordinates": [103.89217, 1.301577]}
+{"tweet": "'F the @Yankees: Donald Trump Shouts Out Paul O'Neill At Press Conference, Gets His Endorsement https://t.co/LBcuriCITR'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'So what's 10 million in negative ads when @FoxNews @CNN @MSNBC gives him an hour of free tv advertising... #trump'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'This is probably the best analysis Iu2019ve seen of the rhetoric coming from Trump. Be sure to read it out loud. https://t.co/mRmN40b2Ko'", "coordinates": [-111.740949, 40.18565]}
+{"tweet": "'Lol @ all y'all sayin' you're leaving the US if Trump is elected, bye :waving_hand_sign: no one cares'", "coordinates": [-86.20649, 43.16099]}
+{"tweet": "'2016: No way will Trump win the electionn2017: No way will President Trump fire all those nukesn2018: No way we're doing what those Apes say'", "coordinates": [-87.259577, 30.399257]}
+{"tweet": "'The fact that trump won the Michigan primary makes me afraid, not only of him becoming president but of the stupidity of people in my state'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'Make my *hair* great again!! Get trump out of tanning beds:) @IvankaTrump @realDonaldTrump @tedcruz @mashable  https://t.co/bCOWiIylM1'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'If @MSNBC doesn't run this whole fuckin' speech, I'm mailing them warm, raw meat from Donald Trump's freezers.'", "coordinates": [-98.778559, 29.141956]}
+{"tweet": "'Trump is a bully. I thought we were a bully-free society? A unifier!? #trumpthetyrant #trumpthebully #anyonebutrump #Trumpertantrum'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'A self-aware Bret Baier on Trump: 'He held all of the news channels, it looks like.''", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'Trump just won Ms. :flushed_face::pistol::pistol::pistol::pistol::pistol:'", "coordinates": [-90.135782, 34.994192]}
+{"tweet": "'OMG Trump is playing the natl media and making FOOLS of them. He totally owns them and he knows it. Proud @msnbc @cnn? You're pathetic.'", "coordinates": [-124.848975, 45.543542]}
+{"tweet": "'Wow @MittRomney looks like you lie too! Cruz, Rubio and Mitt all have no problem making up lies about @realDonaldTrump'", "coordinates": [-121.423941, 38.562585]}
+{"tweet": "'Now this I agree with...this is a joke #nevertrump  https://t.co/8hNUvr1XLq'", "coordinates": [-80.177525, 26.879058]}
+{"tweet": "'.@CNN @MSNBC Get that blowhard Trump off the TV! #SaveOurCountry #NeverTrump'", "coordinates": [-78.818343, 35.715805]}
+{"tweet": "'@foxnewspolitics great #speech by #Trump almost switched channels when I briefly seen #MegynKelly but I did as soon as speech was over lol'", "coordinates": [-94.487114, 39.01759]}
+{"tweet": "'@BeladonnaRogers @DanielDayJewish Sad but true. Trump will roll it back to reality.'", "coordinates": [-83.694776, 41.580375]}
+{"tweet": "'@LimitedPaper @pablod Trump Ice'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Also in the threshold news is Trump, who will probably beat WTA 50% line in some/all #MSprimary CDs. No WTA statewide there.'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'.@guypbenson tonight it was Trump infomercials, pushing products. But why not? ... It's Trump madness this year'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'#Trump is kicking ass col.#Sanders not so much'", "coordinates": [-75.172079, 39.76854]}
+{"tweet": "'@blackdawgg @PenalopeH Sure Neil Bush joined Cruz's campaign with Jeb's blessing. Jeb has no use for Trump and Rubio stabbed him in the back'", "coordinates": [-85.526856, 38.276076]}
+{"tweet": "'Trump just got almost a full hour of wall to wall cable network coverage in prime time. And people wonder why he's winning.'", "coordinates": [-117.86894, 33.606077]}
+{"tweet": "'@Photogbill222 @ChuckNellis Who loves themselves more, Trump or Obama?'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'@crousselle no but you don't blast one guy and let everyone else walk like she does. Only hits Trump.'", "coordinates": [-82.620093, 27.821353]}
+{"tweet": "'Trump is such a savage, I love it'", "coordinates": [-116.567788, 33.779426]}
+{"tweet": "'@AC360 wt can you possibly give more Trump time to Drumpfh?nAh I get your game now! OverTrump the pubic oh sorry I trumped and meant public.'", "coordinates": [-117.820234, 33.48444]}
+{"tweet": "'My lord, #Trump is lost in a 1980s time warp and we're about to have a trade war with Japan.'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Seriously guys. If #Trump wins, where are we all going to go?'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'Trump will rebuild our armed forces https://t.co/ZEMcN42mqu'", "coordinates": [-81.631799, 40.732694]}
+{"tweet": "'CNN sticks with Trump going through the crowd.'", "coordinates": [-90.139368, 32.318044]}
+{"tweet": "'besides being racist &amp; sexist  #media is also afraid of trump. stupid #cnn  invite these resist to promote him #WakeUpAmerica #fox #msnbc'", "coordinates": [-97.51982, 35.15327]}
+{"tweet": "'News and media are moths to Trump's flame.'", "coordinates": [-122.324818, 37.845953]}
+{"tweet": "'#Trump is the Anti Christ #TheBible speaks bout, its him. He the False Prophet #FACT GET YO HOUSE IN ORDER'", "coordinates": [-82.971839, 42.449927]}
+{"tweet": "'Trump got some mad supporters. I quoted him verbatim on Facebook&amp;1of his human flame throwers said I was distorting his views.@ChrisLoesch'", "coordinates": [-81.334963, 28.865276]}
+{"tweet": "'trump makes better TV, I get it. but who makes better TV isn't the criteria by which I determine who I'm voting for'", "coordinates": [-112.357999, 33.384785]}
+{"tweet": "'#ID #HI Trump will fight for 2nd Amendment! https://t.co/7RfKi5mcZh #Trump2016 #VoteTrump #MakeAmericaGreatAgain  :flag_for_United_States:'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'@mj_lee Gollygee, I must say Trump just DOES NOT GRAB ME !'", "coordinates": [-73.621179, 40.745743]}
+{"tweet": "'Trump or Hillary'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'Shame on @MSNBC &amp; @CNN for subjecting us to that rant from Trump. An edited version deleting the fluff would have lasted about 1 minute.'", "coordinates": [-74.070938, 41.127034]}
+{"tweet": "'Now @CNN is carrying a Trump interview.  You are trash @CNN ! #CNNElection'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'Come on MSM. Enough is enough, You cut off #Bernie after 2 or 3 minutes and you let the lunatic #Trump babble on ad nausseum'", "coordinates": [-122.990493, 44.909874]}
+{"tweet": "'Good grief. Hillary currently LOSING to Bernie is the STORY. Not Trump on and on and on news conference.'", "coordinates": [-122.130814, 37.678709]}
+{"tweet": "'Trump went on and on and on about how great he is, and how great his products are.  Worst infomercial ever. #NeverTrump'", "coordinates": [-93.201231, 44.422625]}
+{"tweet": "'@meetthepress @MSNBC The media is more obsessed with Trump than he is obsessed with himself. Are your rating that low?'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Glued to fox n cnn tonight for the Trump press conference... Very VERY pleased with tonight's results... MI, MS you get it #MichiganPrimary'", "coordinates": [-95.904492, 35.907134]}
+{"tweet": "'TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP:flag_for_United_States::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:TRUMP'", "coordinates": [-96.639667, 40.375437]}
+{"tweet": "'@CNN why are you giving Donald Trump so much air time?Taking questions, promoting products. :face_with_rolling_eyes: You would never do that for another candidate.'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'Wow @HillaryClinton  was speaking when @realDonaldTrump  was speaking &amp; the networks stayed with #Trump . @MSNBC  is now showing her delayed'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'I can't find a good reason people like trump lmao even optimists can't find one redeeming quality I mean he didn't always used to be crazy'", "coordinates": [-109.060257, 36.992427]}
+{"tweet": "'@realDonaldTrump if I could vote for Donald Trump  2000,000,000 timesn I would. Let's put AMERICA FIRST AND IT'S PEOPLE FORMOST.'", "coordinates": [-75.509395, 40.612311]}
+{"tweet": "'I like that CNN would rather keep its camera on Trump shaking hands than carry John Kasich live.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'update: she asked my mom if we can move to Canada if trump is elected'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'Pay attention people...NO MATTER HOW YOU SPIN IT! MORE PEOPLE ARE VOTING AGAINST TRUMP THAN FOR HIM WHO WILL NEVER VOTE FOR TRUMP!!!'", "coordinates": [-98.778559, 29.141956]}
+{"tweet": "'.Thank God I have a mute button so I don't have to listen to @FoxNews Trump cheerleaders.'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'I feel like I can't watch the news anymore. It's plastered with Trump everywhere. @CNN @FoxNews'", "coordinates": [-103.002652, 33.615765]}
+{"tweet": "'When you see Trump and Hillary winning all of the States https://t.co/SJ9XvloQwc'", "coordinates": [-97.534906, 37.562483]}
+{"tweet": "'I guessing #Christie is hiding behind the flags at the #Trump fake press room. He has the Steaks, Wine &amp; Magazine's https://t.co/h6jaqqgqvG'", "coordinates": [-96.639667, 40.375437]}
+{"tweet": "'Media desperate to prop up Cruz campaign and stop Trump: If Cruz can't win anywhere in the South, how does he win states like NY and CA?'", "coordinates": [-94.61771, 33.004106]}
+{"tweet": "'Megan Kelly is a ASS. she thinks she is smarter and better than Donald Trump. She makes fun of him all the time.I won't watch her show again'", "coordinates": [-90.256583, 30.396707]}
+{"tweet": "'@FoxBusiness @ChristiChat @realDonaldTrump this is so true. We can't speak w/o offending someone. Mr Trump make America Great Again!'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Trump a baaaaaad man'", "coordinates": [-111.979047, 33.319945]}
+{"tweet": "'Wow... that was impressive... can we just run Trump against Hillary NOW???'", "coordinates": [-96.706144, 32.829815]}
+{"tweet": "''An incredible tour of the mind', Brian Williams pretty much sums it up right after Trump' speech. #MSNBC'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Trump won Michigan and everyone is pissed :face_with_tears_of_joy:'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'Barack Obama has never once run a company in his life. Behold the media, America. #NeverTrump #NeverTheMedia https://t.co/Us6tBOkzkO'", "coordinates": [-77.393246, 38.90861]}
+{"tweet": "'@cspanwj We clearly see why corporations, &amp; Trump are scamming all working class. And, why we paid a high price following financial crash.'", "coordinates": [-111.842244, 33.204608]}
+{"tweet": "'@cnnbrk why are you covering Trump for an hour?'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'As much as the Republicans don't like Trump, they're drowning out the Democrats heading into the general election.'", "coordinates": [-89.429427, 48.289211]}
+{"tweet": "'@LindaSuhler They gonna try &amp; burn the house down. They cant &amp; wont be able to control Trump. Its just eating them up with hatred.'", "coordinates": [-94.880809, 29.239602]}
+{"tweet": "'Trump rambled long enough to make sure no network covered Hillary Clintons speech in Cleveland. MSNBC now showing on u201ctape delayu201d #2016.'", "coordinates": [-75.039613, 39.834103]}
+{"tweet": "'This is the most 'presidential' Trump has sounded. It's time to unite behind him, Republicans. Take the fight to Hillary instead!'", "coordinates": [-122.638568, 47.063747]}
+{"tweet": "'Big Trump win tonight https://t.co/hJIFuXUEym'", "coordinates": [-84.710722, 39.052962]}
+{"tweet": "'if trump gets elected then I think I'd be okay with this  https://t.co/n3f1r8Q3K7'", "coordinates": [-97.186747, 32.530915]}
+{"tweet": "'@Channel955 donald trump winning michigan got me like https://t.co/8BoZrHJWEA'", "coordinates": [-83.086881, 42.447289]}
+{"tweet": "'@KevinWGlass @JimPethokoukis @mVespa1 Trump knows more about the Economy than any politician.  Bring jobs home!'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'@tristanreveur Trump is doing well so I'm pinning this.'", "coordinates": [-122.514926, 37.708075]}
+{"tweet": "'@FoxNews @realDonaldTrump No One really knows what TRUMP is - In business terms , he is HIGH RISK- Do Not use until vetted - BAD CALL !'", "coordinates": [-75.724892, 39.761505]}
+{"tweet": "'whoever punches trump in the face first wins my vote'", "coordinates": [-80.203991, 26.320692]}
+{"tweet": "'Frickin Donald trump...... :face_with_rolling_eyes::face_with_rolling_eyes::face_with_rolling_eyes:'", "coordinates": [-83.447749, 42.702516]}
+{"tweet": "'#ID #HI Trump is STRONG on immigration! https://t.co/fNVzdjZapK #Trump2016 #VoteTrump #MakeAmericaGreatAgain :flag_for_United_States:'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'@Jamie_Weinstein please, Cruz or Trump would spell an election disaster come Nov. Only Rubio,or Kasich could competencies the democrats'", "coordinates": [-80.517383, 25.403767]}
+{"tweet": "'I mean, I would understand a little carrying Trump for 45 minutes if he gave a good speech, at least.'", "coordinates": [-76.353876, 44.961937]}
+{"tweet": "'@CNNPolitics @NBCNews Why does every news outlet give Trump all the TV time? How about equal time to other candidates? Shallow reporting.'", "coordinates": [-94.61771, 33.004106]}
+{"tweet": "'@therealhayls I'm not a fan of anyone. But a world where Donald Trump is leading the GOP is a world I really don't like.'", "coordinates": [-79.987463, 39.584088]}
+{"tweet": "'Trump blows all the naysayers away... unites party and states 'no more political correctness!' Very presidential tonight!'", "coordinates": [-103.002652, 33.615765]}
+{"tweet": "'The media should be pretty ashamed of themselves for covering the shameless and disgusting self-promotion of Trump. #ImWithHer #ShesWithUs'", "coordinates": [-77.601044, 37.447046]}
+{"tweet": "'There was a legit trump supporter at school today :face_with_rolling_eyes:'", "coordinates": [-117.524329, 34.033432]}
+{"tweet": "'@realDonaldTrump is nothing but a disgusting freak show! #NeverTrump  https://t.co/FAhEfA9O7Z'", "coordinates": [-92.092994, 34.140549]}
+{"tweet": "'Trump-the Vince McMahon of politics-Not a Politician,a political entertainer.@JohnAvlon @LizMair @MargaretHoover @JFKucinich @TheJimCornette'", "coordinates": [-77.786448, 39.592419]}
+{"tweet": "'Trump won Michigan. Trash ass state'", "coordinates": [-84.386548, 30.365093]}
+{"tweet": "'How can anyone listen to that meaningless Trump BS, and want to make him President of this country!?'", "coordinates": [-77.144435, 38.789907]}
+{"tweet": "'@KatrinaNation @ARTSYJUDITH / Is this the best use of an FCC license? We don't need to see a #Trump infomercial.'", "coordinates": [-71.255046, 42.598237]}
+{"tweet": "'@StuPolitics Golly, only BBC World News is Trump-free for the most part !'", "coordinates": [-73.621179, 40.745743]}
+{"tweet": "'Trump's hair almost looks skrillex like there. #SuperTuesday'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'@OnionRolls @owillis @thegarance and Hillary will get the same.  Problem is, truth doesn't phase Trump or his followers.'", "coordinates": [128.511925, 35.872408]}
+{"tweet": "'@TheStalwart When #Trump says so!!'", "coordinates": [-80.321683, 25.70904]}
+{"tweet": "'@DLoesch 70 years old. Are you talking about Trump's penis?'", "coordinates": [-96.938694, 32.895548]}
+{"tweet": "'Im glad my husbands out of the army and done with deployments....id refuse to fight for a country wherr trump is president!'", "coordinates": [-85.782295, 42.85341]}
+{"tweet": "'@Margaretherapy nTrump = Pro-Corporations. nCorporations own 90%+ of MSM.nMSM = propaganda machine for billionaires. https://t.co/ZeUqI87Rsx'", "coordinates": [-88.151554, 41.814328]}
+{"tweet": "'@cait_scan cannot mince words here, people who vote for trump are either uninformed, ignorant, bigots, or all three'", "coordinates": [-83.202957, 42.220851]}
+{"tweet": "'Hopefully Ohio will be the smart state and vote Kasich over Trump...'", "coordinates": [-83.200169, 39.832013]}
+{"tweet": "''Someone just needs to shoot Donald trump.' -mom'", "coordinates": [-83.308978, 42.181294]}
+{"tweet": "'@ron_fournier I can't figure out who should be more embarrassed by this Trump?'", "coordinates": [-116.421818, 33.670765]}
+{"tweet": "'Trump's finally given me a phrase I've been trying to articulate for a few years now. One silver lining out of his campaign.'", "coordinates": [118.126161, 21.754958]}
+{"tweet": "'This we know...Trump REALLY, REALLY, REALLY, REALLY, REALLY likes @PaulONeillYES'", "coordinates": [-84.64717, 39.350135]}
+{"tweet": "'@KatiePavlich #Trump won two States so far tonight. Even .@megynkelly said WOW Trump did good tonight'", "coordinates": [-111.960775, 33.435864]}
+{"tweet": "'They really about to have trump in the White House.'", "coordinates": [-81.784442, 28.492504]}
+{"tweet": "'@MissYankee yeah endorsing Trump. No way buddy. Trump is an orange piece of :pile_of_poo:'", "coordinates": [-73.6611, 40.612083]}
+{"tweet": "'Really seriously, why hasn't someone assassinated Trump yet.'", "coordinates": [-85.648591, 42.150587]}
+{"tweet": "'Donald trump to win big in michigan? Wow. What is life? @realDonaldTrump'", "coordinates": [-83.095428, 42.623997]}
+{"tweet": "'@OneMadMomBlog @ChrisLoesch @CaseyParksIt @LuvCurlin Cruz can't beat Trump in Florida because of early voting. Rubio only chance to stop him'", "coordinates": [-88.097892, 37.771743]}
+{"tweet": "'I don't understand why anyone would want to vote for Donald trump'", "coordinates": [-75.788756, 38.45104]}
+{"tweet": "'It's #HUGE #Trump wins #MichiganPrimary &amp; #Mississippi @Fox26Houston https://t.co/zoF9MY5Ftq'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'Remember, not all @realDonaldTrump supporters are white supremacists. But all white supremacists are Donald Trump supporters.'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'@MedvedSHOW @Allibiis Trump is beating TWO sitting senators, Bernie is beating a damaged candidate with minimal accomplishments'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'So #MSNBC tape delayed #Hillary speech abt country so we could hear #Trump talk abt his underwear, hand size, steaks, bldngs'", "coordinates": [-105.301776, 39.953552]}
+{"tweet": "'Just finished watching Donald Trump in his projected win in Michigan speech. This guy a norcistic egomaniac. This man is a total idiot.'", "coordinates": [-86.348441, 39.631677]}
+{"tweet": "'@CorieHaynes I watched John Oliver's show the other night about Trump. Every one considering him should watch that episode. Very scary.'", "coordinates": [-90.135782, 34.994192]}
+{"tweet": "'.@davidaxelrod on Trump's speech tonight: 'People probably thought they were tuning into the Home Shopping Network.''", "coordinates": [-75.130194, 39.698642]}
+{"tweet": "'@SenSanders maintains a lead in Michigan, but @nytimes stories are all Trump and Clinton.  #Michigan Primary'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'In Room Dining Server - Trump Hotels: (#Vancouver, BC) https://t.co/e0tpStA7UF #Hospitality #Job #Jobs #Hiring'", "coordinates": [-123.224215, 49.19854]}
+{"tweet": "'Notice @MSNBC @CNN and others..Their Attention is On Trump b/c he could say or do anything...He Could Do Anything As #POTUS Even Bad Things!'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'@SpeakerRyan WE AGREE BUT WITH TRUMP!'", "coordinates": [-85.515405, 31.130472]}
+{"tweet": "'Trump V Bernie, The Debate! (@ Neptune Theatre - @stgpresents in Seattle, WA) https://t.co/YCRdpDLmhB'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'Donald trump supporters make me sad it must be hard being that stupid'", "coordinates": [-158.044905, 21.303603]}
+{"tweet": "'The Republicans keep pumping Super PAC money to take down Trump. It isn't working. Save the money to beat Hillary. #SmartenUp'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'#DonaldTrump Mr. Trump, you have created a great US Family. Stop talking about I, I, I and change it to WE. We are going to start WE, WE.'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'@RSBNetwork @realDonaldTrump @YouTube This is OUR New Movement! Thank you Donald Trump!'", "coordinates": [-86.25064, 39.529358]}
+{"tweet": "'DONALD TRUMP IS ROARING TO THE WHITE HOUSE! https://t.co/V0wHp6tMjk'", "coordinates": [-77.266126, 38.755163]}
+{"tweet": "'@MurphyFerguson @GABrownsGuy actually not true. Trump has surged against Hillary recently'", "coordinates": [-81.716475, 41.090514]}
+{"tweet": "'@iamsummerjackie I couldn't open it. I will keep trying. Did Carson say he supported Trump for President?'", "coordinates": [-88.097892, 37.771743]}
+{"tweet": "'Mitt Romney lies about #Trump's 'failed businesses.'nnThe media doesn't fact check. nnDonald lines his stage w/ #Trump products. nnAmazing.'", "coordinates": [-89.853527, 30.235705]}
+{"tweet": "'I don't golf, I am a vegetarian, I don't need a fake degree, I like books, I can't vote in US and I like tap water. I can't boycott Trump.'", "coordinates": [-88.026334, 42.028374]}
+{"tweet": "'If this whole election comes down to either Trump or Clinton as our choices.. we're doomed as a country.'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'Ain't no way Michigan got trump votes'", "coordinates": [-82.968959, 42.479787]}
+{"tweet": "'CNN analyst on Trump speech: 'That was an inappropriate infomercial.'nI'd say that's on CNN for taking it and not Trump for talking.'", "coordinates": [-88.070827, 42.920822]}
+{"tweet": "'Hillary's speech is shown on tape delay so we can listen to Trump call his opponents names and then insult the press. #NotPresidential'", "coordinates": [-77.019229, 39.355156]}
+{"tweet": "'@VanJones68 It's a free country &amp; Trump can speak abt anything he likes at HIS victory speech. You're inappropriate Van Jones and irrelevant'", "coordinates": [-88.301598, 30.523874]}
+{"tweet": "'Almost content with Trump winning the presidency because you know it will blow up in his face and demand revolution. The wildfire effect.'", "coordinates": [-85.649338, 42.288789]}
+{"tweet": "'Listening to Donald Trump is literally the same thing as listening to that one older fairly racist relative... &amp; people are voting for him:skull:'", "coordinates": [-83.823194, 42.50733]}
+{"tweet": "'@CNN Trump was talking about his products to refute the attacks against eg. Trump water, Trump steak, Trump U, etc. Not an infomercial!'", "coordinates": [-79.639319, 43.403221]}
+{"tweet": "'LMAO Trump :flag_for_United_States::earth_globe_asia-australia: https://t.co/yQ3Y7avRCN'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'Trump just paving the way for Hillary'", "coordinates": [-79.007589, 35.866334]}
+{"tweet": "'Geez MSNBC. First Trump on and on. Now Hillary...you're killing me. #UnidosConBernie'", "coordinates": [-106.791691, 35.015891]}
+{"tweet": "'Mr. Trump doesn't attempt to manipulate, misdirect you every time he opens his mouth, like politicians do. https://t.co/Cns5NLvQMT'", "coordinates": [-122.069956, 37.454962]}
+{"tweet": "'But I thought my Toyota was built in Mississippi. #Trump'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'The US was going that way anyway and Trump just hitched a ride. https://t.co/njN3CzrnOc'", "coordinates": [-89.57151, 36.497129]}
+{"tweet": "'Trump takes Michigan &amp; Mississippi proving again Candy Cruller Crowley has more influence in Republican party than loser @MittRomney'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'@leamazy38 @TheLastWord @maddow I Googled 'Where to buy' each Trump product he talked about tonight They aren't available anywhere LOL 1/2'", "coordinates": [-109.060257, 36.992427]}
+{"tweet": "'Even after the media (arguably the most powerful influence on the people) lies about trump.. He still wins:smiling_face_with_sunglasses::money-mouth_face::skull: #fuckyouifyoudontwanttrump'", "coordinates": [-82.976654, 42.627801]}
+{"tweet": "'Trump look like he can't spell Mississippi'", "coordinates": [-97.187543, 33.128938]}
+{"tweet": "'@gravestonedoji If you are watching MSNBC, this speech plays better in OCT than what Trump is saying'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'It just makes me so angry people are actually supporting trump. I'm sure there were other better candidates on the republican side.'", "coordinates": [-83.447749, 42.702516]}
+{"tweet": "'If you think about it, I bet anyone who supports trump honestly thinks Cruz is the Zodiac idk'", "coordinates": [-93.275728, 44.059273]}
+{"tweet": "'Liars, you pushed trump down our throat. https://t.co/ToKRNQolC5'", "coordinates": [-88.070827, 42.920822]}
+{"tweet": "'We should dispel with the notion that Donald Trump doesn't know exactly what he's doing. He's using basic psychological tricks in his....'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'So he could slap his meat in there lying faces@Ricky_Vaughn99 @Lrihendry @joshdill64 @realDonaldTrump @WDFx2EU  https://t.co/BT6QMykeNL'", "coordinates": [-82.644739, 37.201483]}
+{"tweet": "'STUPID @CNN ! Trump's products on display at the press conference was to counter Romney's comments about his companies! QUIT the spin!'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'Romney the one to bring up Trump steaks, magazine and booze... Now cable gives him 1 hour to respond. #Election2016 #Mittens'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'@FoxNews @realDonaldTrump I like this guy more everyday... time we all unite behind Trump!'", "coordinates": [-103.002652, 33.615765]}
+{"tweet": "'Trump won in the Michigan Primaries. This is NOT OKAY. His candidacy is not funny anymore, this is getting serious'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'@Jimmy_Webber1 @mattdpearce U HVE BEEN HUSTLED TRUMP JUST EMBARRASED THE WHOLE PARTY #UNPROFESSINAL'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'I can't believe @CNN spent so much air time on Donald Trump's ridiculous and repetitive speech. @VanJones68'", "coordinates": [-96.806031, 40.710053]}
+{"tweet": "'@fivefifths @itsRodT going for the Trump vote?'", "coordinates": [-80.986841, 28.987795]}
+{"tweet": "'Trump knows how to build things including wealth and the Republican party So say thank you Donald'", "coordinates": [-81.631799, 40.732694]}
+{"tweet": "''How can so many people be voting for Donald Trump?'nnSome men just want to watch the world burn. https://t.co/yOUd4b4CIs'", "coordinates": [-81.895498, 26.564625]}
+{"tweet": "'Guess it's coming down to Trump or Clinton FML'", "coordinates": [-122.734598, 45.693162]}
+{"tweet": "'#trump used his German salute send massage to ks that he is with them in heart even though is forced to deny. them #WakeUpAmerica #cnn #fox'", "coordinates": [-97.51982, 35.15327]}
+{"tweet": "'Trump taking names in Michigan ! https://t.co/yTWqR22Ufq'", "coordinates": [-77.266126, 38.755163]}
+{"tweet": "'@ZacharyT123 Nope. Care more about slowing Trump than about relatively minor diffs between Dems.'", "coordinates": [-83.800262, 42.215087]}
+{"tweet": "'@VanJones68 Trump was taking apart @MittRomney criticism about his business dealings, not pushing his products.'", "coordinates": [-117.277932, 34.032777]}
+{"tweet": "'All y'all saying y'all moving out the country if Trump wins, shut y'all soft asses up we ain't going no fucking where:smiling_face_with_horns::pistol::hocho:'", "coordinates": [-83.202528, 42.444886]}
+{"tweet": "'@FoxNews @realDonaldTrump @marcorubio for sure, save face for later in career #Rubio should drop out before loosing Florida'", "coordinates": [-109.060257, 36.992427]}
+{"tweet": "'Subscribing all my friends to Donald Trump's text messages.'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'All states he would get crushed vs. Trump https://t.co/PCsLemkT5S'", "coordinates": [-80.517383, 25.403767]}
+{"tweet": "'Trump plays with media like a preschooler with play-doo @nprpolitics @FoxNews @CNN @AC360 #infomercial #DumpTrump'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'#trumpsteaks #trump water #trumpwine and bringing Merry Xmas back? Trump is a media genius. @GrantCardone'", "coordinates": [-97.20323, 32.914293]}
+{"tweet": "'@guypbenson I got trump water its great Romney is a Liar also'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'So all those that were saying cruz and Rubio were gonna beat Trump pfft.  Losers. #OnlyTrump  https://t.co/cki6SRLC9D'", "coordinates": [-79.06754, 33.614208]}
+{"tweet": "'Are the news networks going to have a commercial break during this speech?! I gotta pee! #CNNElection #MSNBC #Trump'", "coordinates": [-81.98075, 41.314081]}
+{"tweet": "'I should be stunned that Trump is winning, but I live in Arizona and the idiots out here vote for racist Arpaio. America is becoming shit.'", "coordinates": [-111.979047, 33.319945]}
+{"tweet": "'@doozerblake @morinap @Schultz975 they are special trump glasses'", "coordinates": [-86.241245, 39.926048]}
+{"tweet": "'Trump running away with this election shit and niggas ain't gone do nothing but ask why he winning on twitter lmaoooooo'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'Michigan Primary 43% reportingnTrump- 37% (240,977)nKasich- 25.5% (166,293)nCruz- 23.8% (155,075)nRubio- 9.1% (59,287)n#SuperTuesday2'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'y'all really gonna leave Trump or Clinton to run our nation, come on America.... you gotta do better than that!'", "coordinates": [-84.320149, 43.574381]}
+{"tweet": "'I'm begging u #CruzCrew Patriots to convince @tedcruz to push for Trump/Cruz2016 &amp; Cruz/???2024 &amp; take back America!nn#MakeAmericaGreatAgain'", "coordinates": [-79.487651, 37.886607]}
+{"tweet": "'@CNN thanks for covering the whole Trump speech. Tell @VanJones68 we like hearing a businessman refute false charges of his biz's failing.'", "coordinates": [-88.121362, 42.168361]}
+{"tweet": "'Poor rejected loser @CarlyFiorina is still stalking @HillaryClinton. As Trump would say: SAD! Go away. #ImWithHer https://t.co/2ZK1719CSp'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'@maddow cant understand how Trump is so popular when her entire show slot is devoted to him talking about how great he is #YourBiasIsShowing'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@chefcharming thanks.. I wish he'd not been frozen out of tv coverage (you might not agree but he was/is) for Rubio/Trump.'", "coordinates": [-83.353955, 32.04683]}
+{"tweet": "'you cant trump this https://t.co/L9OJnFopKu'", "coordinates": [34.266924, 29.393973]}
+{"tweet": "'Trump lowkey changing politics tho'", "coordinates": [-79.007589, 35.866334]}
+{"tweet": "'@dustypoker obviously you like riding Trump's small dick. Enjoy'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@DavidMDrucker Hey, at least I've got Bill &amp; Ted til the Trump speech is over'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'@keithmarkmra @DonaldJTrumpJr @seanhannity @realDonaldTrump Trump is a smart man and evaluates advice.'", "coordinates": [-117.117116, 32.582128]}
+{"tweet": "'Trump running for president still seems like a joke'", "coordinates": [-91.774579, 41.886245]}
+{"tweet": "'@kuhns34 if you support trump you are a piece of shit'", "coordinates": [-84.348497, 33.799908]}
+{"tweet": "'@dinocleveland talk about Trump overload just ridiculous'", "coordinates": [-81.785322, 41.264708]}
+{"tweet": "'@Altraider 1) So consider how much we suck now...and picture that windbag #Trump in Obama's spot. Trump hates China... @AlistairAMoffat'", "coordinates": [-124.848975, 45.543542]}
+{"tweet": "'Struggling to find the comp for that Trump victory speech. Ron Jeremy meets Stalin?'", "coordinates": [-74.107995, 40.666879]}
+{"tweet": "'Why, it's not live, you showed trump. I guess you were looking for rating over substance #Decision2016  https://t.co/DMg06W3TDO'", "coordinates": [-122.294205, 47.884492]}
+{"tweet": "'Trump won Michigan. What's wrong with you fools.'", "coordinates": [-83.333387, 42.705867]}
+{"tweet": "'@KatiePavlich Trump carries.'", "coordinates": [-95.774704, 35.995476]}
+{"tweet": "'@Brannon1066 @JayS2629 Trump is right!'", "coordinates": [-103.002652, 33.615765]}
+{"tweet": "'@ken_richardson_ Thank You For Following #FellowTrumpSupporter We Need To Keep Up The Good Fight Or The #USA Will Be No More W/O #TRUMP :flag_for_United_States:'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'CNN: We can only accT 4 $800k of the $6 MILLION Trump PROMISED would go to Veteran groups https://t.co/whK403wmW7nDT IS SELF FUNDING HIMSELF'", "coordinates": [-119.321696, 34.23444]}
+{"tweet": "'I woke up. Trump was talking. Took a shower dressed up. Trump was still talking. Left the house. Trump was still talking. Sigh.'", "coordinates": [36.664573, -1.389053]}
+{"tweet": "'@CNN is now talking about #Trump2016 sounding conciliatory. As if people are just going to forget his horrible words https://t.co/z7rnfjOKMI'", "coordinates": [-88.070827, 42.920822]}
+{"tweet": "'@freddiedeboer Bush won 100% of Florida's votes in a practical tie, Trump could take all of Florida. Electoral college &lt; Simple majority.'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'That entire Trump victory speech was an infomercial. This is astounding.'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'Mr Trump, don't count Michigan as 'red' State in the general. Ur damaged policies leave behind to many Blacks, Women, &amp; immigrants.'", "coordinates": [-86.005464, 37.749997]}
+{"tweet": "'@ChrisStirewalt @HowardKurtz U can't stop Trump , That swoosh you heard is your @GOP consultant fees going down the drain.'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'Politics aside, Trump failed at making successful vodka while there are people out there essentially drink rubbing alcohol like Burnetts'", "coordinates": [-87.022482, 35.994568]}
+{"tweet": "'Hey @FoxNews and @cnn - your decision to carryi 40 minute Trump infomercials is why I'm done with Cable News'", "coordinates": [-111.972849, 33.203761]}
+{"tweet": "'I've been saying this since July. It's going to be Trump. Hold on to your butts.'", "coordinates": [-122.240397, 47.642154]}
+{"tweet": "'Donald Trump is building an army of Zombies.'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'Waiting for April 1st when Trump is like April fools y'all actually were gonna let me be president lol at you'", "coordinates": [-84.759213, 38.020451]}
+{"tweet": "'@get2thegulch @KatyinIndy @schmiedsrr I think that if Trump had run as a Democrat he'd have already locked up the nomination.'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'Not watching @MSNBC or @CNN because of their fawning over #trump  https://t.co/UcaxIwe7LE'", "coordinates": [-74.25136, 40.679997]}
+{"tweet": "'The most frightening thing about #Trump's success is that so many millions of Americans would entrust a guy w/the language of a 5 year old'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Donald trump wins again!! :flag_for_United_States::flag_for_United_States::flag_for_United_States:'", "coordinates": [-82.500115, 41.676525]}
+{"tweet": "'please, please stop Trump. (I added the second please for emphasis) https://t.co/kSME4bnYiH'", "coordinates": [-84.346471, 39.922831]}
+{"tweet": "'If I had to choose Leslie Nope or Donald trump I'd pick Leslie fo sho'", "coordinates": [-73.31844, 40.684315]}
+{"tweet": "'@85thpatriot I'm supporting @marcorubio bc he's the only candidate in the race that is a true republican. I won't vote for Cruz or Trump'", "coordinates": [-76.991983, 38.22951]}
+{"tweet": "'#Trump: 'I can be more presidential than anyone,' like 'Abraham Lincoln' https://t.co/LcJomNnNgc'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@CJC_11 you're right, having an opinion is anti-American. Is that a Trump policy?'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'The Hillary Democratic Party has SHIT :pile_of_poo::pile_of_poo: the bed! Low turnout &amp; @realDonaldTrump has exploded the Republican base! https://t.co/WRqZezkjog'", "coordinates": [-97.512109, 32.647286]}
+{"tweet": "'LOVE IT!! #Trump2016 #MakeAmericaGreatAgain #TrumpForPresident2016 #TrumpTrain #WeLoveTrump #PresidentDonaldJTrump  https://t.co/Ib4Fkw1X17'", "coordinates": [-98.778559, 29.141956]}
+{"tweet": "'I cannot believe Trump won Michigan...'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'Unlike the loser #MittRomney who lost to Obama &amp; he helped create Isis by that loss. Go #Trump!!  https://t.co/s3EyKbcEKL'", "coordinates": [-111.960775, 33.435864]}
+{"tweet": "'@TedHamer1 @ruralmidiowa Establishment has to immediately back Cruz.  If not,  Trump wins'", "coordinates": [-96.639667, 40.375437]}
+{"tweet": "'@ChrisStirewalt That's just it. He defends what's HIS. If he's Pres, America is his. Lord help anyone who pokes it. #Trump'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'Okay so, if Kasich and Rubio does not drop out, then the Republican Party can decide to do a brokered convention to block a Trump nominee?'", "coordinates": [-95.774704, 35.995476]}
+{"tweet": "'Trump wins MI, no one I know admits voting for him, proving this: People are far more comfortable being racist than they are admiring it.'", "coordinates": [-85.782295, 42.85341]}
+{"tweet": "'Can not believe they didn't cut away from nut case Trumpfomercial to listen to Clinton's speech for winning Mississipi. #CNN Shame on u'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'.@ChrisStirewalt Uh, maybe you cd mention #Trump's remarks on #China, #trade &amp; #jobs?  Surely explains lots of the #MichiganPrimary result.'", "coordinates": [-79.487651, 37.886607]}
+{"tweet": "'Can only imagine the ratings winner Hitler would have been for cable news. @CNN @FoxNews @MSNBC #Trump'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Trump's performance has made choosing Julian Castro small potatoes, IMO.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@ArleneMartin @IngrahamAngle   yes, I was wondering about Trump wine!'", "coordinates": [-94.61771, 33.004106]}
+{"tweet": "'Strange, rambling #Trump speech goes on and on, @CNN's Van Jones calls it an 'infomercial' for the Trump brand. https://t.co/qiDAVNKk2U'", "coordinates": [-92.889433, 42.491921]}
+{"tweet": "'Oliver (12): Mom, what country are we moving to if Trump wins?''", "coordinates": [-117.904717, 33.77319]}
+{"tweet": "'@kelleyh1961 @slone @Heisthetruth1 @LindaSuhler @realDonaldTrump &amp; just said wouldn't vote for Trump would sit out if T nominated-scumbag'", "coordinates": [-179.231086, 13.182335]}
+{"tweet": "'Awesome trump won michigan'", "coordinates": [-81.498112, 40.767243]}
+{"tweet": "'The fact that so many people support Donald trump is horrifying'", "coordinates": [-71.216165, 41.595978]}
+{"tweet": "'@amandacarpenter nnIts like logic is backfiring. Trump is a total phoney. Weird'", "coordinates": [-124.848975, 45.543542]}
+{"tweet": "'Death threats, vitriol all in a day's work to block Trump's path to nomination https://t.co/HlRxDrqcGH via @USATODAY @scrippsiij'", "coordinates": [114.141298, 22.344083]}
+{"tweet": "'The media is controlled by people who like making money. Of course they show Trump. Rather you like him or not... He gets the ppl going...'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'@realDonaldTrump Mr Trump please tell all your extreme compassion made to the families of that horrible helicopter disaster Truth be told !'", "coordinates": [-78.429385, 40.400965]}
+{"tweet": "'@SteveForbesCEO Rubio must get out and unite with Trump. A Trump/Rubio ticket would be unbeatable!'", "coordinates": [-77.287868, 38.893115]}
+{"tweet": "'GOP Presidential front runner Donald Trump retook the Top Spot in the latest national NBC News/Wall Street Journal poll on Tuesday'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'so much for peak Trump'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@Lorietha313 Absolutely. I'm just surprised there was so much support for Trump among the Republicans in the area.'", "coordinates": [-83.200169, 39.832013]}
+{"tweet": "'A question: Has Palin made a Trump appearance since her endorsement? Or was her speech too disturbing for Team Trump?'", "coordinates": [-84.596805, 33.895088]}
+{"tweet": "'@killingxmoon @LegionOfChris @SusanLeigh11 @JenniferShutt um no I am not but I love the lame assumption that I am a trump supporter 1/2'", "coordinates": [-114.818269, 31.332246]}
+{"tweet": "'He seems like he still can't believe he lost to Obama and now Trump making a better go for it than he did.  https://t.co/AhWGCICmRp'", "coordinates": [-73.388984, 41.094742]}
+{"tweet": "'@realDonaldTrump winning, @CNN, @BBC in mourning @WyreDavies  https://t.co/rOgs2YEcvt'", "coordinates": [150.520929, -34.118347]}
+{"tweet": "'Trump's amendment to #HB4013 would discriminate against new people, younger people, people who have moved. #wvlegis #wvpol'", "coordinates": [-81.707175, 38.293241]}
+{"tweet": "'@keithboykin I think he's Trump's prisoner'", "coordinates": [-93.265663, 43.097335]}
+{"tweet": "'@thadachek alas that is still Trump. I always enjoyed politics until this ass came along and energized our crazies'", "coordinates": [-91.51308, 36.970298]}
+{"tweet": "'I like how Hillary is ACTUALLY addressing issues unlike Trump'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Which would you rather drink, Trump wine or Flint tap water? Both poisoned by Republicans. https://t.co/vn8KGz4oxT'", "coordinates": [-92.063001, 30.037609]}
+{"tweet": "'@alex only Trump knew this would happen'", "coordinates": [-122.514926, 37.708075]}
+{"tweet": "'@jbarro Also, COMPLETELY anecdotal but I have a lot of friends who took advantage of open MI primary to vote republican/Trump to help Dems.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@Thebeast_ufc @NateMillerMMA @ufc shouldn't you be packing your bags gunsmoke? looks like Trump's on his way to getting the nomination'", "coordinates": [-87.079237, 5.286348]}
+{"tweet": "'Exactly! Dems voting in open primary to ruin GOP and give rise to this a**!!Primaries should be closed! #NeverTrump  https://t.co/5TKbwxdRO7'", "coordinates": [-79.06754, 33.614208]}
+{"tweet": "'Wow @marcorubio under 5% in Mississippi! Complete and utter implosion! Drop Out! Endorse Trump! Save your Career!'", "coordinates": [-99.835853, 32.321246]}
+{"tweet": "'Fox is working hard to divide the republican party...let's all come together.  Let's win THE WHITE HOUSE! #Trump'", "coordinates": [-95.178987, 29.438994]}
+{"tweet": "'screw @CNN, switch to @MSNBC to listen to @HillaryClinton .   CNN gave Trump over 30 minutes talk time.  #VettingTrump @elidaalonso53'", "coordinates": [-114.818269, 31.332246]}
+{"tweet": "'Who was woman with weird, very loud laugh at tonight's Trump's pressor? #Trump2016#GOP'", "coordinates": [-86.869446, 35.939893]}
+{"tweet": "'Trump just said he loves Florida....'", "coordinates": [-82.527472, 27.996725]}
+{"tweet": "'Trump is a square peg who wants to fit in a round hole.  435 voting members of US House, 100 Senators won't be easily persuaded.'", "coordinates": [-85.659493, 38.011877]}
+{"tweet": "'@FoxNews come on guys..give credit where credit is due. Let's give Trump accolades....not left handed compliments @realDonaldTrump'", "coordinates": [-84.419128, 33.971999]}
+{"tweet": "'Trump news conference was like a gong show.'", "coordinates": [-53.273992, 47.714901]}
+{"tweet": "'@killingxmoon @LegionOfChris @SusanLeigh11 @JenniferShutt do you think everyone disagrees with you votes trump. Judgmental much? #fail'", "coordinates": [-114.818269, 31.332246]}
+{"tweet": "'i dream of the day prez trump trashes justin trudeau, hillary, and rosie all in one speech.'", "coordinates": [-77.172219, 38.827378]}
+{"tweet": "'How stupid is the black dude? Salesmanship is inappropriate?#Politics is #salesmanship. Selling ur ideas 2 the #ppl &amp; #congress.#CNN :white_smiling_face:#Trump'", "coordinates": [-111.083219, 32.057802]}
+{"tweet": "'Trump wins MI, no one I know admits voting for him, proving this: People are far more comfortable being racist than they are admiting it.'", "coordinates": [-85.703328, 42.805038]}
+{"tweet": "'When trump wins the gop election in your state https://t.co/QD2DEVTgCN'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'And here comes the pundents! Trump Stakes'", "coordinates": [-95.904492, 35.907134]}
+{"tweet": "'Larosa just roasted the girl who said she doesn't like me cause I like trump'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'@DavidMDrucker Hey, at least I've got Bill &amp; Ted til the Trump infomercial is over'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'Tell me my vote won't count all day but I will assure you I vote third party before I vote Trump or Hillary.'", "coordinates": [-90.181179, 32.399351]}
+{"tweet": "'Go Trump !!!!! https://t.co/yu0l1Lqd6K'", "coordinates": [-97.8817, 30.455536]}
+{"tweet": "'My 10 year old just saw Donald Trump on tv &amp; said, with a straight face, 'That man is as orange as a circus peanut.' #FunnyKid #Decision2016'", "coordinates": [-88.481796, 42.120368]}
+{"tweet": "'@Twin66 I hate trump what r u talking about. He will be terrible but he won't win Pres anyway'", "coordinates": [-93.602208, 44.900569]}
+{"tweet": "'@realDonaldTrump you're a Conman-Trump water, steak,magazine,university, vitamin scheme,are scams. Out of biz. Stole money. #anyonebutrump'", "coordinates": [-87.995118, 42.129664]}
+{"tweet": "'Trump Steaks, for when you are like: 'You know what would make a steak tastier? If Trump's name was on the package!''", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'Inbox from pro-Sanders Dem: 'Why is the media giving Trump a one hour infomercial when there's a cliff-hanger on the Democratic side?''", "coordinates": [-77.248462, 38.971077]}
+{"tweet": "'@M_Tarar @AsNr80 problem isn't Trump, it's white supremacist racist America now being open. KKK rallies happening, anti-muslim rallies'", "coordinates": [-95.686106, 29.543372]}
+{"tweet": "'@phoefgen There is a tide in the affairs of men.nWhich, taken at the flood, leads on to fortune...nnLike him or hate him, Trump's the man.'", "coordinates": [-123.394397, 48.403014]}
+{"tweet": "'@toddstarnes it's clear what's happening here. The dems are voting for Trump AND Rubio is hurting Cruz.'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'Of course  Mississippi chose #Trump  to them he is O,KKK #Racism #KKK'", "coordinates": [-82.259333, 34.76677]}
+{"tweet": "'#ID #HI Join #MI &amp; #MS by voting Trump and kicking some Cruz/Rubio butt! #Trump2016 #VoteTrump #MakeAmericaGreatAgain :flag_for_United_States:'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'Why do they say Trump is doing an infomercial on his products?  He was defending himself against Romney's attacks of failed businesses!!!'", "coordinates": [-72.703482, 42.162001]}
+{"tweet": "'@Red4Jacob I'm happy someone is challenging hillary,  but don't think Bernie is the answer.   Not Trump,  either.'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'@danieltosh why didn't you come protest Donald Trump at UCF the other day?'", "coordinates": [-81.648788, 28.518918]}
+{"tweet": "'@CNN can't believe you only showed the Trump Speech &amp; nothing from Hillary! We'd get more democrat info from @FoxNews'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'Trump is Hitler'", "coordinates": [-119.384597, 36.150891]}
+{"tweet": "'Trump Making Fun of Others Who Do Not Use Vulgar Language...And People Want Him 4 #POTUS. Shameful! #NeverTrump'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'@docrocktex26 We know what they're doing. If Trump ain't the nominee, there go the ad $$. Cruz is too frightening 4 all that free air time.'", "coordinates": [-76.448383, 36.66]}
+{"tweet": "'@mkhammer @MattWelch @BernieSanders I thought it was the Trump Steaks and Vodka.'", "coordinates": [-111.894548, 33.306275]}
+{"tweet": "'@MonicaCrowley Who wants 2Listen 2LIAR! @Donald Trump is HonestMan! Must tone down his Insults&amp; attacks but tonight he was as Honest as Abe!'", "coordinates": [-74.645975, 40.764301]}
+{"tweet": "'I've had this weighing on my mind for a couple wks - :downwards_black_arrow:ufe0f in dem turnout = :upwards_black_arrow:ufe0f in GOP turnout - It's Dems voting Trump https://t.co/EfJQwC22BW'", "coordinates": [-118.379086, 46.022857]}
+{"tweet": "'When you realize Trump will likely be the next president... https://t.co/LMyLyw049X'", "coordinates": [-88.748066, 37.140748]}
+{"tweet": "'Whatever pissed off Trump, the use of 'young man' to deride the reporter. He's not talking about callowness, he's threatened.'", "coordinates": [-77.172219, 38.827378]}
+{"tweet": "'YOOOO FR GUYS STOP VOTING FOR TRUMP ?????? wyd ?'", "coordinates": [-84.63184, 42.618566]}
+{"tweet": "'Y'all wanna talk about being nice to everyone, and how to only uplift people. Yet you down Trump? Hypocritical https://t.co/8Vw4P9qvFc'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'screw @CNN, switch 2 @MSNBC to listen 2 @HillaryClinton . CNN gave Trump over 30 min talk time.  #VettingTrump @Alonso1127 @alicia_lupercio'", "coordinates": [-114.818269, 31.332246]}
+{"tweet": "'The story of the campaign. #MichiganPrimary #GOPPrimary #Trump https://t.co/VbjAtxkknH'", "coordinates": [-77.393246, 38.90861]}
+{"tweet": "'@CurlynDoris know the facts. previous owner foreclosed on by the banks before trump. They destroyed the property. Trump made it great again.'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'Trump steady on that product pitch like that one annoying rapper selling mix tapes at the mall #MichiganPrimary'", "coordinates": [-122.514926, 37.708075]}
+{"tweet": "'@jodyph1 Trump is anti women unless it's his daughter whom he fantasizes about! You are a nut!'", "coordinates": [-98.778559, 29.141956]}
+{"tweet": "'@therealhayls I'm rooting for Rubio, but he's not doing too well so I'm moving on to Cruz. I just really don't want Trump :loudly_crying_face:'", "coordinates": [-79.987463, 39.584088]}
+{"tweet": "'HOW DID TRUMP WIN 2 MORE STATES SO FAR. I LITERALLY DO NOT UNDERSTAND HOW ANYONE COULD SUPPORT HIM'", "coordinates": [-76.965596, 38.971053]}
+{"tweet": "'Van Jones of CNN doesn't get the joke of the Trump wine, water and steaks.  Get a sense of humor, Van!  #CNN  #ALWAYSTRUMP'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'There's that #stoptrump hubub, @MittRomney rises from the grave to warn us, &amp; Rubio gets zero delegates from the two biggest states tonight.'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'Cruz/Rubio please come together and end this side show...can't take it. #nevertrump'", "coordinates": [-80.177525, 26.879058]}
+{"tweet": "'Get used to saying President Trump'", "coordinates": [-97.895204, 27.462959]}
+{"tweet": "'#TedCruz dominates #Trump in man to man polls. It's time for #RubioMustGo and #KasichMustGo https://t.co/2PnK56Wvvz'", "coordinates": [-96.803319, 33.137357]}
+{"tweet": "'@WendyTPerez They do not have BILLIONS , you SMUG, mouthpiece.nDo you feel trump will let LATINO relatives remain??nWE ALL HAVE RELATIVES...'", "coordinates": [-124.703541, 41.991795]}
+{"tweet": "'Trump's been trying to find them for months. Trump's been promising to release a list for months. Yet... https://t.co/RTKVG7hDPS'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@FoxNews can't accept Trump victories. Drives them nuts. Better get used to it. You're just not influence you thought you were'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'Can SOMEONE PLEASE Tell LITTLE Marco to Jump into his 1996 pickup truck and F Off!!!!!!  GO TRUMP!!!'", "coordinates": [-74.160521, 40.018539]}
+{"tweet": "'@realDonaldTrump Neil bush s&amp;l sandal suspect just backed cruz'", "coordinates": [-74.994551, 40.048711]}
+{"tweet": "'Is his named pronounced ' Trump' or 'Asswipe' I'm still getting it mixed up.'", "coordinates": [-80.284104, 39.261447]}
+{"tweet": "'I will write in my vote and it won't be Trump!  https://t.co/IlaZ2jBBNO'", "coordinates": [-79.06754, 33.614208]}
+{"tweet": "'Mississippi Primary 51% reportingnTrump- 49.4% (75,711)nCruz- 35.3% (54,178)nKasich- 7.9% (12,120)nRubio- 4.8% (7,397)n#SuperTuesday2'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'I told ya'll I had a guy in a Trump tshirt on my flight in first class and I swear something was seriously wrong with him.'", "coordinates": [-77.406482, 38.437626]}
+{"tweet": "'@MonicaCrowley @realDonaldTrump @HillaryClinton Trump serves up raw meat/steaks to the press. #priceless'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'If you add Rubio's vote to Cruz's vote, Cruz still loses to Trump by a wide margin. In both Michigan and Mississippi. #TrumpTrain'", "coordinates": [-103.002652, 33.615765]}
+{"tweet": "'@MichaelSteele You're not agreeing with someone who is comparing Trump to Obama are you Michael? Is this the real Michael Steele?'", "coordinates": [-122.1649, 47.626845]}
+{"tweet": "'Yo seriously so many Greenville kids wanna vote for trump but don't realize that he is against the middle class'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'@FareedZakaria Taking a page from liberals, I DEMAND a apology for that heinous and offensive statement you made a/b Trump supporters! GO!'", "coordinates": [-97.538285, 32.569477]}
+{"tweet": "'At least we can look forward to the 'this program is rated TV MA LSV' viewer discretion warning before Trump's State of the Union speeches.'", "coordinates": [-74.000427, 40.767413]}
+{"tweet": "'A look at the pep talk Donald Trump gets before every speech he gives.  #MichiganPrimary https://t.co/AAFkD6Qnvf'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'I've spent a lot of time in Michigan. Thought there were smarter people there. Deeply confused by all the trump votes.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@RathJames you should pay more attention to EVERY other candidate running. They all have more substance than Trump'", "coordinates": [-84.623004, 39.045091]}
+{"tweet": "''#TedCruz with crush #Trump' ~ Neil Bush to Neil @TeamCavuto.'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'The Media wants you to hate Trump'", "coordinates": [-85.649602, 42.215555]}
+{"tweet": "'@SenSanders maintains a lead in Michigan and @nytimes coverage is all Clinton and Trump.  #MichiganPrimary https://t.co/l1q6aT1NGd'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'@tanajam @NAVY_WIFE2006 both CNN and FOXNEWS are disgusting - report the damn news and not your opinion about what TRUMP said - idiots'", "coordinates": [-91.655009, 30.146096]}
+{"tweet": "'It is March 08 and @CNN didn't even bored to show the woman who may be the first Prez ! No they show Donald Trump for that matter @CNNPR'", "coordinates": [-73.972965, 45.410095]}
+{"tweet": "''@thehill: Trump uses victory speech to praise his water, steaks, and wine https://t.co/RsWImW8zcG'/And his supporters? Let them eat cake!'", "coordinates": [-72.90615, 40.737278]}
+{"tweet": "'Howard Kurtz is very unsophisticated - Trump speech tonight was extending an olive branch to Repubs-'", "coordinates": [-116.050004, 44.35821]}
+{"tweet": "'Call me crazy but it's kind of scary to see Trump still running and winning.'", "coordinates": [-97.178734, 32.981704]}
+{"tweet": "'Counties in red are going Trump as he wins Michigan @CBSPolitics https://t.co/EwLaf6rLg1'", "coordinates": [-105.109815, 39.614151]}
+{"tweet": "'Trump wins Michigan and Mississippi. Clinton also takes Mississippi.'", "coordinates": [-85.044673, 41.19891]}
+{"tweet": "'@yidwithlid And guess who else, like Trump is really from NJ -&gt; @tonykatz Just kidding. I kid the NJ bc I love the NJ'", "coordinates": [139.695191, 35.584544]}
+{"tweet": "'I can't wait to play Blackjack at the Trump White House &amp; Casino.'", "coordinates": [-83.694776, 41.580375]}
+{"tweet": "'I hate Donald trump b/c dt Hates Mexicans &amp; Mexicans make tacos &amp; I love tacos. Lmfao best thing I've heard all day:face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy:'", "coordinates": [-72.09435, 41.397631]}
+{"tweet": "'@CNN nn@BernieSanders  @realDonaldTrump s @HillaryClinton nn= Bernie TRUMPS hillary....:face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy::thumbs_up_sign::emoji_modifier_fitzpatrick_type-6::chequered_flag::dancer::emoji_modifier_fitzpatrick_type-6:'", "coordinates": [-121.262498, 38.637436]}
+{"tweet": "'@chucktodd maybe Romney can slam some more Trump business ventures - seems to inspire Trump supporters'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'@terriperozzi @MSNBC Comcast bought NBC &amp; they've destroyed MSNBC! All Trump all the time!'", "coordinates": [-117.75971, 33.512428]}
+{"tweet": "'Trump is the lowest common denominator personified.'", "coordinates": [-93.374494, 45.118611]}
+{"tweet": "'@ABCPolitics @ABC @realDonaldTrump The same people voting for Bernie, will reject Clinton in November.  Trump will be beat Hillary handedly'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'Trump uses Trump lotion on his deformed micropenis. Guaranteed to make you feel like you are well hung with new Hot Phantom Limb technology.'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'@LukeRussert but Trump and the @HillaryClinton are friends?'", "coordinates": [-73.962582, 40.541722]}
+{"tweet": "'@NomikiKonst CNN legit just played  all of Trumpu2019s infomercial instead of cutting to even a snippet of Clintonu2019s speechu2026'", "coordinates": [-78.912276, 42.826008]}
+{"tweet": "'Everyone is saying they hate trump but he is still winning in the polls some of y'all are lying :eyes:'", "coordinates": [-84.320149, 43.574381]}
+{"tweet": "'@FrankLuntz @NKingofDC Rubio sold his sole to Romney &amp; the establishment. How'd that work out for you! Trump will win both Primary &amp; GE!'", "coordinates": [-87.92086, 30.575695]}
+{"tweet": "'@cjosiedoe1 @KatyinIndy let's not worry about Trump Hillary is going to beat him down big big time'", "coordinates": [-121.69198, 36.643802]}
+{"tweet": "'@jamesspivey @HotNostrilsrFun @NolteNC And they're comparing Trump to  Hitler?'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@MMFlint Clinton voters in MI are voting for Trump so she can kick his ass in Nov.That's the only reason BS is close. ps....thanks for dubya'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'#FOXDebate why don't you people support trump instead of slamming him, joking about him, you need to accept the people's choice'", "coordinates": [-70.775038, 43.074445]}
+{"tweet": "'disappointed in Michigan that trump won but Bernie is in the lead !!! come on !!!!! we got this :flexed_biceps::emoji_modifier_fitzpatrick_type-1-2::flexed_biceps::emoji_modifier_fitzpatrick_type-1-2::flexed_biceps::emoji_modifier_fitzpatrick_type-1-2:'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'Please tell me why Fox- namely Meg Kelly and her pals still bashing Trump.DISGUSTING Bastrds @realDonaldTrump @megynkelly @gerberruth4024'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'I find it hilarious that the only real answer trump says to any question is to build a fucking wall.'", "coordinates": [-83.353955, 32.04683]}
+{"tweet": "'At least we can look forward to the 'this program is rated TV MA LSV' viewer discretion warning before #Trump's State of the Union speeches.'", "coordinates": [-73.992672, 40.779488]}
+{"tweet": "'To everyone saying they're voting for Donald trump.. You're ALL fucking stupid.'", "coordinates": [-64.237659, 43.366298]}
+{"tweet": "'@PappaLaing @Chalmer8 @MakeItRein22 i hope trump bans Pittsburgh sports when he gets office'", "coordinates": [-82.644739, 37.201483]}
+{"tweet": "'MEGYN's Lap-Dog Stirewalt It's UR continual put down of Trump we hate! Howie U don't get it! WE don't TRUST the MEDIA!'", "coordinates": [-73.929156, 41.223801]}
+{"tweet": "'@killingxmoon @LegionOfChris @SusanLeigh11 @JenniferShutt admit my beliefs? I hate to break your bigotry but not everyone likes trump'", "coordinates": [-114.818269, 31.332246]}
+{"tweet": "'Women live Donald Trump.'", "coordinates": [-84.228579, 39.535648]}
+{"tweet": "'But All You See Is Donald Trump Bitch Ass.. https://t.co/JkpFM6N8vb'", "coordinates": [-97.768683, 35.290722]}
+{"tweet": "'@realDonaldTrump @MegynKelly  quoting a poll that says Republican women don't do well with Trump... are you KIDDING me?  Women love Trump!'", "coordinates": [-94.45916, 38.805502]}
+{"tweet": "'And now tonight Trump big winner Trump 2016 https://t.co/Mj3dYjA26i'", "coordinates": [-79.06754, 33.614208]}
+{"tweet": "'How many of these political commentators giving @billshortenmp no chance of winning #Election2016 also gave Trump no chance #auspol'", "coordinates": [152.233655, -24.949085]}
+{"tweet": "'We are now at DEFCON TRUMP'", "coordinates": [-83.149423, 41.829858]}
+{"tweet": "'...because every GOP campaign blames Cruz for any problem their campaign has...even Trump. https://t.co/LNspHH2DLv'", "coordinates": [-85.526856, 38.276076]}
+{"tweet": "'@megynkelly Play that gender card honey pie. Your a loser and Trump is a winner. Watch what happens next. RT'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'@WDFx2EU @HillaryClinton Trump doesn't like #diversity either. FYI I Know'", "coordinates": [-80.045547, 26.593627]}
+{"tweet": "'@megynkelly Trump is not entertaining when he speaks. He babbles on and on and says nothing!!!'", "coordinates": [-81.124761, 24.688245]}
+{"tweet": "'Trump just hit a HOME RUN at the Michigan Press Conference ! He looked VERY PRESIDENTIAL! The press is no match for him! Unstoppable !'", "coordinates": [-77.266126, 38.755163]}
+{"tweet": "'@TannMaan @matt_kindred I assumed cruz cuz hella conservative and she goes trump I was cringing in my seat and screaming. I hate it'", "coordinates": [-83.379378, 42.310149]}
+{"tweet": "'Thank you Michigan and Mississippi for helping us make America great again! Trump will keep his promises watch We love you!'", "coordinates": [-80.248423, 43.050553]}
+{"tweet": "'@CoreyAtad Trump or any GOP candidate miles away from the presidency.'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'Rubio and Kasich you need to get out so Cruz knocks out Trump. Or Hillary is our President. Dump Trump'", "coordinates": [-118.794237, 34.125821]}
+{"tweet": "'@realDonaldTrump ...Cruz and Rubio on the ballot is like 'Amateur Night at the Dixie Bar and Grill'...we need pros, not politicians'", "coordinates": [-70.950694, 42.48393]}
+{"tweet": "'Neil Bush on FOXBusiness is delusional.  What he has done for Cruz is to prove Cruz is not an outsider. #AlwaysTrump'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'Donald Trump becoming president is one step closer to President Dwayne Elizondo Mountain Dew Herbert Camacho.'", "coordinates": [-96.639667, 40.375437]}
+{"tweet": "'70% reporting in Allegan County. Cruz 37%, Trump 27%, Kasich 23%, Rubio 9%. #MichiganPrimary'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "'Donald trump has to be paying somebody bc there's no way everyone can be this stupid'", "coordinates": [-122.779239, 38.396779]}
+{"tweet": "'@realDonaldTrump Mr Trump and Sanders have one common important thing: No TPP  Washington/WSJ will conspire with Hillary for TPP.'", "coordinates": [-81.507905, 28.388218]}
+{"tweet": "'#Trump 2016 #Damaged #Liberty #Wrong #To Ignore #People #Yearning for #Freedom #To Be #Lifted High #Displayed #Like #Lady Liberty #NYC !!!!!'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'Trump just compared himself to Lincoln! HAHAHAHAHAHAHA'", "coordinates": [-86.785881, 34.578426]}
+{"tweet": "'#ChrisStirewald &amp; #MeganKelly both have the same snarky I smell my son's tennis shoes look when talking about #Trump.  I think they practice'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'I hate trump I hate trump I hate trump I hate trump I hate trump I hate trump I hate trump I hate trump I hate trump I hate trump'", "coordinates": [-84.508681, 43.970258]}
+{"tweet": "'@KattyKayBBC In a two person race why would they? The general is not the primaries. Plus I say Trump talking in a general hurts him.'", "coordinates": [-81.507905, 28.388218]}
+{"tweet": "'Women love Donald Trump.'", "coordinates": [-84.228579, 39.535648]}
+{"tweet": "'Megyn Kelly spinning #Trump's 'woman problem,' failing to mention that he's won women in a multitude of state primaries. #MichiganPrimary'", "coordinates": [-89.853527, 30.235705]}
+{"tweet": "'@linnyitssn Much of the world wants to ban Trump. What to do with his band of 18th century racists &amp; bigots who think he's the new messiah?'", "coordinates": [-80.13094, 26.420813]}
+{"tweet": "'@GOP Trump wins with 20% or more of Dem voters? How is this the GOP?'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'John Kasich Taurus Bernie Sanders Virgo Ben Carson Virgo Ted Cruz Capricorn Hilary Clinton Scorpio Donald Trump Gemini Marco Rubio Gemini.'", "coordinates": [-79.810142, 43.373074]}
+{"tweet": "'So a Bush is criticizing Trump for scaremongering?'", "coordinates": [-89.57151, 36.497129]}
+{"tweet": "'If Donald trump wins I might as well dig my own fucking grave. Lol'", "coordinates": [-64.237659, 43.366298]}
+{"tweet": "''One on one race #Trump goes down!' ~ #TedCruz endorser Neil Bush to Neil @TeamCavuto.'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'@LaFemmeDeNY Not as much as Trump's people but I've heard a lot of racist, sexist things come from Bernie people - have blocked many of them'", "coordinates": [-78.959206, 43.614586]}
+{"tweet": "'#Trump2016 # fox news #cnn. We the single women of America will be voting Trump!'", "coordinates": [-81.512787, 41.501172]}
+{"tweet": "'Trumpu2019s winery is just a few minutes from where I live. So come visit me and Iu2019ll take youu2026 To a much better winery! (There are tons.)'", "coordinates": [-78.528507, 38.009553]}
+{"tweet": "'I can't wait for trump to come to philly so I can shit on his rally...'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'The scary truth behind Trump steaks... https://t.co/pXr7uWLjc5'", "coordinates": [-77.172219, 38.827378]}
+{"tweet": "'@CheriJacobus @toddstarnes  I always think I've reached my antipathy towards Trump, but I'm always wrong.'", "coordinates": [-116.421818, 33.670765]}
+{"tweet": "'@stevenwtodd nGOPs who will vote Dem if Trump gets the nomination won't vote for #Bernie. And you might get a 3rd party challenge ,too.'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "'#MakeAmericaGreatAgain #hypocrisy nTrump brand clothing: Made in Chinanhttps://t.co/Xw3gEg6VJy'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'People hate Trump on Twitter but only 20% of all American adults are on Twitter.'", "coordinates": [-104.048915, 45.935021]}
+{"tweet": "'@jstines3 @realDonaldTrump  Sorry,  it wasn't a good night for Cruz.  MAKE AMERICA GREAT AGAIN'", "coordinates": [-83.051445, 7.20386]}
+{"tweet": "'I still cant believe people are actually voting for the overcooked potato wedge that is Donald Trump. Ridiculous.'", "coordinates": [-82.831674, 27.935178]}
+{"tweet": "'@guypbenson @PatrickRuffini gone from GOP - write in Rubio or 3rd party but if Kasich &amp;Rubio join I'd vote 4 them - #nevercruz #nevertrump'", "coordinates": [-81.046876, 35.001706]}
+{"tweet": "'we arent gonna have bail little dicks wives out are we,president trump the casino owner,sounds like bad odds'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@chefcharming The Super-Secret Confab to Stop Trump - https://t.co/HRtl25Kzwb'", "coordinates": [-83.353955, 32.04683]}
+{"tweet": "'@BiekerLori the elites are also annomous. nYes I've heard Mr. Trump say that about his wife a few times.'", "coordinates": [-75.732263, 40.819082]}
+{"tweet": "'Guys, we're not giving up...#Trump STILL only got 37% of the Vote in MI.  #CruzCrew #NeverTrumpn:smiling_face_with_sunglasses: https://t.co/lIboGbIuTy'", "coordinates": [-95.661376, 30.10764]}
+{"tweet": "'Trump for the Michigan win! #TrumpTrain #GOAT'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'Fox &amp; Megyn &amp; Regular Pundants only network working feverishly to rain on Trump's parade'", "coordinates": [-77.195221, 40.095412]}
+{"tweet": "'This guy is a total FRAUD! #DumpTrump  https://t.co/RPd3583Joh'", "coordinates": [-94.876678, 38.956322]}
+{"tweet": "'@TrillThrilll  you are the trump to my country if you do man'", "coordinates": [-87.795644, 41.571599]}
+{"tweet": "'You imply MSM will kill Trump on being a Biz Fraud and I think that argument will go NOWHERE among USA small biz owners.'", "coordinates": [-92.889433, 42.491921]}
+{"tweet": "'@__BHB__ @Nettaaaaaaaa You might be over-thinking him. Don't fall down the rabbit hole and try to analyze Trump intellectually. You can't.'", "coordinates": [-82.500115, 41.676525]}
+{"tweet": "'BTW, #NeverTrump crowd.  Regardless of 1-on-1 results, #Trump's chances of winning #Michigan in general #election?  Solid.  #Cruz'?  Nil.'", "coordinates": [-79.487651, 37.886607]}
+{"tweet": "'@Tysandyalice @realDonaldTrump you know Irish likes Trump. They are both planning world domination.'", "coordinates": [-84.44674, 42.033091]}
+{"tweet": "'@FoxNews @ChrisStirewalt really an unbelievable bunch if assholes failing to recognize Trump trouncing'", "coordinates": [-82.040502, 28.863572]}
+{"tweet": "'Donald Trump won what he needed to and that was the Republican ballot :information_desk_person:'", "coordinates": [-83.433894, 42.352453]}
+{"tweet": "'Hillary sounds great tonight!!! She is going to absolutely crush Trump in Nov... so embarrassing for the dying GOP'", "coordinates": [-111.894548, 33.306275]}
+{"tweet": "'The good thing about a Trump presidency would be if all these people threatening to leave the country actually did.'", "coordinates": [-83.537113, 34.593559]}
+{"tweet": "'@megynkelly @realDonaldTrump @MittRomney @BarackObama Megan. Cool. Finally you enjoy DJT He is real and strong and we want him. Go TRUMP! :flag_for_United_States:'", "coordinates": [-111.083219, 32.057802]}
+{"tweet": "'The Fat guy on Fox Chris something said Trump won't win with women...I call BS!.. This woman voted and will vote for him.'", "coordinates": [-90.256583, 30.396707]}
+{"tweet": "'People who vote for #Trump are stupid enough to believe there's a way he can make #Mexico pay for the wall. How does he intend to do that?'", "coordinates": [-99.18435, 19.399835]}
+{"tweet": "'Bad night for conservatism with Trump romping. @smod2016 , anytime you're ready...'", "coordinates": [-75.631177, 39.255897]}
+{"tweet": "'someone help me find that video of Donald trump saying 'what's going on' 100 times &amp; the caption is 'when ur trying to figure out plans''", "coordinates": [-124.703541, 41.991795]}
+{"tweet": "'What's she got to say anyway #VoteTrump2016  https://t.co/RezBzcqC88'", "coordinates": [-73.753788, 40.959134]}
+{"tweet": "'@marcorubio @realDonaldTrump @slone @jack_jdcagle @Kotcha301 @seanhannity How did attacking Trump work out for Rubio. Stick a fork in him!'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Trump is right Mitt screwed up and gave that election to Obama https://t.co/jwZlYpyepb'", "coordinates": [-79.06754, 33.614208]}
+{"tweet": "'Trump wins'", "coordinates": [-83.353955, 32.04683]}
+{"tweet": "'Meanwhile, on midwest turf that ought to be about his best ground, #Kasich is 11% behind Trump &amp; barely edging Cruz: https://t.co/3UYtOc2QFq'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'watched trump's speech and the bachelor back to back and now i give up on everything'", "coordinates": [-84.386548, 30.365093]}
+{"tweet": "'Zoe says -&gt; Cruz+RUBIO+Kasich=Trump denial outright=GOP Convention fight. https://t.co/G86yiO8A33'", "coordinates": [-76.810544, 38.743365]}
+{"tweet": "'@FoxNews TRUMP IN 2016:thumbs_up_sign::thumbs_up_sign::thumbs_up_sign:'", "coordinates": [-84.293073, 33.478656]}
+{"tweet": "'@megynkelly @realDonaldTrump Megan your so wrong.  All women I know love Trump!!!! #Trump2016'", "coordinates": [-114.37582, 34.449228]}
+{"tweet": "'Trump has no clue wtf he is saying sometimes :face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy:'", "coordinates": [-76.353876, 44.961937]}
+{"tweet": "'Paul O'Neill supporting Trump?! :face_with_medical_mask: @Yankees please bring back Chris Capuano and make him wear #21!'", "coordinates": [-77.144435, 38.789907]}
+{"tweet": "'I bet those Trump Steaks taste like :pile_of_poo:'", "coordinates": [-104.96747, 39.783752]}
+{"tweet": "'Neil Bush talking about Trump's ceiling- And saying Cruz will win one on one. What an ass. He will sit out rather tan T.'", "coordinates": [-179.231086, 13.182335]}
+{"tweet": "'@jphartley1 So if it's Trump v. Hillary what will you do?'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'@killingxmoon @LegionOfChris @SusanLeigh11 @JenniferShutt u just labeled me as a trump supporter. That isn't ideology, u just stereotyped'", "coordinates": [-114.818269, 31.332246]}
+{"tweet": "'@realDonaldTrump @TrumpTrain8 @EricTrump :nTRUMP FOR POTUS 2016!!!'", "coordinates": [-120.041961, 38.822602]}
+{"tweet": "'@aaronsarver Id rather Rubio than Trump'", "coordinates": [-82.681852, 35.421216]}
+{"tweet": "''well... if Donald trump said them id support them' ok buddy ok  https://t.co/JaiuyFmeql'", "coordinates": [-77.252801, 39.102707]}
+{"tweet": "''...no president is going to change that!' ~ @CGasparino to @LouDobbs talking about #Trump trade deficit rants.'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'I'm not gonna lie, I think Trump and Vern are very similar'", "coordinates": [-86.213904, 43.043093]}
+{"tweet": "'If you can look past the bigoted demagoguery, Trump's attacks on free trade are a policy concern of...never mind'", "coordinates": [-111.921658, 40.528084]}
+{"tweet": "'@larry_kudlow @realDonaldTrump @batchelorshow @hooverwhalen Romney needs to crawl back into his cave. Need to unite behind Trump!'", "coordinates": [-77.287868, 38.893115]}
+{"tweet": "'Can't wait to see Trump run around in a circle during general election debates and scratch his armpits. #MSNBC'", "coordinates": [-76.932746, 40.213637]}
+{"tweet": "'@ChrisStirewalt YOU ARE A SMUG, IGNORANT, ARROGANT HUMAN BEING. AFTER THIS ELECTION IS OVER &amp; TRUMP WINS YOU ARE DONE DONE. BET ON IT!'", "coordinates": [-91.655009, 30.146096]}
+{"tweet": "'The Simpsons, predicting future since 1989. Trump @Trevornoah https://t.co/tCqWjF282G'", "coordinates": [-100.421037, 25.480538]}
+{"tweet": "'@BenHowe @jetx86 You have an anti-establishment candidate and no one will shake up DC like Trump.  Join us.'", "coordinates": [-95.178987, 29.438994]}
+{"tweet": "'@maddow #Trump says he owns water co why doesn't he send some H2O to #FlintWaterCrisis'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'@graham_sh13 @pooreben16 Trump will win Ohio'", "coordinates": [-76.794408, 39.22709]}
+{"tweet": "'Fellow Dems, remember,  the only way to shut Trump's mouth is to show him who's boss at The Polls!! #DownwithGOP #NoGOP'", "coordinates": [-95.774704, 35.995476]}
+{"tweet": "'@ericbolling Trump is a refreshing candidate never has a canned speech. His answers were right on. Looking Presidential!'", "coordinates": [-111.972849, 33.203761]}
+{"tweet": "'@AnnCoulter Cruz cant figure out why Trump gets the evangelical vote Only thing worse than a liar is lying while holding a bible They see it'", "coordinates": [-95.923551, 41.194487]}
+{"tweet": "''@nprpolitics: Quick fact check on Chris Christie tonight. He's not in Florida /NO, he's in Trump's pocket...a very wide pocket.'", "coordinates": [-72.90615, 40.737278]}
+{"tweet": "'Not all women hate trump!'", "coordinates": [-82.976654, 42.627801]}
+{"tweet": "'@GeraldoRivera @realDonaldTrump @GovJohnKasich @SenTedCruz @senmarcorubio Rubio will be the Chock Full O' Nuts spokesman after next Tuesday'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Can someone just assassinate Trump already? I mean we're all waiting...'", "coordinates": [-85.648591, 42.150587]}
+{"tweet": "'@larry_kudlow @marcorubio @batchelorshow @hooverwhalen He will stay in.  Someone has to protect this country from the fascist Trump.'", "coordinates": [-84.561205, 33.788139]}
+{"tweet": "'Media keeps putting Trump down but he keeps winning #Winner'", "coordinates": [-87.721811, 34.77898]}
+{"tweet": "'Ma just bet my $500 that Trump will become president. That's free money.'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'@owillis Can't pull them from the Trump Teet'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'@FoxNews  Really Megan Kelly what Republican women are you talking of I for one am very Republican &amp; know other Republican women going Trump'", "coordinates": [-79.075086, 43.07079]}
+{"tweet": "'Eating Trump's discontinued steaks seems like a fine way to spend a week in the hospital.'", "coordinates": [-73.701496, 40.582128]}
+{"tweet": "'Trump Calls Ted Cruz a u2018Pu2014u2013u2018 in New Hampshire -  https://t.co/5JO6Xrjbcj What DEM #Evangelicals Look For in a Leader?!? #NotPresidential'", "coordinates": [-122.857378, 45.527087]}
+{"tweet": "'Trump likes Abraham Lincoln?!... now THAT'S racist... lol... real Hitler like... https://t.co/EQSEEcnGZx'", "coordinates": [-117.6836, 33.997213]}
+{"tweet": "'Why do start with the name of the lord...just to be an arrogant/insensitive  atheist while you put down Trump.  https://t.co/CWJ084Jp3X'", "coordinates": [-73.388984, 41.094742]}
+{"tweet": "'@megynkelly I'm a woman and  I love Trump'", "coordinates": [-74.362666, 40.270616]}
+{"tweet": "'US elections 2016: Tim Cook, Elon Musk and other billionaires team up to stop Donald Trump at secret meet....https://t.co/UIKt38qkju'", "coordinates": [-82.042715, 27.968692]}
+{"tweet": "'Paul O'Neill supports Trump - another reason to hate the Yankees is always welcome! Go @RedSox'", "coordinates": [-93.556704, 44.978417]}
+{"tweet": "'Trump Steaks. My journey to vegetarianism is complete.'", "coordinates": [-82.648577, 28.038662]}
+{"tweet": "'@realDonaldTrump hawking TRUMP STEAKS-that have packaging from a W Palm Beach butcher shop. https://t.co/kin7wes9o3 #nevertrump'", "coordinates": [-74.312288, 40.670152]}
+{"tweet": "'@klangfarben The horrifying Trump:trade_mark_sign: infomercial. We muted it and watched @HillaryClinton live online. #Decision2016'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'SNOWDEN - A TRUMP SUPPORTER https://t.co/klWgz3LLYH https://t.co/vbJRLxP5wC'", "coordinates": [-64.3195, -31.523576]}
+{"tweet": "'Lol for anyone referring to Trump as 'my boy', your parents need to be kicked it the face.'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'Wife sat through Trump, asking me to turn Hillary off.'", "coordinates": [-90.320516, 38.533193]}
+{"tweet": "'I regret that trump had my support in the beginning'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'Trump voters are like the Walking Dead--they stagger around in circles, chasing feint noises, looking to suck the blood of victims.'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'@FoxNews ..you guys don't understand...what you news people say is not going to stop the rebellion. Go Trump!!!'", "coordinates": [-85.16845, 33.6859]}
+{"tweet": "'IMAGINE ALL 50M UNEMPLOYED AMERICANS SHOWING UP AT DONALD TRUMP RALLIES. ALL NEED JOBS. DEMS NO HELP. #TRUMP2016 https://t.co/Ap89h0Ev6V'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'Help President Trump, Help. #OnlyTrump https://t.co/y2HRlwCBQ9'", "coordinates": [-93.356007, 30.804776]}
+{"tweet": "'Trump looking like Paquita la Del Barrio mixed with Walter Mercado https://t.co/0aHvVUMGuZ'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'@dianberly712#Trump.I should be beyond surprised by now.Insulting reporters who mention his crude language.'Aww yr such a baby''", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'don't be saying shit when donald trump brings back slavery.'", "coordinates": [-82.968959, 42.479787]}
+{"tweet": "'Lose all respect for a person if they think trump will be a good president'", "coordinates": [-87.455763, 46.506059]}
+{"tweet": "'@cnn, shame on you for calling #Trump's press conference a freak show, but you showed the whole fucking thing.  You made this bed! #shame'", "coordinates": [-118.081392, 34.085395]}
+{"tweet": "'Trade as in Trumps hawking his wares on all nets in acceptance speech or actual policy? Tariffs?  https://t.co/m0AI6Vt8Nc'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'This is Donald Trump's normal demeanor, @RichardGrenell. GOP-e/MSM acted rabidly= Trump Honey Badger. Now up to them: escalate or peace?'", "coordinates": [-77.220557, 39.053158]}
+{"tweet": "'fave this if you're voting for trump so I can fuck yo bitch ass up'", "coordinates": [-122.779239, 38.396779]}
+{"tweet": "'@realDonaldTrump - The secret GOP mtg with tech leaders on how to stop Trump!  @DonaldJTrumpJr @MELANIATRUMP https://t.co/xZJxbXocD2'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@megyan you still cannot be satisfied with Trump great WIN of Michigan  you look for negatives!My Lord look at  the bad &amp; stupid NEG ADS!'", "coordinates": [-79.087697, 33.523442]}
+{"tweet": "'@DanaBashCNN bashing #hillary &amp; promoting trump &amp; sanders but she is very much disliked poor @JohnKingCNN is very fair #WakeUpAmerica #cnn'", "coordinates": [-97.51982, 35.15327]}
+{"tweet": "'So the Trump Clown Show finally ended?   SMH https://t.co/WEaNGeTw6R'", "coordinates": [-90.310298, 34.982924]}
+{"tweet": "'Fucking Trump's a piece of shit.'", "coordinates": [-75.788756, 38.45104]}
+{"tweet": "'They say women don't love Trump what? I am differently a Trump fan an Proud of it. Make America great again 2016 https://t.co/drWlyupwVf'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@SteveDeaceShow At this point I suggest #Cruz folks vote #Trump in OH, you need #Kasich out too'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@kairyssdal @chrislhayes @DylanByers this is why Trump really loves the press. They do his bidding. Lies and lies. Does not matter.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Trump is seriously the worst choice for our country.'", "coordinates": [-85.305548, 43.150228]}
+{"tweet": "'@FoxNews talking about single women not going for Trump, assuming they'd go for any Republican ever.'", "coordinates": [-77.339279, 38.553903]}
+{"tweet": "'Gotta love Trumpanzees. For President, they want is to choose (A) Hillary Clinton or (B) a man who admires Hillary Clinton. Brilliant.'", "coordinates": [-82.178311, 41.303092]}
+{"tweet": "'@cspan I want Trump steaks!I want to attend Trump University!Glad to know about winery too!Trump is great!Voted for Trump!Trump is the best!'", "coordinates": [-90.310298, 34.982924]}
+{"tweet": "'Watching the 'experts' on Fox News tell Trump how to win is stunningly ironic.'", "coordinates": [-86.418059, 32.284593]}
+{"tweet": "'As if facts matter. Trump is literally wrong 90% of the time and some how NO ONE CARES. https://t.co/JTrVbhwbIN'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'Trump Steaks - Don't you jerks understand that Trumpster is not doing infomercials but defending the very businesses R0mney said went bust!'", "coordinates": [-72.703482, 42.162001]}
+{"tweet": "'Trump voters use zero political ideology and all they hear is to rid of our issues, but why rid of them when we can cooperate and gain more?'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'That'd be alright! CHOOOOCHOOOO! :steam_locomotive::flag_for_United_States::flag_for_United_States::flag_for_United_States::flag_for_United_States: #TrumpTrain https://t.co/A6cl7sg7t1'", "coordinates": [-96.639667, 40.375437]}
+{"tweet": "'So who's the real Trump. Was he acting generous for 10 seasons of reality TV or is he acting now as an unpredictable fear monger.'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'Donald Trump finna be our president :sleepy_face:'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'The good news, America, is that Trump's presidency is immediately followed by President Lisa Simpson https://t.co/WZy1LpJ4qf'", "coordinates": [-76.353876, 44.961937]}
+{"tweet": "'Trump marches on with victories in Michigan, Mississippi https://t.co/RkWloJAFZq #TrumpTrain #MakeAmericaGreatAgain @realDonaldTrump'", "coordinates": [-157.950476, 21.254837]}
+{"tweet": "'Nets all cover hour+ #Trump expected-victory gloat live while @BernieSanders heads toward what may be biggest 2016 upset yet'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'@ChrisStirewalt Chris; There are many WOMEN , Blacks , Latino's, that support and believe Donald Trump is best for our future as a nation'", "coordinates": [-89.744463, 35.006217]}
+{"tweet": "'My grandpa thinks we're going to get deported if trump wins cause trump hates Asians :face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy:'", "coordinates": [-73.962582, 40.541722]}
+{"tweet": "'Vote TRUMP. We will fix itn#AlwaysTrump https://t.co/FpNhm0ralf'", "coordinates": [-91.655009, 30.146096]}
+{"tweet": "'Seeing as how Trump won Michigan... I am applying for political asylum....'", "coordinates": [-83.447749, 42.702516]}
+{"tweet": "'Donald Trump will be the first candidate defeated on Yelp and TripAdvisor #GOPPrimary #Trump'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@FoxNews @realDonaldTrump Fox news is still bringing DONALD TRUMP DOWN! WOW!'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'@redsteeze   #Trump is a frickin' IDIOT.  #PressConference my ass. It was nothing more than an #INFOMERCIAL, paid for by stupid #MEDIA. #FNC'", "coordinates": [-123.208615, 43.988281]}
+{"tweet": "'I most certainly don't wanna see Trump in office.. But in the event that he ended up being our president, I'd really enjoy watching him fail'", "coordinates": [34.266924, 29.393973]}
+{"tweet": "'Why couldn't we hear the reporters' questions at that Trump conference?  #CNN #supertuesday'", "coordinates": [-88.070827, 42.920822]}
+{"tweet": "'Hit it folks! https://t.co/RWNe87GgkK #Trump #TrumpTrain #Trump2016 @HouseCracka @LindaSuhler'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'@jamesfallows Why do start with the name of the lord...just to be an arrogant atheist while you put down Trump. https://t.co/CWJ084Jp3X'", "coordinates": [-73.388984, 41.094742]}
+{"tweet": "'Donald Trump has no political experience. Meanwhile, you need 5 years of experience for an entry level management position at Chili's.'", "coordinates": [-86.348441, 39.631677]}
+{"tweet": "'@tjemery1 @eRtwngr     #Never Trump  because he is pro abortion'", "coordinates": [-121.69198, 36.643802]}
+{"tweet": "'Establishment and Romney is Thanked by Trump for attacks'", "coordinates": [-77.195221, 40.095412]}
+{"tweet": "'I got to the top of that mountain and the only thing I said was 'Fuck Donald Trump'.'", "coordinates": [-112.557092, 37.014293]}
+{"tweet": "'@TeaPartyNevada @FriendlyJMC @realDonaldTrump mr trump, by donating water to flint will show the ppl you care about us, show your good heart'", "coordinates": [-74.012435, 40.260557]}
+{"tweet": "'@FoxNews  Really Megan Kelly what Republican women are you talking of I am a Republican &amp; know many  other Republican women voting Trump'", "coordinates": [-79.075086, 43.07079]}
+{"tweet": "'@MonicaCrowley a nation has chosen Donald Trump'", "coordinates": [-77.367049, 39.358915]}
+{"tweet": "'Wow Michigan - of all states I figured you'd see thru Trump hypocrisy on opposing use of cheap labor in China. Idiocy prevails once again.'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@moondoggin_it Nothing to do with Trump, I just wanted to share this with you https://t.co/z4m2p4Mj5k'", "coordinates": [-122.514926, 37.708075]}
+{"tweet": "'@calebgoodman91 apparently it doesn't to Cruz or CruzCrew...or they wouldn't be 'conceding Florida to Trump''", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'Yes we did Trump make America great again  https://t.co/vSQOZ9gKJi'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@liviapolise @vpaige Trump was Me, Me &amp; insults.nHillary in Ohio:   'I want to be the Pres. for the struggling &amp; the striving.''", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'If your name is @marcorubio or @JohnKasich you need to drop out. Your continued candidacy guarantees a #Trump victory. #Cruz2016 #Ohio4Cruz'", "coordinates": [-82.838543, 39.8113]}
+{"tweet": "'@pdxcarmody @Pietro_pdx I could be wrong but I really am not worried about Trump in November. I don't think it will be close.'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'Donald J. Trumpu2019s Northern Virginia golf course has been cited for threatening the Potomac River. https://t.co/RlcECBxvg4'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Trump says he's putting Trump University on hold as he's running for president. @KatyTurNBC https://t.co/6JeXvOLZv9'", "coordinates": [-83.200169, 39.832013]}
+{"tweet": "'Donald Trump's rallies are starting to sound like 45-minute Billy Mays infomercials.'", "coordinates": [-76.514298, 39.498425]}
+{"tweet": "'@ericbolling after listening to Trump He is not like any candidate ever Not brother by anyone no matter who you are.'", "coordinates": [-80.894004, 41.198089]}
+{"tweet": "'stop saying donald trump is a successful businessman when he inherited most of his fortune and half of his businesses have failed'", "coordinates": [-77.443065, 38.61099]}
+{"tweet": "'Chris Wallace pointing out negative things on Trump! HE JUST WIN BIG! Chris you are losing credibility. Trump said solid things! @FoxNews'", "coordinates": [-111.972849, 33.203761]}
+{"tweet": "'Anyone who says 'Trump is interesting because he doesn't give a repetitive stump speech,' has never listened to more than one Trump speech.'", "coordinates": [-98.778559, 29.141956]}
+{"tweet": "'@Ghost_Face88 @KatyTurNBC @MonicaCrowley maybe unethical in journalism. But not illegal - Trump has not yet been elected to anything.'", "coordinates": [-81.474912, 41.500849]}
+{"tweet": "'Donald Trump on Donald Trump: 'There's only one person that did well tonight: Donald Trump.' https://t.co/iJyANcKlWp'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'@guypbenson My Butcher has Trump steaks'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@FoxNews @HowardKurtz Pictures of the 3 Trump haters.'", "coordinates": [-111.894548, 33.306275]}
+{"tweet": "'@youthpastorbry @layla07122 // Carter probably thinks his endorsement of would hurt Trump.  Dems are scared of him as are GOPe &amp; RINOs.'", "coordinates": [-104.860909, 41.078217]}
+{"tweet": "'#Trumpertantrum Continues: Trump drops the F-Bomb on the Campaign Trail https://t.co/ypAU2rTHWt ~ What Trumpkins Look for in a Leader?!?!?!'", "coordinates": [-122.857378, 45.527087]}
+{"tweet": "'Mom: 'oh please no, I'd rather watch fish swim up a sea cucumbers butt than watch Donald trump.'n nWelcome to my family.'", "coordinates": [-96.717492, 34.729522]}
+{"tweet": "'Mitt Romney, the way you attacked Donald Trump, was as successful as your run for president, a failure ! We the people are sick of the BS'", "coordinates": [-104.89098, 39.899695]}
+{"tweet": "'Donald Trump wins Republican primary in Michigan https://t.co/boVToGlG4N'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@WestWingReport They helped the Republicans lose an election they had no business losing by helping Trump, so...'", "coordinates": [-77.172219, 38.827378]}
+{"tweet": "'IT IS NOT ABOUT IS THE MOST CONSERVATIVEnITS ABOUT WHO CAN BEST FIGHT THE ENEMIES OF US CONSERVATIVESnTHAT IS WHY EVANGELICALS VOTE #TRUMP'", "coordinates": [-90.92885, 32.223388]}
+{"tweet": "'@ndiblasio @eclecticbrotha trump finally does something good for America'", "coordinates": [-105.190246, 39.957602]}
+{"tweet": "'@Iservedrinks @CNNPolitics @wolfblitzer I had to turn the channel after only a few minutes. Just pass the barf bags on the tRUMP channels'", "coordinates": [-86.526242, 38.82088]}
+{"tweet": "'Dear U.S. Liberals, hoping to flee to Canada if Trump elected POTUS: Our looney-left quota is now FULL.:face_throwing_a_kiss: Try Cuba https://t.co/wJWQFXnt6w'", "coordinates": [-122.958937, 49.001921]}
+{"tweet": "'More than 4 in 10 Michigan GOP voters said Donald Trump ran the least fair campaign https://t.co/Okf8VzVMUe'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'An Egyptian student who made a threatening Facebook post toward Donald Trump has agreed to leave the U.S. https://t.co/559GYnBcZg'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Any time I read 'projects' and 'Donald Trump' in an alert, I die a little inside.'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'@FoxNews @ChrisStirewalt HOLY CRAP!!!  You mean TRUMP actually RUNS A BUSINESS???... https://t.co/I45h9xE5rl'", "coordinates": [-97.8817, 30.455536]}
+{"tweet": "'Wow Michigan - of all states I figured you'd see through Trump hypocrisy on opposing use cheap labor in China. So much for 'common sense''", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Trump&gt;&gt;&gt;&gt;&gt;&gt; Trump &gt;&gt;&gt;&gt;Trump    #stoptheestablishment  @grantstern  @viaMelissa  @ShellyNorthern  @Annush1  @SarahElles @OccupyMIA  @tedcruz'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'If Trump is interested in ' Making American Great Again', why is his clothing line manufacturing in Bangladesh and China?'", "coordinates": [-95.774704, 35.995476]}
+{"tweet": "'@JusticeWillett @ron_fournier trump's ego is SCARY ! A future Tom Hanks movie !!'", "coordinates": [-75.724892, 39.761505]}
+{"tweet": "'@MonicaCrowley @jenilynn1001 @realDonaldTrump @HillaryClinton Trump! America :flag_for_United_States: :flag_for_United_States:'", "coordinates": [-96.977527, 32.620678]}
+{"tweet": "'I want Clinton to lose more then I want Trump to win'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@bomani_jones @SiskMichael I live in the south &amp; Trump signs popped up almost immediately after the KKK endorsement. It ain't a coincidence'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'Anyone know what Yankee great Paul O'Neil is up to now? #baseball #Yankees #Trump'", "coordinates": [-77.31732, 39.12466]}
+{"tweet": "'@FoxNews @brithume If people had to spend four private hours in Trump's presence, they'd probably be sick to death of him.'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'Why am I not surprised that Donald trump is ahead in the voting'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'Saddens me how many Rubio supporters seem content 2 give the country 2 Trump or Clinton rather than let the GOPe lose control of the party'", "coordinates": [-122.562215, 47.166863]}
+{"tweet": "'@megynkelly @BretBaier @ChrisStirewalt @realDonaldTrump I Have watched Since 1999. Give them up, TRUMP WILL BE PRES! #MICHIGANMISSISSIPPI'", "coordinates": [-81.046876, 35.001706]}
+{"tweet": "'@franktalk525 Those were not Trump steaks. That brand has been defunct for years. Same with the magazine.'", "coordinates": [-76.448383, 36.66]}
+{"tweet": "'@megynkelly @BretBaier @FoxNews You ask why did Trump bring up Trump steaks, water,airlines,ect because Romney said those companies failed'", "coordinates": [-112.409262, 33.638577]}
+{"tweet": "'@Lisam0612Lisa trump talking about his steaks,water, magazine ect proving Romney and super packs are liers!!!!'", "coordinates": [-82.976654, 42.627801]}
+{"tweet": "'@realDonaldTrump A few hundred cases of Trump water to #Flint #Michigan would be  a beautiful thing.'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'Someone said that Paul O'Neill had endorsed Trump. I thought, 'The Treasury secretary?' No, a Yankee!'", "coordinates": [-84.596805, 33.895088]}
+{"tweet": "'Boo. We need @SenSanders to beat @realDonaldTrump  https://t.co/FJTS76KCVP'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@MonicaCrowley @JohnAraujo62 @realDonaldTrump @HillaryClinton Donald Trump is a brilliant man. He will make a GREAT POTUS!!:flag_for_United_States::steam_locomotive:'", "coordinates": [-74.305052, 40.756372]}
+{"tweet": "'It is a hard job Trump,  but you are great  https://t.co/cdmaHBQoth'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'We could use the #PeepleApp to review Trump. Just a thought...'", "coordinates": [-122.514926, 37.708075]}
+{"tweet": "'@Neoavatara @alexburnsNYT I'm from the same place as you are, I go to Wayne State. And im all #TRUMP baby.'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'Remember the Biloxi, MS rally? Trump got around 52% of the gulf coast counties. #MSPrimary #Trump2016 #FLPrimary'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'57% reporting in Ottawa County. Cruz 44%, Kasich 20%, Trump 19%, Rubio 11%. #MichiganPrimary'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "'@CGasparino u look scuzzy y not shave? Take a bath!  TRUMP will win.'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'Trust Trump? Here eat this. #TrumpSteaks'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'I've lost all patience&amp;respect with @marcorubio and @JohnKasich They both know damn well they can't win.might as well be working for Trump'", "coordinates": [-84.482506, 39.101932]}
+{"tweet": "'Trump on efforts to stop his campaign: 'It shows you how brilliant the public is.' https://t.co/nPmc8qeR6i'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@FoxNews @ChrisStirewalt @realDonaldTrump Nope,  women love Trump!  It's you media who don't like Trump!  #Trump2016'", "coordinates": [-114.37582, 34.449228]}
+{"tweet": "'@ericbolling Trump gets killed against HRC. 63% republicans voting against him in Michigan. Got to get it down to a two man race.'", "coordinates": [-81.483315, 30.598822]}
+{"tweet": "'@pdxcarmody @Pietro_pdx we will see 4 months of Trump = KKK ads. Most Americans are not actually down with that.'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'@chefcharming Rush said on radio.. (prob in transcript) this news will help Trump, if voters hear abt it.'", "coordinates": [-83.353955, 32.04683]}
+{"tweet": "'That's close. I wonder if President Trump would eat unfriendly journalists. Washed down with Trump vodka, of course. https://t.co/tERAO8U2h3'", "coordinates": [-74.107995, 40.666879]}
+{"tweet": "'FOX- Wallace going to 'the exit polls' &amp; Trump's victory speech! Surprise Mike FOX Spin has NO effect! Listen to Rollins! TRUMP will win!'", "coordinates": [-73.929156, 41.223801]}
+{"tweet": "'Donald Trump=taking the lumps out. He's giving the MSM, GOP-e, &amp; Romney chance to BE HONEST, @mj_lee @wpjenna. Their move now. Chose wisely'", "coordinates": [-77.220557, 39.053158]}
+{"tweet": "'@EdRollins Sir:  Wake UP...neither Trump, NOR America needs boy Lindsey Graham.  You fellows R VERY SLOW getting THE MSG.!!!!!!!!! :crying_face:'", "coordinates": [-91.51308, 36.970298]}
+{"tweet": "'On #foxnews  @EdRollins keeps reffering to #Trump as a rich billionaire. Are there poor billionaires?'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Donald Trump being considered as a probable presidential candidate some what reflect the values and beliefs of a large group in America.'", "coordinates": [-3.259966, 4.677051]}
+{"tweet": "'Neil bush also just insinuated that Trump is fear mongering China trade &amp; Muslim terror Look at trade $ facts and ask those burned alive'", "coordinates": [-97.034184, 32.771786]}
+{"tweet": "'@VanJones68 If All the GOPers who say they want vote for Trump r telling the Truth...Hillary should win by a landslide'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "''Yup def voting for Donald trump, he has hitch hiker thumbs like me' - @madisongrieb_'", "coordinates": [-83.549674, 42.349201]}
+{"tweet": "'@ron_fournier you noticed that too. Trump v Clinton???'", "coordinates": [-92.889433, 42.491921]}
+{"tweet": "'@P0TUSTrump Go sell some more steak and vodka, Trump. You are a steaming pile of dung and a short fingered vulgarian.#NeverTrump'", "coordinates": [-74.046318, 40.117712]}
+{"tweet": "'I genuinely really truly do feel bad for Trump supporters because of how ignorant they are. I pray to God one day they'll see the real him.'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Anyone in Idaho. How does it look for Trump?'", "coordinates": [-77.31732, 39.12466]}
+{"tweet": "'a lot of ppl seem horrified by trump but don't even think about this fact https://t.co/XdEk2JX2Z8'", "coordinates": [-79.639319, 43.403221]}
+{"tweet": "'@TeamCavuto Ask Gasparino which candidate is matching the $$ that Trump spent with their own money.'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'.@JimmyForTrump @paphotog @realDonaldTrump @MittRomney We the people!! Trump 2016!! https://t.co/8pckLYMPRo'", "coordinates": [-67.998752, 17.83151]}
+{"tweet": "'I mean Trump is going to be president soon, so I guess why not https://t.co/yx9yOsR0Pr'", "coordinates": [-83.287094, 42.277554]}
+{"tweet": "'Trump is worse than her!!!  https://t.co/KQJFA6xafL'", "coordinates": [-97.187543, 33.128938]}
+{"tweet": "'@MMcLeieer Congrats TRUMP!:smiling_face_with_sunglasses::cactus::smiling_face_with_sunglasses: https://t.co/0IMwTqWT7n'", "coordinates": [-111.960775, 33.435864]}
+{"tweet": "'@realDonaldTrump Trump is the best!Trump is a proven leader!Our country is very fortunate!Trump will Make American Great Again!:latin_cross::heavy_black_heart:ufe0f:flag_for_United_States::thumbs_up_sign::statue_of_liberty::grinning_face::ok_hand_sign::sunset_over_buildings::smiling_face_with_sunglasses::white_right_pointing_backhand_index::glowing_star:'", "coordinates": [-90.310298, 34.982924]}
+{"tweet": "'Remember when trump said hed date his daughter if she wasnt his daughter cause same :upside-down_face:'", "coordinates": [-79.047315, 43.589036]}
+{"tweet": "'Also 44% to Trump, wow Michigan, wow'", "coordinates": [-81.877771, 41.392684]}
+{"tweet": "'Saying you will be kicking @realDonaldTrump butt tomorrow after every whipping gets tired. #Cruz. #Kasich #Rubio'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Sanders Massively Outperforms Expectations in Michigan Primary, CNN Ignores It to Cover Trump https://t.co/OaJbl51H6L # via @HuffPostPol'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'Dear @Crayola : Could you please tell what color the skin around Donald Trump's eyes is? nThanks.'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Scratching the surface of a fascist society, which is where a Trump-led USA will sink to... https://t.co/dqaTSQbU4Z'", "coordinates": [-118.082615, 33.628991]}
+{"tweet": "'Mitt Gona shit in pants when trump wins Utah , he can move to Cuba,  rubio won there  https://t.co/m0C6os4a4s'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@realDonaldTrump Detroit loves Donald. We literally beat up or carjack PC wimps like Cruz and little Marko. #Trump #Trump2016 #TrumpMichigan'", "coordinates": [-83.325363, 42.529187]}
+{"tweet": "'@FoxNews @realDonaldTrump It's insulting that @EdRollins thinks #Trump has to 'soften' to gain women voters.Shameful. #MakeAmericaGreatAgain'", "coordinates": [-79.771613, 40.533125]}
+{"tweet": "'@david_wolkin @bigredrobot See if he agrees that Trumpu2019s presidency will induce the birth of our nation.'", "coordinates": [-97.777656, 35.478851]}
+{"tweet": "'Chris Wallace..are you deaf or did you forget your hearing aids..Trump said more than anyone else about what he will do for the economy.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Sorry for all the retweets anyone voting Trump is a fool ! #efftrump #SuperTuesday2'", "coordinates": [-76.500885, 39.359887]}
+{"tweet": "'Do you think Donald Trump has a bigger milk mustache than Joe Mauer? #smallhands'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'@NolteNC @stoyeneso @megynkelly She and Chris won't mention that..very sad.Trump wins,'", "coordinates": [-82.73371, 28.04581]}
+{"tweet": "'Trump hitler,  stop talking trash on China! Your Own clothing line, sold at Macys, is manufactured by the sweat shops in China /Bangladesh!'", "coordinates": [-95.774704, 35.995476]}
+{"tweet": "'@MittRomney Willard did you say 'accepted'?  You begged for Trump's endorsement...so many of us have lost respect for you, kinda sad for you'", "coordinates": [-81.046876, 35.001706]}
+{"tweet": "'Chris Wallace is only talking negative about Trump. SERIOUSLY TRUMP WIN BIG TONIGHT! Said solid things, Presidential! @FoxNews'", "coordinates": [-111.972849, 33.203761]}
+{"tweet": "'@bob_scrilla15 think if he takes Ohio there is a chance the GOP nomination goes to convention. Just trying to avoid a Trump nomination'", "coordinates": [-82.40189, 28.011287]}
+{"tweet": "'@imbrianmur Agreed and unlike Hitler, Trump is not a socialist. Few realise that socialism, marxism and communism all lead to the same thing'", "coordinates": [144.593742, -38.433859]}
+{"tweet": "'Beyond comprehension that @CNNPolitics let Donald Trump ramble on and on and on, and didn't cover Hillary's important inspiring speech'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'@Doobydoobydo @feanquan1 @realDonaldTrump that can change TRUMP ir cruz'", "coordinates": [-81.498112, 40.767243]}
+{"tweet": "'@jaywnj Bernie won Michigan. That's after she try to nail him on the auto bailout. Trump could even make a run @ NY and NJ.'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'Florida vote for trump let's get on role make America great again'", "coordinates": [-73.338573, 41.117308]}
+{"tweet": "'@marcorubio Your a joke just go home already you're making a fool of yourself Trump 2016'", "coordinates": [-70.978426, 41.591322]}
+{"tweet": "'@FoxNews Trump is a very smart man- business man!'", "coordinates": [-105.697156, 41.248625]}
+{"tweet": "'I'm so disappointed Trump won Michigan. I'm so ashamed.'", "coordinates": [-85.649602, 42.215555]}
+{"tweet": "'@marcorubio Fold that tent son. Save yourself, not the Elites, their using you son for no good! Drop out now! Let Cruz/Trump battle. RTALL'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'@FoxNews Quit whining about Trump enjoying his 'moment' tonight. Was he holding your hands on the camera to film him?'", "coordinates": [-112.383963, 34.547369]}
+{"tweet": "'u201c@mikememoli: Now imagining Donald Trump's weekly prime-time news conferences as president.u201d #nevertrump'", "coordinates": [-74.312288, 40.670152]}
+{"tweet": "'THEY ASK WHY TRUMP BROUGHT UP ALL THOSE BUSINESS LIKE TRUMP STEAKS. HE BROUGHT THEM UP BECAUSE ROMNEY SAID THEY HAD FAILED. ROMNEYnLIED'", "coordinates": [-112.409262, 33.638577]}
+{"tweet": "'#Trump has now won 14 states in the Republican presidential contest. This joke has ran its course #MichiganPrimary https://t.co/HpXVjbZg0v'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Trump selling his steaks tonight. Peyton Manning wants nothing to do with them. Omaha! #Omahasteaks'", "coordinates": [-79.104961, 33.469895]}
+{"tweet": "'Trump steaks, wine, water, vodka       Fuck yeah !!!!!!! https://t.co/10sneSd2JF'", "coordinates": [-80.330201, 26.088262]}
+{"tweet": "'@FoxNews : Trump will do better with women from today since he said something nice to you! Megyn! #MegynKelly.'", "coordinates": [-87.626729, 33.098411]}
+{"tweet": "'Donald Trump was actually incredible tonight'", "coordinates": [-80.26099, 27.262921]}
+{"tweet": "'Media Tomorrow...nnTRUMP IS HITLER CUZ TRUMP IS HITLER!!!!!!!!!'", "coordinates": [-81.7384, 36.183417]}
+{"tweet": "'Trump solidifies lead with primary victories in Michigan and Mississippi.'", "coordinates": [-77.185672, 39.118326]}
+{"tweet": "'Michigan and Misssissippi had record turnouts and Trump won them with Trump getting 49.7% with 63% of the vote counted. He could break 50%.'", "coordinates": [-88.294633, 41.444387]}
+{"tweet": "'@sallykohn Are you going to step up your point since all networks showed Trumps rambling over Clinton's speech? Appalling!'", "coordinates": [-106.791691, 35.015891]}
+{"tweet": "'Everyone's going to be sorry when trump gets elected then turns into Hitler...'", "coordinates": [-86.317101, 41.80097]}
+{"tweet": "'IN THE WORDS OF #Trump MR SANCHEZ ..BUILD THAT WALL #Trump2016'", "coordinates": [-75.172079, 39.76854]}
+{"tweet": "'#MichiganPrimary We're watching HRC tape delayed. Why? So we could see Trump's meat live?'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'We know trump didn't win presidency dummies but he's most likely gonna be the republican primary going against whoever wins democrat :face_with_rolling_eyes:'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'So u got rid of Carl to bring in trump trumpeter Ed:exclamation_question_mark:ufe0f https://t.co/loL6JRqKtC'", "coordinates": [-114.636486, 50.309675]}
+{"tweet": "'@ladeyday a lobotomy would be better than listening to that clown (Trump) and might help me to understand what the heck he is talking about'", "coordinates": [-80.177525, 26.879058]}
+{"tweet": "'Ok ur gonna delete me off fb because I'm a Donald trump fan get a fucking life like I care @realDonaldTrump'", "coordinates": [-71.207236, 42.449701]}
+{"tweet": "'#Trump #Trump2016 Chris Wallace &amp; Krothhammer complaining about @realDonaldTrump s speech tonight!  He must be doing something right!!!!!'", "coordinates": [-96.639667, 40.375437]}
+{"tweet": "'That is a lie. Trump said Paul Ryan is a nice guy. https://t.co/4x5AsFAuWn'", "coordinates": [-122.069956, 37.454962]}
+{"tweet": "'Way to go to our future President Trump!Show them how you can be Presidential!We know you can beat them all in Florida! @realDonaldTrump'", "coordinates": [-74.124405, 41.043726]}
+{"tweet": "'Trump slowly pulling together coalition of diverse angry voters not seen b4 -- terrifies establishment bc renders gerrymandering useless.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Careful a win in Ohio sets him up for PA. He could be last man standing with Trump after April 26. https://t.co/RoVR5r9nWC'", "coordinates": [-82.437901, 27.735035]}
+{"tweet": "'Let Trump get president. I dare you.:face_with_tears_of_joy::hundred_points_symbol:'", "coordinates": [-86.339696, 43.201538]}
+{"tweet": "'#Trump = Totally Ridiculous Unreal Mutation of Politics.'", "coordinates": [-73.508143, 41.187054]}
+{"tweet": "'Contrast could not be more striking Mrs.  Clinton is all about class warfare  - Trump talks about inclusion - wow.'", "coordinates": [-93.523339, 44.890915]}
+{"tweet": "'@FoxNews .. You have these political 'experts' taking shots at Trump bc he spoke too long &amp; on many topics ? That's what appeals to voters!!'", "coordinates": [-74.237314, 40.788029]}
+{"tweet": "'@TheKonfident1 and all I got on my tube was Trump.'", "coordinates": [-97.186747, 32.530915]}
+{"tweet": "'@FoxNews fOXNews is doing their number trying to tear down Donald Trump'", "coordinates": [-116.374494, 43.510172]}
+{"tweet": "''I haven't seen such a stream of disconnected ideas since I quit psychiatry 30 years ago.' -Krauthammer #trump :face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2::clapping_hands_sign::emoji_modifier_fitzpatrick_type-1-2:'", "coordinates": [-87.721811, 34.77898]}
+{"tweet": "'@FoxNews @realDonaldTrump  Trump had to show Romney is wrong and put that all to rest.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@doughlyg1 @feanquan1 so true dint want TRUMP or.cruz ..croiked party'", "coordinates": [-81.498112, 40.767243]}
+{"tweet": "'CNN ran the whole Trump press conference too. He's good for ratings so no one can afford to cut him.  https://t.co/WzHs5i8HR6'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@realDonaldTrump @martys1girl1 CONGRATULATIONS MR TRUMP!! Please show more LOVE TO US WOMEN !! Your TOOO man SENSITIVE AND US WOMEN VOTE !!'", "coordinates": [-97.972161, 34.623509]}
+{"tweet": "'@steph93065 @LeahR77 The bigger man, Trump is'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'u201c@Acosta: Penalty flag: Trump used that line about being the most presidential except Abe Lincoln Saturday night.u201d #nevertrump'", "coordinates": [-74.312288, 40.670152]}
+{"tweet": "'@ThankYouDonald @joexg30  When TRUMP debates with Clinton there best be a Dr. at hand cause she will need one to resurrect her. Demolish her'", "coordinates": [-121.69198, 36.643802]}
+{"tweet": "'It's honestly annoying that trump is winning primaries'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'@Destinbeach22 @Leo_eight20 @CNN @VanJones68 Thank you Paris! Van has a tough time about being wrong about Trump.  They are all scared!!'", "coordinates": [-82.73371, 28.04581]}
+{"tweet": "'@realDonaldTrump @SenTedCruz Ugh,What's This Shit :pile_of_poo:About?Oh It's Cruz:grinning_face_with_smiling_eyes::face_with_tears_of_joy::face_with_tears_of_joy:https://t.co/IIgEst0rjm'", "coordinates": [-74.40771, 41.010888]}
+{"tweet": "'I've lost all patience &amp; respect for @marcorubio and @JohnKasich They both know damn well they can't win. Might as well be working for Trump'", "coordinates": [-84.482506, 39.101932]}
+{"tweet": "'Tonite was the best speech I ever heard from Mr. TrumpnThis guy just keeps getting better and better'", "coordinates": [-75.732263, 40.819082]}
+{"tweet": "'https://t.co/wNoUupniXYn@realDonaldTrump nAMMO FOR THE GENERAL ELECTION!'", "coordinates": [-94.61771, 33.004106]}
+{"tweet": "'Carson should have stayed in so #Rubio would have beat someone. Go #DonaldTrump #Donald keep whipping these donkeys.'", "coordinates": [-84.483298, 39.295742]}
+{"tweet": "'@fxnopinion fox is constantly saying what Trump should say and do... Why should he change? He is winning!'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'Plenty of women attending Trump rallies. https://t.co/ykA4FX6BjS'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "''Bruins are winning. Bernie's winning. UHH UUHHHHH I feel like Trump right now ' - @curious_garno'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'@maddow @JoyAnnReid please correct Brian W - he just blamed Hillary for daring to come out and speak while trump was speaking grrrrrr'", "coordinates": [-73.772692, 40.919044]}
+{"tweet": "'Trump touts victories, calls for GOP unity  https://t.co/CW3Iscudyf'", "coordinates": [-82.620093, 27.821353]}
+{"tweet": "'@Doobydoobydo @feanquan1 @realDonaldTrump TRUMP or cruz establishment dont wAnt either one.terrible'", "coordinates": [-81.498112, 40.767243]}
+{"tweet": "'Florida poll: Trump up by 20 over Rubio https://t.co/DchTEel8CX u2606u2606u2606u2606u2606u2606u2606u2606u2606u2606u2606u2606u2606u2606u2606u2606u2606'", "coordinates": [-80.737408, 27.910056]}
+{"tweet": "'Welfare Queen #Trump Cried Poor To Swindle $150,000 in 9/11 Victims Funds For His Wall Street Officesnnhttps://t.co/SWVwkmq1vz'", "coordinates": [-80.321683, 25.70904]}
+{"tweet": "'Cruz is doing well here in West Michigan.. but Trump dominating in all other regions of the state. #MichiganPrimary https://t.co/IIiPedelAr'", "coordinates": [-85.90144, 42.842935]}
+{"tweet": "'@megynkelly @realDonaldTrump @SpeakerRyan Ryan was in Sea Island Georgia this conspiring to behead Trump....'", "coordinates": [-95.679001, 30.23105]}
+{"tweet": "'@FoxNews @ChrisStirewalt @marcorubio Rubio Pitter Patter Politics. nIt's over little Marco!n#Trump2016'", "coordinates": [-80.203991, 26.320692]}
+{"tweet": "'Little Marco needs to drop out pronto. Trump wins 10/10 times in a three person race. Don't even get me started on John 'Oh My God' Kasich'", "coordinates": [-70.967789, 43.110605]}
+{"tweet": "'do you ever just wanna run up to Trump, pull out the little amount of hair he has left on his head, and then run away? bc same'", "coordinates": [-84.277571, 43.576005]}
+{"tweet": "'@NolteNC Wow,Fox Bus had Neil Bush on,,The Demeanor Insults,Against TRUMP,,Wow,,shocking,,'", "coordinates": [-78.801819, 42.803843]}
+{"tweet": "'If you are undecided you MUST watch this video about Trump.   nnhttps://t.co/oLbEUMz4jx. @tedcruz @marcorubio @realDonaldTrump'", "coordinates": [-91.774579, 41.886245]}
+{"tweet": "'Read definition for Narcissist personality disorder! Should have Trump pic next to it! @FoxNews @CNN n#NeverTrump'", "coordinates": [-79.06754, 33.614208]}
+{"tweet": "'So Donald trump is fucking winning.....! He better enjoy his damn life that fucking fucker !'", "coordinates": [-110.750713, 34.980467]}
+{"tweet": "'Can you still only buy Trump Steaks @ The Sharper Image &amp; is The Sharper Image still a thing?'", "coordinates": [-92.889433, 42.491921]}
+{"tweet": "'He is a unifier! Look at us! @realDonaldTrump #makeamericagreatagain  https://t.co/aUiXT1exaE'", "coordinates": [-83.353955, 32.04683]}
+{"tweet": "'That is just sad...I think he went down hill when he jumped in the pig pen with #Trump. https://t.co/t662BI7dX2'", "coordinates": [-95.661376, 30.10764]}
+{"tweet": "'The nicest thing Trump has done is bring steaks to put over the black eye that is the Republican candidates.'", "coordinates": [-86.624429, 35.879451]}
+{"tweet": "'@js_jacques @medford_mark @FreeBeacon as Trump says they are ripping us off everyday and they know he will put an end to that quickly'", "coordinates": [-71.25212, 41.708307]}
+{"tweet": "'@LukeRussert it is amazing what the media is doing. All by Trump's bombastic beginning making him an accident all need to watch:confused_face:'", "coordinates": [-92.889433, 42.491921]}
+{"tweet": "'.@krauthammer on Trump speech: 'I don't think I've ever heard a stream of disconnected ideas since I left psychiatry; it was very weird.''", "coordinates": [-81.347775, 28.738984]}
+{"tweet": "'@NolteNC Re: Trump &amp; Hitler, you should check out the video @StefanMolyneux made about the subject. Brilliant stuff'", "coordinates": [-71.160356, 42.352429]}
+{"tweet": "'@C0nservativeGal Van Jones Is disgusting - media will pick apart anything that Trump says - eye roll https://t.co/aiIY6ZPJua'", "coordinates": [-91.655009, 30.146096]}
+{"tweet": "'Trump just gave a great speech..not scripted..from his heart to the people.He will surround himself with brilliant leaders.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Metro Boomin doesn't trust Donald trump so my only hope is for Future to make a fucking move before it's too late'", "coordinates": [-83.287094, 42.277554]}
+{"tweet": "'Somebody come with me to this Trump rally tomorrow:loudly_crying_face:'", "coordinates": [-79.195342, 34.936245]}
+{"tweet": "'Funny to hear people talk about the sad state of the GOP party when listening to Trump speak. Have they heard Palin or W speak? #p2 #fb'", "coordinates": [-118.250227, 33.732905]}
+{"tweet": "'Trump is on a roll,  vote for Trump 2016 ,make America great again  https://t.co/aEp6jf5irS'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@SenateMajLdr It appears that ~$35M of Trump attack ads were totally irrelevant in tonite's primary returns:smiling_face_with_sunglasses:'", "coordinates": [-97.383285, 32.470102]}
+{"tweet": "'If that loser trump gets elected anyone wanna move to Canada with me??'", "coordinates": [-83.433894, 42.352453]}
+{"tweet": "'@gretaistrash Greta Schnieter, a proud conservative republican, avid trump supporter, equestrian fanatic &amp; teen mom https://t.co/fxXmbMUADe'", "coordinates": [-81.442077, 40.853129]}
+{"tweet": "'I said on the Monday after the weekend Rubio went crazy on his Trump attacks. That killed him and if not for gang of 8, I like him. #itsover'", "coordinates": [-84.710722, 39.052962]}
+{"tweet": "'Trump continues to win even with everyone trying to bring him down. I just don't get it. Is this really going to happen??#UGH'", "coordinates": [-81.391771, 41.275668]}
+{"tweet": "'@NoiseCollector_ @tangiers33 @magnifier661 @risetoflyy @CarolHello1 @ToscaAusten there goes Nazi Krathheimer the trump hater like Nazi Cruz'", "coordinates": [-80.131529, 25.900463]}
+{"tweet": "'@ericbolling  Trump for president! Romney &amp; friends tried, but it didn't work! 38 million dollars later Trump did well!'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'@The_Claire_Bear @WendyLongNY I could be wrong, but didn't Ivana say that Trump raped her in her book?  Those pesky details.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@chucktodd @alcardfan Chuck, I was thinking that about you, and all your hit pieces on Trump! Epic Fail!!'", "coordinates": [-82.73371, 28.04581]}
+{"tweet": "'Trump dips below 50% in Mississippi... but for how long? #MississippiPrimary'", "coordinates": [-92.158649, 30.115967]}
+{"tweet": "'@soderstrom @RWayne79 They just can't. It's amazing watching them lash out in anger. Their guy is going to give Trump the nomination.'", "coordinates": [-122.562215, 47.166863]}
+{"tweet": "'Question for General: Can #Trump pull African American voters from #Hillary?'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'Trump steaks, wine, water, vodka under Secret Service protection LMAO !!!!!! https://t.co/5vykPYOJgj'", "coordinates": [-80.330201, 26.088262]}
+{"tweet": "'@BarryNMooch @TeamTrumpAZ Trump WINS..Fox News losers!:smiling_face_with_sunglasses::cactus::smiling_face_with_sunglasses: https://t.co/1UR7zj80HY'", "coordinates": [-111.960775, 33.435864]}
+{"tweet": "'DONALD TRUMP SO DISRESPECTFUL. THAT SHIT A NO FLY ZONE ROUND HERE'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'Trump is like that blockage in the commode. No matter how hard you plunge it, it won't go down.'", "coordinates": [-86.191466, 34.165112]}
+{"tweet": "'Trump dismisses efforts to stop his campaign: 'It shows you how brilliant the public is.' https://t.co/DA4BqfomL9'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@NolteNC you don't understand. nnI won't be painted as whatever abomination trump turns public perception of conservatism into.n#NeverTrump'", "coordinates": [-91.03922, 30.388179]}
+{"tweet": "'Trump said he can get along with Mitt Romney fine. He didn't work hard enough to be prez and is a loser, but yeah, we'll get along fine.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Trump will be the people's president...like Princess Diana was the people's princess.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Michigan chose Trump. https://t.co/kJRwye5z5t'", "coordinates": [-83.692863, 42.959625]}
+{"tweet": "'Anybody who is suprised trump keeps ignorant... Does not believe majority of white America is racist...but this is the proof'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'@drea4liberty yes, they've been doing it for different out comes in all states.. promoting Trump, keeping Rubio/Kasich in etc'", "coordinates": [-83.353955, 32.04683]}
+{"tweet": "'Trump post primary speech was just appalling. A mini info commercial on his products and of course how great he is.'", "coordinates": [-96.234587, 41.175884]}
+{"tweet": "'Trump doesn't have the support of his own party. What makes his supporters think he'll be able to get anything done? Both parties hate him.'", "coordinates": [-76.448383, 36.66]}
+{"tweet": "'As an Ohio guy, I have enough reasons 2 hate #Michigan passionately. Trump just won the state. No matter what, that state's great at losing.'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'thought @ChrisStirewalt was going 2 cry - hes literally beside himself &amp; somebody get Charles air. #HonestAbe #trump https://t.co/kuO4m0R2Kk'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'Charles krauthammer just said that 'u have to have a sense of humor about trump or else u would be terrified''", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'Just waiting until the general election in November. Hillary or Bernie will beat Trump if it is indeed Trump as the Republican nominee.'", "coordinates": [-83.437523, 42.439001]}
+{"tweet": "'@HawkinsUSA Actually I think 2 of the candidates should get out. Only chance to beat Trump. Any other year the GOP would make sure only 1/2'", "coordinates": [-82.649284, 27.968367]}
+{"tweet": "'@BWilliams Please apologize for that sexist and inexcusable comment. take the blame for choosing to air trump's endless diatribe'", "coordinates": [-73.772692, 40.919044]}
+{"tweet": "'First order of business for President Trump. Can Mitch McConnell'", "coordinates": [-98.778559, 29.141956]}
+{"tweet": "'how do I mute the word 'trump' :face_with_rolling_eyes:'", "coordinates": [-96.977527, 32.620678]}
+{"tweet": "'Can only imagine the Establishment msm elitists attacks Trump's wife &amp; daughter if he brought them out Trump No Way https://t.co/aR7yOls0Gy'", "coordinates": [-77.195221, 40.095412]}
+{"tweet": "'Never trump'", "coordinates": [-86.25064, 39.529358]}
+{"tweet": "'I wonder what the next big thing is gonna be that everyone goes crazy about. I just hope it's not trump as president'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Right now it's Trump becoming POTUS  https://t.co/gNLEMEEEmZ'", "coordinates": [-85.649338, 42.288789]}
+{"tweet": "'Donald Trump selling his steaks, wine &amp; water. Abe Lincoln also has his product. #Election2016 #Presidential https://t.co/rU1JzyowjB'", "coordinates": [-117.213215, 46.70823]}
+{"tweet": "'@realDonaldTrump @krauthammer  'I don't think I've ever heard such a string of disconnected ideas.' Kraut, Trump CONNECTS with People. Do U?'", "coordinates": [-94.45916, 38.805502]}
+{"tweet": "'If you truly want Donald trump to be president I don't know how to feel about you'", "coordinates": [-75.168425, 39.679348]}
+{"tweet": "'@foxnews Trump held out the olive branch. If GOP can't accept that, it's their problem. Trolls.'", "coordinates": [-93.13284, 36.672395]}
+{"tweet": "'If you heard @realDonaldTrump speech tonight he is in full blown presidential mode, he exposed Lil Marco and Cheater Cruz &amp; flipped scripts'", "coordinates": [-115.384091, 36.129459]}
+{"tweet": "'@Tallulahs_Ghost What scares me is the inevitable Trump style candidate with that rat fucking,dingo in heat bastard Nixon's political skills'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'Come on Idaho, we're counting on you patriots! Help run the table 4 Trump! Let's take our country back from paid 4 lifetime politicians!'", "coordinates": [-77.26774, 39.078493]}
+{"tweet": "'Every #Trump victory results in @megynkelly having shorter hair. By November, I predict a Trump win and: BALDNESS! https://t.co/Rf7pFvwgrz'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@RedWest1 @eyesner1985 @ChuckNellis @PolyPatriot // Trump may not be a pedigree conservative but he is a capitalist and not socialist commie'", "coordinates": [-104.860909, 41.078217]}
+{"tweet": "'Trump is very, very lucky in the splitness of his opposition. Of course, that's politics. (Worked in America's favor in 1860.)'", "coordinates": [-84.596805, 33.895088]}
+{"tweet": "'@foxnation @realDonaldTrump Hey Megan Kelly the Donald won Michigan!!! The Trump train roll's on...'", "coordinates": [-82.707012, 34.447616]}
+{"tweet": "'Lost my vote now. Trump will end chemtrails and #makejetfuelgreatagain https://t.co/U2ZoB966Mc'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'@realDonaldTrump  to bring back the female vote Trump needs to pick a female running mate to beat HRC you're opinion'", "coordinates": [-96.154053, 32.888325]}
+{"tweet": "'Meanwhile #LyingTed @tedcruz trying 2 spin tonight 4 the #CruzFew #Yuge #MAGA #AlwaysTrump #WeThePeople  LOVE Trump https://t.co/vw5V0NWQrq'", "coordinates": [-86.348441, 39.631677]}
+{"tweet": "''See? These Trump steaks are still good! They're amazing!' *Tump gnaws on a raw porterhouse, blood tears rolling down his face*'", "coordinates": [-84.710722, 39.052962]}
+{"tweet": "'#Trump's prevailed despite onslaught from donor class, GOP-e, MSM, @NolteNC @jamesspivey. He took lumps out. Their move next. Choose wisely!'", "coordinates": [-77.220557, 39.053158]}
+{"tweet": "'I suspect the close Dem race in Michigan is due to white 'Democrats' voting for Trump'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'@GarrettVentry Rubio HAS to win. Trump, Cruz will cost us WH, Senate &amp; maybe House. #NeverCruz #NeverTrump'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@JohnKingCNN  Why didn't @CNN at least show a portion of Clinton's speech? Trump went on and on. I left to feed the cats.'", "coordinates": [-96.806031, 40.710053]}
+{"tweet": "'The #feelthebern people commenting on the #MIPrimary are nastier than anything I've seen out of Trump's supporters. #riseabove'", "coordinates": [-85.847503, 38.108678]}
+{"tweet": "'#President DJ Trump!:smiling_face_with_sunglasses::cactus: https://t.co/kbJtID432x'", "coordinates": [-111.960775, 33.435864]}
+{"tweet": "''Donald Trump wins Michigan' https://t.co/7fUWqpnW5a'", "coordinates": [-86.197409, 42.728541]}
+{"tweet": "'Excuse me I hate to be rude, but it's you're not your, you can tell you're a typical illiterate trump supporter. https://t.co/pvrU7hBSlT'", "coordinates": [-80.321683, 25.70904]}
+{"tweet": "'Trump is offering the GOP an olive branch (and steaks and wine)....nnTime to turn the Death Star towards Hillary.nnFor America.'", "coordinates": [-81.7384, 36.183417]}
+{"tweet": "'I hope #trump wins in Wayne County. Thats my area. #DETROIT :)n#Trump2016'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'American People let me introduce you to our President Donald Trump. The American people choice. We love you Trump https://t.co/IquKXhbRTi'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@kittykataurora trump is genius tho'", "coordinates": [-118.144082, 33.974263]}
+{"tweet": "'Another Hitler? How world leaders see Trump https://t.co/FZSE4aksmW via @usatoday'", "coordinates": [-80.298308, 26.178836]}
+{"tweet": "'@OneMadMomBlog @CaseyParksIt @LuvCurlin @ChrisLoesch how is he going to overcome the early voting for Trump and Rubio?  Answer: He can't.'", "coordinates": [-88.097892, 37.771743]}
+{"tweet": "'nothing in the rules that says a dog can't get on the podium at a Trump press conference https://t.co/R6HRWiZS7E'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Know what hasn't gotten enough attention this cycle? That quasi-Monopoly Trump board game. Going for $800 on eBay https://t.co/GQImJoe5yx'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'@voxdotcom Thank goodness they're not! Just imagine if the fell on an up day for Trump...or Carson for the matter. The gift of time is good.'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'It irks me when people compare Trump with Lincoln. :/'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'I don't understand how Trump is still in this race...'", "coordinates": [-80.248975, 25.986228]}
+{"tweet": "'If God really exited, He would have taken a god-sized dump on Trump's head by now.'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'All us blacks need for the election to head in our favor is for Eminem to say 'Fuck Trump!''", "coordinates": [-84.576827, 33.647503]}
+{"tweet": "'@realDonaldTrump Congratulations, Donald Trump. Mississippi &amp; Michigan, Thanks To Your Votes for Trump !'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'#NeverTrump nWrite in!nTrump or Hillary? Does it matter? Both criminals/ liars! https://t.co/ErLV2FEHT4'", "coordinates": [-79.06754, 33.614208]}
+{"tweet": "'Trump never ceases to amaze. #Trump2016'", "coordinates": [-89.57151, 36.497129]}
+{"tweet": "'@PhinsDiehard @marcorubio I hate to be rude but I take it you have missing teeth and your neck is red, like all uneducated Trump Supporters.'", "coordinates": [-80.321683, 25.70904]}
+{"tweet": "'@tristanwalker first need to make Trump actually spend money on something rather than just dominating social &amp; mainstream media for free'", "coordinates": [-80.872118, 35.213182]}
+{"tweet": "'Can I just say how much I FRICKEN hate trump. I'm sure he's not bad that horrible in person but he can get away with what the heck he wants!'", "coordinates": [-74.237314, 40.788029]}
+{"tweet": "'why did trump win the repub vote? what is happening.'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'@RichBChambers @BenHowe He will win the general.  It's your choice.  Hillary or Trump.'", "coordinates": [-95.178987, 29.438994]}
+{"tweet": "'The same no-nothings who predicted a massive Marco #Rubio blowout this election all over Fox News telling us #Trump can't win. Rightttt.'", "coordinates": [-89.853527, 30.235705]}
+{"tweet": "'Trump supporters are mainly older (white) men - gender gap widening. Support among women in Michigan dropped 15 pts. https://t.co/x54ZieyGh5'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'Donald Trump supporters tonight are like https://t.co/qh9QH5juek'", "coordinates": [-122.514926, 37.708075]}
+{"tweet": "'.Trump is very happy he isn't gunning one on one with Cruz because Cruz would be mopping the floor with Trumps toupee. #NeverTrump'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'Trump will make America great again &amp; many will have egg on their faces.Michigan sure slapped some egg on some faces.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@SLCHershey @vakaviti Itu2019s not their fault the media grants Trump unlimited free air time.'", "coordinates": [-87.626729, 33.098411]}
+{"tweet": "'I have been,to Trump's winery it's beautiful. https://t.co/7DW13iOzF9'", "coordinates": [-77.31732, 39.12466]}
+{"tweet": "'@CGasparino u just sound dumber&amp; dumber trying to explain how Trump will not win nomination. Just stop, ur wrong dimwit #Trump2016'", "coordinates": [-81.628444, 40.995137]}
+{"tweet": "'@VanJones68 Picture him meeting Queen Elizabeth II and going on &amp; on about all things Trump. Draft dodger meets a woman who served in WWII.'", "coordinates": [-123.224215, 49.19854]}
+{"tweet": "'MI exit polls: @JohnKasich strong favorite of voters deciding in last week w 40%. Trump dominated those whose mind was made up w 49%.'", "coordinates": [-77.126033, 35.072221]}
+{"tweet": "'John Kasich is the best republican by a long shot. He deserved to win Michigan, not trump.'", "coordinates": [-81.048291, 32.007649]}
+{"tweet": "'@guypbenson I'm Sure That A Headline @FBI Topic @realDonaldTrump Ends His Campaign For WH - NY Cut? @kyramarat1  https://t.co/FNRDuoA6p6'", "coordinates": [-70.89979, 42.087283]}
+{"tweet": "'A vote for Trump is an endorsement of Obama! https://t.co/1AowUq7zoS'", "coordinates": [-98.778559, 29.141956]}
+{"tweet": "'if Trump is Hitler, then Bernie must be Stalin??? https://t.co/BgHyctAO7Q'", "coordinates": [-81.784858, 41.37066]}
+{"tweet": "'America needs to consider their options. Donald Trump is not presidential material; smart people would have figured that out already.'", "coordinates": [-3.259966, 4.677051]}
+{"tweet": "'2nite @krauthammer said conservative Christians support Trump, not b/c he shares their values but b/c they think he will protect them. Hmm.'", "coordinates": [-89.57151, 36.497129]}
+{"tweet": "'What #Krauthammer is discribing is #Trump's #charisma. But, like the rest of the detractors, he refuses 2 admit it 2 himself. #FNC #Foxnews'", "coordinates": [-111.083219, 32.057802]}
+{"tweet": "'@JamesFallows Got me. Why is it Trump' fault for winning? People should be mad at what his victories say about the country...'", "coordinates": [-73.388984, 41.094742]}
+{"tweet": "'trump is winning bru'", "coordinates": [-73.962582, 40.541722]}
+{"tweet": "'@realDonaldTrump is the most conservative republican in this election!   https://t.co/hnNz4Poj96'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'This just in: trump reportedly recipient of penis implant and first ever recipient of fingertip implants after thursday debate'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'@madisonseattle I still say R's in a better position if you jettison Trump supporters and just steal some of ours. D's aren't loyal.'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'More Trump lies. #NeverTrump  https://t.co/Ob9zUqLr1N'", "coordinates": [-71.289902, 42.352885]}
+{"tweet": "'Just wanted Fox to know that I am switching to CNN &amp; many of my conservative friends are doing the same as you have not been fair to Trump'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Media tomorrow...nnTRUMP DIDN'T DISAVOW DAVID DUKE!!!!!!!!!!!!nnHe didn't come upnnHE NEVER CAME UP FOR HITLER EITHER!!!!!!!!!!!!!!'", "coordinates": [-81.7384, 36.183417]}
+{"tweet": "'@johnrobertsFox @tedcruz @realDonaldTrump Watching Trump talk I thought for sure Richard Simmons was going to walk out and sell something'", "coordinates": [-80.248423, 43.050553]}
+{"tweet": "'@MSNBC Rachel Maddow can't understand why Trump is a fascist. Weird.'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'@foxandfriends @realDonaldTrump  a great news conference by Trump. Your coverage disrespectful'", "coordinates": [-91.51308, 36.970298]}
+{"tweet": "'Trump talk turn into a Trump rally'", "coordinates": [-91.80334, 37.914961]}
+{"tweet": "'Is Trump Steak that thing in Chris Christieu2019s baseball pants?'", "coordinates": [-116.567788, 33.779426]}
+{"tweet": "'@PortlandCTA 11/08-11/15 Dems have lost 900+ state legislature, 69 House, and 13 Senate seats &amp; 12 Govs.  Not my choice but Trump could win'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'Bernie is winning in Michigan but then again so is trump'", "coordinates": [-83.831237, 42.899436]}
+{"tweet": "'Hear Bernie Sanders is going to trump the Donald by bringing out Bernie's Matzoh Ball Soup and Sanders' Schmatas at his pending presser.'", "coordinates": [-83.441942, 42.52605]}
+{"tweet": "'@MichaelBerrySho @realDonaldTrump @POLITICOvideo sorry for your losses Trump steaks serving ground Marco and chopped Ted next week.'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'@krauthammer so funny,saying hasn't heard speech like #Trump's since his psychiatrist days 30yrs ago. @BretBaier can't keep a straight face.'", "coordinates": [-88.019025, 42.24901]}
+{"tweet": "'@fedUpTrumpVoter @Lrihendry Well that dif not work so well, other than help@him beat Cruz and Rubio'", "coordinates": [-73.857244, 45.462601]}
+{"tweet": "'@grandhipoohbah flat wrong. Trump fans are morons. https://t.co/4QtK5rx9v5'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@davidaxelrod exit polls showed there was a crossover vote from Dems to D Trump to solidify him as a Republican nominee 2go against Hillary'", "coordinates": [-82.976654, 42.627801]}
+{"tweet": "'And not one news network cuts away for Hillary - No wonder Trump doesn't spend any money on ads, he doesn't need to  https://t.co/byOIaPVTsy'", "coordinates": [-77.144435, 38.789907]}
+{"tweet": "'@hughhewitt @HillaryClinton Hillary looses no matter what. Trump has way too many crossovers for ANY democrat to hurdle.'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'.@slone fox is scared, double down w/Mitt--otherwise lose establishment &amp; should #trump win :) they'll claim victory https://t.co/AfjWYf45qq'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'How to get favorites on TwitternStep 1: say something bad about TrumpnStep 2: get favorites'", "coordinates": [-83.320966, 42.507065]}
+{"tweet": "'Just getting home. Trump won Michigan and Mississippi?!'", "coordinates": [-79.639319, 43.403221]}
+{"tweet": "'The only thing that can cleanse the palate after watching Trump. https://t.co/SnxKeMIUHu @theCanadaParty'", "coordinates": [-87.022482, 35.994568]}
+{"tweet": "'When Trump supporters unfollow me... https://t.co/FCOK8K6m0Z'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'@acham_13 EAT YOUR WORDS.  I live in detroit, trump has a lot of support here.'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'The only thing I would want from a Trump presidency is a surge in Jodie Foster's fan base. n#MakeTrumpDrumpfAgain'", "coordinates": [-90.01355, 38.52163]}
+{"tweet": "'Really could use a cool and frosty Trump Beer right about now.'", "coordinates": [-122.577014, 37.886099]}
+{"tweet": "'Art of the Comeback: Trumpu2019s Big Tuesdayu2026nn Rubio Crushedu2026nn MI: Sanders 50%, Clinton 48%nn Later: ID, HI https://t.co/HkOBh3HpRu'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'@Bill7360 Thanks for your service. Go Trump!'", "coordinates": [-122.498909, 45.460886]}
+{"tweet": "'President Trump as handsome young mam!! https://t.co/el8PhM3sIg'", "coordinates": [-80.58362, 35.868195]}
+{"tweet": "'@FoxNews @megynkelly @oreillyfactor I can't stand Trump. However after the horrible coverage by FNC and MK I will not watch fox again.'", "coordinates": [-83.659922, 42.776081]}
+{"tweet": "'Wow! What's happening in Mich with #FeelTheBern is interesting. What does the success of candidates like Trump and Sanders tell us?'", "coordinates": [-94.455929, 45.436941]}
+{"tweet": "'@vpaige @nashvillez @HillaryClinton @CNNPolitics Yes pay attention. You're using Trump for ratings and being sexist. Sending her more $'", "coordinates": [-83.374825, 30.762483]}
+{"tweet": "'@FoxNews @marcorubio Marco sold his sole to the establishment&amp;Mitt.Look what it got him. I hear Trump's hotel in FL is hiring seasonal help.'", "coordinates": [-87.92086, 30.575695]}
+{"tweet": "''Well if Donald Trump said them, I'd support them.'nSO MUCH IGNORANCE. BLESS.:loudly_crying_face: https://t.co/AbzX6RW6Y1'", "coordinates": [-80.958451, 35.724493]}
+{"tweet": "'Michigan Primary 52% reportingnTrump- 36.2% (283,959)nKasich- 25.1% (197,184)nCruz- 24.9% (195,505)nRubio- 9.1% (72,199)n#SuperTuesday2'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'Your another true :flag_for_United_States: Herman. Thanks for supporting Mr. trump sir &amp; GOD BLESS you &amp; your family. https://t.co/4oXhnVSkej'", "coordinates": [-103.002652, 33.615765]}
+{"tweet": "'@rafazzo Trump for president.nnlol.'", "coordinates": [-67.342461, 10.214538]}
+{"tweet": "'@HawkinsUSA  It's Mississippi. Most racially divided state in country. Of course it is going to go Trump heavy. I live next door. 1/2'", "coordinates": [-91.218994, 30.354161]}
+{"tweet": "'y'all talkin shit about how trump won but y'all won't get up ya lazy asses and go vote :sleeping_face::sleeping_face:'", "coordinates": [-83.335007, 42.603793]}
+{"tweet": "'@katielirette @victoriaaa_reid this is what happens when u talk ab trump so talk about Bernie instead'", "coordinates": [-91.218994, 30.354161]}
+{"tweet": "'#Trump 2016 #1 #Man #Stirs  #Inspires #Exemplifies #Greatness #And Priceless #Value #Each Person #Statesman #Exceptional #Leader #TRUMP !!!'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'I just don't get what it is that makes Trump more appealing than Cruz or Rubio. I just don't get it. It's not a joke anymore.'", "coordinates": [-91.51308, 36.970298]}
+{"tweet": "'#NeverTrump REMEMBER: In order for Trump to avoid brokered convention, he needs  ~58% of delegates EVERY ELECTION. He won't make it today.'", "coordinates": [-82.421473, 29.600496]}
+{"tweet": "'The fact that Dane and my sister both like trump makes me want to kill them in their sleep. It's not'", "coordinates": [-83.555202, 42.436044]}
+{"tweet": "'Add me on snapchat or you like trump @davidismynombre'", "coordinates": [-77.31732, 39.12466]}
+{"tweet": "'@exposeliberals @Juliet777777 Congrats Trump!:smiling_face_with_sunglasses::cactus::smiling_face_with_sunglasses: https://t.co/GbDKa9QYmq'", "coordinates": [-111.960775, 33.435864]}
+{"tweet": "'NO I won't I will be watching U, Trump &amp; everybody who didn't believe in God burning, from in the Garden Of Eden  https://t.co/A7KRxJgVTA'", "coordinates": [-82.971839, 42.449927]}
+{"tweet": "'Now that Keith Olbermann is leaving Trump Tower &amp; has no conflict of interest with his landlord, get him back on the air. (1/2)'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'.@HotlineJosh @John_Scotus @jonfavs REAL WORLD: FOR #Trump = Win/Win: have pal in WH, or billionaire friend. OPPOSE: on his S**tlist forever'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'@AlisonSpalding2 @StarArcady My husband met an elderly couple of the VA a couple of months ago, Trump supporters. He converted them. :-)'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@Pup_Leo You want Donald Trump as President?'", "coordinates": [-122.027412, 37.779803]}
+{"tweet": "'Aye Donald trump you a _______? .... FILL in the Blank  :face_with_tears_of_joy:'", "coordinates": [-95.049499, 29.33728]}
+{"tweet": "'Hillary Clinton instantly called as the winner in Mississippi u2014 Trump ahead on GOP side.'", "coordinates": [-95.71547, 29.64897]}
+{"tweet": "'Nearly 80 percent reporting in Allegan County. Cruz 37%, Trump 27%, Kasich 22%, Rubio 9% #MichiganPrimary'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "'@tedcruz @realDonaldTrump HERE IS WHAT YOU WILL GET IF CRUZ WINS. BE VERY CAREFUL HOW YOU &amp; WHO YOU VOTE FOR https://t.co/MB7OJjOYKx'", "coordinates": [-90.92333, 38.766988]}
+{"tweet": "'@NolteNC YES!!! A lot of good Marquito did acting like a 6th grader in attempting to turn folks away from Trump!:face_with_stuck-out_tongue_and_tightly-closed_eyes:#MakeAmericaGreatAgain :flag_for_United_States:'", "coordinates": [-90.310298, 34.982924]}
+{"tweet": "'While doing it Trump was forgiving and Presidential  https://t.co/572dMHgpQn'", "coordinates": [-77.195221, 40.095412]}
+{"tweet": "'I think your goal in life should be to come in last in the current Republican Party.  Kasich and Rubio #NeverTrump'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'@MMcLeieer @EdFlint2 Trump has a conversation with the audience. These clowns talk just to themselves...pretty smug...'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@BaconTFM trump be like https://t.co/JeUpkaIJI5'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@tqueb @GaryACarlo @Yinzer1996 @palmaceiahome1 @tedcruz if Rubio and Kasich were out as they shld be Cruz can get more del than trump'", "coordinates": [-93.602208, 44.900569]}
+{"tweet": "'@amandacarpenter As someone who voted for Reagan &amp; was so glad to do so, voting for Trump will be just as good. https://t.co/HNeiGFipwM'", "coordinates": [-88.097892, 37.771743]}
+{"tweet": "'@RichBChambers @BenHowe That's what the experts have said all along.  Trump will have plenty of money to spend.  He will destroy her.'", "coordinates": [-95.178987, 29.438994]}
+{"tweet": "'@guypbenson Hmmn? didn't a poll drop early this morning showing Trump over Hillary in Florida 46 to 45%?'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'@realDonaldTrump you should build a trump university mexico campus'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'#MSNBC Your bias for Trump and Sanders is showing clearly tonight...'", "coordinates": [-84.262816, 39.995246]}
+{"tweet": "'@cnnbrk so you r tied to Trump!!!!  Haven't even paid a bit of attention to the fact that @BernieSanders is beating @HillaryClinton in MI'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'How did Donald Trump win our fair state ?'", "coordinates": [-83.549674, 42.349201]}
+{"tweet": "'Was that a #Trump press conference or did someone turn on QVC? The Trump Circus in full effect. #Election2016 https://t.co/TXN0LVtOAW'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@Bonn1eGreer No.nHe beats Trump by more, and beats Cruz, Rubio &amp; Kasich.nHRC beats Trump by less, losses to all 3:nhttps://t.co/4IF550Qnmp'", "coordinates": [-76.689419, 40.246151]}
+{"tweet": "'President Trump Landslide! :flag_for_United_States::flag_for_United_States::flag_for_United_States::flag_for_United_States::flag_for_United_States::flag_for_United_States::flag_for_United_States: https://t.co/WbSDrZXkdU'", "coordinates": [-97.512109, 32.647286]}
+{"tweet": "'Trump may win Michigan with only 36% this election sucks  https://t.co/opDOSdlFDa'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'My wife votes for Trump we turned off Fox when will Megyn take the pledge to leave the country when Trump is Pres https://t.co/j3rFPAVEKf'", "coordinates": [-82.069567, 26.531814]}
+{"tweet": "'You think nothing gets done now? Trump presidency wouldn't have support from Dems or GOP in Congress. Good luck. U.S. is not a dictatorship.'", "coordinates": [-76.448383, 36.66]}
+{"tweet": "'They just felt the Trump Thump! Right in the wallet. https://t.co/BYqoV2sudW'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'@Sumseason Trump will make u lazy bastards 'work' for ur Marxist Education! HOPE he 'purges' Education!'", "coordinates": [-73.929156, 41.223801]}
+{"tweet": "'@megynkelly @krauthammer I cannot believe how condescending &amp; downright rude you were toward Trump..laughing at the frontrunner #boycottFox'", "coordinates": [-102.051769, 36.99311]}
+{"tweet": "'Sometime u can't fix stupid! Vote Trump https://t.co/PZLEcqMwsM'", "coordinates": [-89.137059, 30.351774]}
+{"tweet": "'Like Princess Diana was the people's princess..Trump is the people's future president.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'He defines NARCISSIST PERSONALITY disorder!  #NeverTrump  https://t.co/nxHPF9i6mV'", "coordinates": [-79.06754, 33.614208]}
+{"tweet": "'@IngrahamAngle @FoxNews TRUMP PROPAGANDIST HACK'", "coordinates": [-117.72136, 33.606781]}
+{"tweet": "'Why I'm Leaving Trump Place, by Keith Olbermann https://t.co/rFOGiyW5NY'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Still waiting for Trump Orange to become a Pantone color.'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'The fact that Dane and my sister like trump makes me want to kill them in their sleep. It's not funny anymore'", "coordinates": [-83.555202, 42.436044]}
+{"tweet": "'Ya know, if those know it all politicians would sit down w Trump and share their vast knowledge of issues we may have a great Prez'", "coordinates": [-105.053666, 39.5033]}
+{"tweet": "'@twittner really? I was thinking more of a nice red Trump wine.'", "coordinates": [-122.157004, 37.416423]}
+{"tweet": "'People actually believe Trump's BULLSHIT! Wow...what a country I'm living in!'", "coordinates": [-91.774579, 41.886245]}
+{"tweet": "'@kausmickey Rubio's voters in south Florida sit home if he quits race. Trump still wins.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@SRShowSXM Love the video. @notsam  was a step to early on the slam. Excellent work by the way. nnInsult sandwich aka Trump'", "coordinates": [-81.046876, 35.001706]}
+{"tweet": "'seized by Obama's moral command,nnow thrown by Trump''s non-conformist anti dogma,nManifest Destiny'", "coordinates": [-80.2006, 26.644671]}
+{"tweet": "''i am legitimately scared for my boyfriend's life if trump gets elected'nn'ur being too sensitive &amp; know nothing about politics' ...facebook'", "coordinates": [-72.540778, 42.30165]}
+{"tweet": "'@nwarikoo @KrisKetzKMBC wow crazy though wealthy who're people are scared of the changing demos and support fascist Trump'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'@HeerJeet Trumps Bugs Bunny anarchy like energy turned Bush into Beaky Buzzard, Cruz into Fudd,etc. Could see turning Hill into Yosemite Sam'", "coordinates": [144.874889, 13.510589]}
+{"tweet": "'Trump winning these states just shows me how fucked up America is'", "coordinates": [-112.357999, 33.384785]}
+{"tweet": "'https://t.co/sYumvBgBrEnThe Trump the media doesn't want you to seen#TheTrumpMovement #MiamiForTrump #Trump2016'", "coordinates": [-80.414746, 25.566015]}
+{"tweet": "'@realDonaldTrump SUPER CONGRATS MR PRESIDENT TRUMP!!!'", "coordinates": [-72.557247, 42.696984]}
+{"tweet": "'With trump in first and Kasich close behind in Michigan, I could not be a happier camper:smiling_face_with_smiling_eyes:'", "coordinates": [-83.306006, 42.109216]}
+{"tweet": "'@FoxNews @ChrisStirewalt @realDonaldTrump nNice try ... Lots of women voting for Trump ... Tired of weak men owned by lobbyists #Trump2016'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'The arrogance sickens me.  #NeverTrump #DumpTrump  https://t.co/pz7cHpcXxd'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'Trump standing on top of his wall like. https://t.co/Faj60kuhlw'", "coordinates": [-88.097892, 37.771743]}
+{"tweet": "'@jaywnj Trump has a home in NJ. A friend of mine met him at a movie theatre in Manville.'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'@SLCHershey @vakaviti Nobody is capable of doing what Trump has in the media, because the others are actually sane and serious politicians.'", "coordinates": [-87.626729, 33.098411]}
+{"tweet": "'My son will be joining the Army in 2 yrs The thought of Trump as his CinC repulses me. 1st choice Webb. @VanJones68  https://t.co/fSgQpDIpNj'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'@JoyAnnReid @TrexPushups like I said no matter who the NOMINEE IF DEMS DONT GET TOGETHER YOUR GETTING TRUMP AS POTUS SO BITE LIP AND SUPPORT'", "coordinates": [-74.327484, 40.633736]}
+{"tweet": "'My very polite mother just said, '...and all the crackers are voting for Trump...''", "coordinates": [-101.96758, 35.098693]}
+{"tweet": "'@scrubsfan10 it's disappointing that anyone would vote for Trump.'", "coordinates": [-81.33713, 28.966155]}
+{"tweet": "'For those who want to listen, I asked Trump a policy question about how his trade policies would affect the American consumer... /2'", "coordinates": [-80.177525, 26.879058]}
+{"tweet": "'@KristinnFR @gatewaypundit @SaraMurray Trump isn't peaking, but he may have been peeking.....'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'If the Multiverse theory is correct, I'm pretty bummed that I live in the one where Trump gets the GOP nomination.'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "''YOU'RE FIRED' -Trump @RoccoParrelly14'", "coordinates": [-83.433894, 42.352453]}
+{"tweet": "'@VitoandVitoShow crash @RealDrGina live shot in #NY #Brooklyn boys #trump #rubio #establishment w @andreakayeshow https://t.co/Ld5X4nCwjy'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'Donald Trump is gonna be the president that's gonna green light the purge.'", "coordinates": [-120.59824, 46.55658]}
+{"tweet": "'I do NOT like Trump but I will do everything in my small, given, voting power to keep Hillary from being Commander in Chief of our troops'", "coordinates": [-80.737408, 27.910056]}
+{"tweet": "'Trump sold his beef exclusively at the Sharper Image.nThat chain closed down in 2008.nnI don't think I'd eat those steaks tonight people!!!'", "coordinates": [-80.297884, 26.228692]}
+{"tweet": "'@realDonaldTrump Mr Trump is such a (Humble), self centered and power(full) specimen of a man he surely doesn't need my vote! Guess what'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'@LadyOnTheRight1 I believe you are right.  I mean who are these so called Evangelicals that keeps supporting someone like Donald Trump?'", "coordinates": [-95.774704, 35.995476]}
+{"tweet": "'Mississippi Primary 85% reportingnTrump- 47.8% (121,716)nCruz- 36.2% (92,211)nKasich- 8.6% (21,871)nRubio- 4.9% (12,547)n#SuperTuesday2'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'Hey is there any #florida4Trump #hernandocountygop #SpringHill or #Brooksvillefl #TrumpSupporters that want to have a #TRUMP tailgate party.'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'@nwarikoo @KrisKetzKMBC wow crazy thought wealthy white people are scared of the changing demos and support fascist Trump'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'@Konway_Twitty trump is the man #MakeAmericaGreatAgain'", "coordinates": [-83.353955, 32.04683]}
+{"tweet": "'@JaredWyand @Trump2016Donald @MittRomney Yummy. Free advertising. I sure want to try a TRUMP steak~ Google time. More free advertising!'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'@eryourlife @DanRiehl Well, female GOP better get with the program then. Start liking Trump. Not Trump's fault. It's their fault.'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'how did trump win Michigan? come on guys this is just stupid'", "coordinates": [-83.800262, 42.215087]}
+{"tweet": "'Hillary along with Cruz ,Kasich and Rubio got TRUMPED...he pulled so many working class blue shirts ...Bernie beat her w/ the young crazies.'", "coordinates": [-122.58428, 47.185193]}
+{"tweet": "'@FoxNews @marcorubio when liberals don't like Trump they go to therapy. When cosertives don't like Obama they buy guns.#WHO do u want to be'", "coordinates": [-122.323541, 37.89782]}
+{"tweet": "'@sanderswinsbig   #Never Trump because of his small fingers'", "coordinates": [-121.69198, 36.643802]}
+{"tweet": "'Thought about moving to Canada if Trump wins, but then again Canada doesn't have Target anymore so there's an issue there'", "coordinates": [-83.433894, 42.352453]}
+{"tweet": "'DONALD TRUMP MADE A CAMEO APPEARANCE IN EDDIE DO NOT ELECT THIS MAN'", "coordinates": [-93.207783, 44.890752]}
+{"tweet": "'@TheYoungTurks how is it that #Trump manages to win.when he clearly needs to be banned from the elections. Can't understand #Murica anymore.'", "coordinates": [67.997691, 6.622513]}
+{"tweet": "'@eryourlife @DanRiehl What is it with female GOP? We male GOP are starting to seriously question their sanity in opposing our guy Trump.'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'@sandinandia @FoxNews @RepChrisCollins @realDonaldTrump that's it. I disagree with Trump, which means I must be an illegal immigrant. Wow.'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Man this shit is heating up trump keeps winning Bernie will kill him in the general'", "coordinates": [-121.576613, 38.43792]}
+{"tweet": "'@SLCHershey @vakaviti That was exactly what spurred Rubio to start attacking Trump the way he did. As far as airtime went, it was only'", "coordinates": [-87.626729, 33.098411]}
+{"tweet": "'Trump calls himself the most presidential person ev 'other than the great Abe Lincoln.' Is this an early #AprilFools #dumptrump #NeverTrump'", "coordinates": [-74.944226, 39.916215]}
+{"tweet": "'Cruz can't win Florida...only hope is Rubio #NeverTrump  https://t.co/xDmciVzY6V'", "coordinates": [-80.177525, 26.879058]}
+{"tweet": "'Ok but who is actually voting for Donald Trump? Like this man is winning multiple states. HOW?????'", "coordinates": [-77.363716, 39.671977]}
+{"tweet": "'Vintage Trump on so many levels. https://t.co/6EQczhpTy9'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@ShaunKing What will you do if it's HRC v Trump in November?'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'How Obama gave a victory speech in 2008nvsnHow Trump gives a victory speech in 2016 https://t.co/EtdnWsZnBw'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@slone @johnkasich says a brokered convention wld be 'exciting'. If that happens Trump&amp;Cruz voters will abandon, u blooming jackass.'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'Really @CNN...You're tuning into Bernie shortly but failed to give Hillary airtime in lieu of Trump infomercial?!?! #FAIL'", "coordinates": [-82.421473, 29.600496]}
+{"tweet": "'Trump didn't know Mitt Romney but he endorsed him! - stupid thing I've ever heard from...  https://t.co/PxubssxXoD'", "coordinates": [-97.187543, 33.128938]}
+{"tweet": "'If Trump can unify the party at convention... its over for the Dems.'", "coordinates": [-96.234587, 41.175884]}
+{"tweet": "'@movieguypaul Trump is, in a lot of ways, a media creation. Similar to Kim Kardashian (who, like Trump, isn't qualified to be POTUS)'", "coordinates": [-122.271705, 47.257227]}
+{"tweet": "'I hope Chicago bag Donald trump'", "coordinates": [-80.321683, 25.70904]}
+{"tweet": "'Whelp. Looks like my home state GOP folks went for Trump. Still waiting dem results.  https://t.co/2vDam5DN1G'", "coordinates": [-77.144435, 38.789907]}
+{"tweet": "'' since my school is owned by the government does that mean if Donald Trump wins my friends will have to go back to Mexico?' - 7 year old'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'@franifio Say Bombast again, showing your lack of intellect. Sanders loses, Trump destroys your Felon.'", "coordinates": [-80.203991, 26.320692]}
+{"tweet": "'damn donald trump is really showing how ugly yall hearts are.'", "coordinates": [-87.022482, 35.994568]}
+{"tweet": "'He was also an ally of the anti Semite Arabs of the day Trump will support Isreal https://t.co/qNbFvCE7A6'", "coordinates": [-82.069567, 26.531814]}
+{"tweet": "'Therexb4s a #totalsolareclipse in progress so naturally I am up and #sleepless. The #USA is going down the tubes in #Trump.ed flames. #earth'", "coordinates": [2.052477, 41.317048]}
+{"tweet": "'They say women don't love Trump what? I am a strong Trump supporter. I love Trump https://t.co/r4V8Xttiw9'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@Breaking911 Sure looks like this is coming together. Rubio should call it a campaign. He's done, 'little Marco'. @realDonaldTrump'", "coordinates": [-94.673787, 39.007608]}
+{"tweet": "'All Trump talked about in his acceptance speech was his holdings, nothing about what he would do as president:pouting_face::disappointed_face::slightly_frowning_face: https://t.co/ZhxF0edaMg'", "coordinates": [-122.514926, 37.708075]}
+{"tweet": "'@LadyOnTheRight1 Donald Trump recently said that Planned Parenthood does great things for women. As a Christian, I have a problem with it.'", "coordinates": [-95.774704, 35.995476]}
+{"tweet": "'@POLITICOvideo @BretBaier @JohnKasich A Real guy - if the MEDIA cares or just wants trump noise and a failed america , ROGER - STEP UP !'", "coordinates": [-75.724892, 39.761505]}
+{"tweet": "'@EdMorrissey @John_Scotus @SeanTrende I will never vote for Trump Ed. Never. Romney was the last RINO I voted for. I made a pledge after him'", "coordinates": [-83.866024, 42.766952]}
+{"tweet": "'Sanders versus TrumpnCommunism versus CapitalismnWhich side with the Conservative Commentariat choose?nSeriously'", "coordinates": [-81.825749, 38.43513]}
+{"tweet": "'Another Trump lie https://t.co/uWnNxYYlfB'", "coordinates": [-119.321696, 34.23444]}
+{"tweet": "'@FoxNews @DNC As A Trump supporter, I suggest U keep DWS off the network, just a warning. This is a deer in headlights @DNC She is bad! RT'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'Trump said keep running the latest nasty ad by Club for growth and Establishment He meant it They spent 47 million on attack ads in one wk'", "coordinates": [-77.195221, 40.095412]}
+{"tweet": "'Red states may ultimately prevent blue states from nominating Bernie. Will blue states stop red states from nominating Trump?'", "coordinates": [-73.962582, 40.541722]}
+{"tweet": "'Michigan Primary 56% reportingnTrump- 36.5% (305,209)nKasich- 25% (209,320)nCruz- 24.8% (206,811)nRubio- 9.1% (76,103)n#SuperTuesday2'", "coordinates": [-74.255641, 40.495865]}
+{"tweet": "'@ClarkJosh80 I don't disagree, but it's just not who he is, and it just made me cringe. I can't believe the R's are this dumb. Smh at Trump'", "coordinates": [-84.710722, 39.052962]}
+{"tweet": "'Fox Business trots out the Paul Mitchell shampoo billionaire to diss Trump. So pathetic.'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'FINAL Harrison County republican results (58/58 precincts):nnCruz - 32%nKasich - 10%nRubio - 6%nTrump - 51%'", "coordinates": [-89.137059, 30.351774]}
+{"tweet": "'If #Kasich can't beat #Trump in MI he can't do it anywhere else except OH'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'This should be Trump's campaign slogan https://t.co/BN2Gr58VIm'", "coordinates": [-115.209254, 35.984784]}
+{"tweet": "'I mean come on people, Trump believes autism comes from vaccines given to babies.. Do you really want him as your president? I'm pissed'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'The only thing I have to say about politics is that trump looks a lot like a squash ?'", "coordinates": [-118.063298, 33.791963]}
+{"tweet": "'@ananavarro I think you are on to something..  the 'establishment' need to start saying nice things about Trump. (maybe a plug from Obama 2)'", "coordinates": [-121.576613, 38.43792]}
+{"tweet": "'@FoxNews @brithume I watched CNN tonight because I have tired of comments like this.  When they talk about Trump the glass is 1/2 empty'", "coordinates": [-84.576827, 33.647503]}
+{"tweet": "'@DianeMBooth @nikkinbc : I love Trump!  I Won't vote for anyone else!'", "coordinates": [-120.041961, 38.822602]}
+{"tweet": "'@CruiseNorwegian nnThere is that rental yacht again. nnTrump Rentals, llcnn         Call and reserve yours!!!'", "coordinates": [-87.906783, 37.072371]}
+{"tweet": "'@DRUDGE how is it working for Trump? When will you be changing the name to the Trump Report?'", "coordinates": [-121.956864, 37.621859]}
+{"tweet": "'I am still in disbelief that Donald Trump is winning the GOP voters'", "coordinates": [-122.355038, 37.512567]}
+{"tweet": "'I fully expect President Trump to nominate Dog the Bounty Hunter for Attorney General to the jubilant cheers of Republicans nationwide.'", "coordinates": [-121.385009, 38.716061]}
+{"tweet": "'@FoxNews @foxnewspolitics @realDonaldTrump I have one suggestion, Mr. Trump @GOP adopt a FLAT TAX and &lt;IRS on platform #YouDecide2016'", "coordinates": [-88.473228, 30.144425]}
+{"tweet": "'looking at politicians when they were younger and winking,, but trump still looks like a wrinkly wet gym sock'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'@chucktodd Cruz cant figure out why Trump gets the evangelical vote Only thing worse than a liar is lying while holding a bible They see it'", "coordinates": [-95.923551, 41.194487]}
+{"tweet": "'I don't care if its only the primary's really Michigan ? So much for anybody but Trump . :face_with_rolling_eyes::victory_hand: https://t.co/z9leJoRF1t'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'@FoxBusiness @loudobbsnews @realDonaldTrump Trump 2016'", "coordinates": [-73.093845, 41.513971]}
+{"tweet": "'my mom and I have been showing each other Donald Trump memes for the past hour #bonding'", "coordinates": [-90.674747, 38.610603]}
+{"tweet": "'@tedcruz Ted, it's time to unite behind Trump and turn our resources to defeat the Democrats.'", "coordinates": [-77.287868, 38.893115]}
+{"tweet": "'@SLCHershey @vakaviti Well, u201cGOP voters.u201d Trump still hasnu2019t done very well in closed primaries. But that also is not really Rubio or Cruzu2019s'", "coordinates": [-87.626729, 33.098411]}
+{"tweet": "'I'm so happy I'm sitting on my hands to keep from waving at everybody! win baby win! Vote Trump https://t.co/C2tP9sshgD'", "coordinates": [-89.137059, 30.351774]}
+{"tweet": "'Yes but let's remember the American People who got him there. @realDonaldTrump  https://t.co/mkIunXWYit'", "coordinates": [-89.137059, 30.351774]}
+{"tweet": "'Here's Donald Trump on the WWE if anyone is interested: https://t.co/0kqzdHYpcS'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'#Trump's inimitable modesty coming to the fore :face_with_tears_of_joy: https://t.co/Yvm3zERYKR'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Donald Trump is going to be president of the United States'", "coordinates": [30.87891, -30.055938]}
+{"tweet": "''I can be more presidential than anybody,' says Trump, right before berating someone in the audience and thenu2026 https://t.co/iJyANcKlWp'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'News Guide: Trump's Tuesday wins show staying power; Sanders, Clinton jockey for Michigan. https://t.co/YzMDEjioSF'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'@ZoamSc2 Bernie not gonna beat trump so who cares'", "coordinates": [-97.839309, 31.10447]}
+{"tweet": "'CNN literally just cut from a 45-minute Trump press conference to a minute of Trump analysis, BACK TO A LIVE INTERVIEW WITH TRUMP#turnitoff'", "coordinates": [-87.022482, 35.994568]}
+{"tweet": "'If supporting Trump is what growing up is then @NolteNC is going to have to live with me being Peter Pan for good. https://t.co/qUdNyMeN65'", "coordinates": [-106.791691, 35.015891]}
+{"tweet": "'Maybe they hear the ppl now Trump is our voices'", "coordinates": [-77.195221, 40.095412]}
+{"tweet": "'Tired of primaries. Someone needs to bow out quick and focus on Trump'", "coordinates": [-116.050004, 44.35821]}
+{"tweet": "'If Trump wins, I'm out :airplane:ufe0f'", "coordinates": [-87.852225, 41.579413]}
+{"tweet": "'what does The Sharper Image have to say about all those Trump Steaks #SuperTuesday'", "coordinates": [-76.644717, 39.131259]}
+{"tweet": "'My grandpa complains because use my phone a lot. Meanwhile he watching Donald Trump on Fox News 10 hours a day but I don't say shit :unamused_face:'", "coordinates": [-73.962582, 40.541722]}
+{"tweet": "'Donal Trump is suppose to be the next president? This man is making a victory speech. All he's doing is praising himself.'", "coordinates": [-86.348441, 39.631677]}
+{"tweet": "'When People On My Timeline say They Voted For #Trump n#VoteForBernie https://t.co/KpOfARKBG1'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'@piraninnn Donald Trump brasileiro'", "coordinates": [-46.383216, -23.744544]}
+{"tweet": "'@bee_tee_ess dude, I hope it's Bernie v Trump. I will feel the Bern'", "coordinates": [-83.204418, 42.474131]}
+{"tweet": "'67% reporting in Ottawa County. Cruz 43%, Kasich 22%, Trump 19%, Rubio 11% #MichiganPrimary'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "''I'm moving to Canada if Trump wins.' That's so stupid. I hate Hillary n Bernie, but I wouldn't move if they win? I'll stand up for myself'", "coordinates": [-83.21789, 42.155281]}
+{"tweet": "'Donald Trump suits and ties are made in China March 08 https://t.co/oWcbxFoMJG'", "coordinates": [-80.321683, 25.70904]}
+{"tweet": "'Trump Jupiter! Any hotels of Uranus yet? https://t.co/1gfONXWfhq'", "coordinates": [-71.134552, 42.372753]}
+{"tweet": "'#Trump 2016 #Juvenile Thinking #Greed #Are only things #Preventing #Full Embracing #Trump #Reject Immaturity #See #Genuine #Leader #TRUMP !'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'Coke so white it's voting for Donald Trump'", "coordinates": [-122.934374, 44.508029]}
+{"tweet": "'Legitimately scared to death trump could be the next president :loudly_crying_face:'", "coordinates": [-117.704483, 34.086988]}
+{"tweet": "'Trump will no get 50 in MS it seems. That helps a little. https://t.co/nSR7wLyQUj'", "coordinates": [-82.950022, 39.947426]}
+{"tweet": "'Ok seriously can we just be done with Kim Kardashian's nude selfies? And Donald Trump? Enough is enough.'", "coordinates": [-122.253717, 47.423263]}
+{"tweet": "'The pro-Trump callers that @hughhewitt allows into his radio show all sound like they are genuinely mentally ill'", "coordinates": [-112.086312, 41.152301]}
+{"tweet": "'@Phxwarpedview I sure hope so. Trump has got to go.'", "coordinates": [-122.562215, 47.166863]}
+{"tweet": "'@TheFix Yes he's been on the Trump Train all along.'", "coordinates": [-118.151393, 33.865643]}
+{"tweet": "'@karol Yeah, and she apparently loves Trump sticking his cock up her sss'", "coordinates": [-97.662618, 27.578509]}
+{"tweet": "'It's upsetting that Trump is probably gonna get the nomination'", "coordinates": [-83.200169, 39.832013]}
+{"tweet": "'@EdSchulman @JonSchulman2 Former Red Paul O'Neill endorses Donald Trump. Don't cry boys #DonaldTrump is a winner. #Yankees #Reds'", "coordinates": [-84.483298, 39.295742]}
+{"tweet": "'white privilege is saying shit like 'Donald trump is probably kidding and when he becomes president he's gonna switch up and do good things''", "coordinates": [-122.779239, 38.396779]}
+{"tweet": "'Stick to speech writing. Nobody is a threat to Trump. The race is over. https://t.co/7yToWJFXMT'", "coordinates": [-82.437901, 27.735035]}
+{"tweet": "'Trump to supporters: 'We continue to prove to the mainstream media &amp; our so-called leaders that this is a movement that will not be stopped''", "coordinates": [-83.287094, 42.277554]}
+{"tweet": "'Hahaha I saw Trump winning the primaries 5 HOURS before it even happened !'", "coordinates": [-2.917961, 53.539352]}
+{"tweet": "'@DanScavino Cruz cant figure out why Trump gets the evangelical vote Only thing worse than a liar is lying while holding a bible They see it'", "coordinates": [-95.923551, 41.194487]}
+{"tweet": "'@Thugseidon bernie beats trump in national election polls what are you talking about'", "coordinates": [-122.283944, 38.154977]}
+{"tweet": "'FOX SLEAZE! Debbie washerman Shultz commenting on TRUMP! Inaccurately of course! We know how FOX plays the 'Poll Game'! What BS!'", "coordinates": [-73.929156, 41.223801]}
+{"tweet": "'@bgittleson @hughhewitt Get it done or be trumped  a toxic disease. Kascich is our last chance for Integrity trump can't govern  HE IS TOXIC'", "coordinates": [-75.724892, 39.761505]}
+{"tweet": "'@BrendanNyhan @NoahCRothman They played us folks for Trump ratings Ca Ching to create Trump Frankenstein with free media AND then HRC love ('", "coordinates": [-92.889433, 42.491921]}

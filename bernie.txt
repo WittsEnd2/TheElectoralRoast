@@ -1,0 +1,520 @@
+{"tweet": "'@nprpolitics Go Bernie!!!'", "coordinates": [-122.671545, 47.217875]}
+{"tweet": "'I think Bernie is going to win Michigan! #tytlive https://t.co/RzoTWh6wAX'", "coordinates": [-81.078928, 29.027688]}
+{"tweet": "'@AlbaMonica @NBCNews nBernie fever hits michn22000 lead at 955 est'", "coordinates": [-74.461178, 41.393907]}
+{"tweet": "'@prairielaura nope, Bernie!'", "coordinates": [-83.204418, 42.474131]}
+{"tweet": "'WHY'S EVERY (CORPORATE) MEDIA OUTLET 'SURPRISED' BERNIE IS LEADING?! #BernTheEstablishment #FeelTheBern #Bernie2016 #MichiganPrimary'", "coordinates": [-122.119424, 37.052059]}
+{"tweet": "'Bernie leads in Michigan by 5% with 50% reporting, just last week polls had him losing by 20-30%'", "coordinates": [-61.930542, 10.042419]}
+{"tweet": "'Just a wild thought. If its Sanders vs Trump, do we see mainstream R's throw weight behind a 'socialist'?! (their words, not mine)'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'bernie volunteers keep texting me to help out but Im too scared to txt back b/c I don't want them to know I'm not able to vote this election'", "coordinates": [-111.894548, 33.306275]}
+{"tweet": "'We need a president who'll bring diversity in America. Sanders has not proven that. @HillaryClinton has! #ImWithHer'", "coordinates": [-71.722198, 43.749004]}
+{"tweet": "'Bernie sanders is currently leading Michigan, but instead we are being treated to this bizarre Trump Talk #FeelTheBern'", "coordinates": [-86.348441, 39.631677]}
+{"tweet": "'Let's go Bernie! #FeelTheBern #PoliticalRevolution  https://t.co/nvjZYSARhX'", "coordinates": [-74.694305, 40.887848]}
+{"tweet": "'@RonnyGermany @TheBpDShow @zie88z @CarlBanksGIII So so so true!! Same with politics. That's why I love Bernie so.'", "coordinates": [-94.61771, 33.004106]}
+{"tweet": "''EXCUSE ME, I'M WINNING!!' - Bernie Sanders n#FeelTheBern'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Now  MS NBC has changed from too early to call to too close to call.  Sanders doing better than exit polls.  #MIPrimary'", "coordinates": [-77.172219, 38.827378]}
+{"tweet": "'I'm calling Michigan for Bernie right now at 42% reporting :money_with_wings::money_with_wings::money_with_wings:'", "coordinates": [-74.449377, 40.434397]}
+{"tweet": "'GO BERNIE, GO https://t.co/TkeYbnC21W'", "coordinates": [-120.00574, 35.002086]}
+{"tweet": "'@murphymike where are you Hillary - Bernie odds now?'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'I voted for Bernie sanders'", "coordinates": [-83.312805, 42.268212]}
+{"tweet": "'Wow, I'm stunned...:smirking_face:nnWill Mr. Sanders now denounce Islamic radicals? nn#FeelTheBurn  https://t.co/EQeLg4NGD2'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'Sanders is a) having a great night and b) going to fall further behind in delegates anyway. Proportional allocation, man'", "coordinates": [-79.007589, 35.866334]}
+{"tweet": "'Hillary just doesn't have the margins she needs in Detroit. 50% in and Sanders is still 26k ahead. The AA vote for Bernie is key here.'", "coordinates": [-76.346653, 40.006885]}
+{"tweet": "'@z0mgItsHutch what do you think about Bernie's plan to raise all minimum wage to $15?'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@stevenwtodd @BernieSanders  So this is all in the same direction-whether #Bernie wins or not. He's got no 'reach' across the base.'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "'Wow this is amazing , sanders was behind by about 20 points just a couple days ago'", "coordinates": [-80.095586, 40.36158]}
+{"tweet": "'Mannn, Ima need everyone to continue voting for Bernie Sanders:person_with_folded_hands::emoji_modifier_fitzpatrick_type-1-2:'", "coordinates": [-89.57151, 36.497129]}
+{"tweet": "'lol Bernie has a large lead in Michigan's 'Clinton' county.... the irony!!!'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Bernie wasn't supposed to win Michigan. Was supposed to be crushed by twenty points.'", "coordinates": [-71.403412, 42.24214]}
+{"tweet": "'#Trump is kicking ass col.#Sanders not so much'", "coordinates": [-75.172079, 39.76854]}
+{"tweet": "'yet #ABCNews is talking about Bernie can't win &amp; if he will be the #HillaryClinton VP #MediaBlackout #FeelTheBern  https://t.co/cRInPWZP8Y'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Fitting. Bernie's lack of social media control backfires in Mississippi, but Hillary's distortion of Bernie's history backfires in Michigan.'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'All of the sudden- H.C.flip flops calls4resignation https://t.co/h0LALR8JVg Leader?She imitates Bernie's authenticity #sofake #WhichHillary'", "coordinates": [-118.08284, 33.822551]}
+{"tweet": "'Come on MSM. Enough is enough, You cut off #Bernie after 2 or 3 minutes and you let the lunatic #Trump babble on ad nausseum'", "coordinates": [-122.990493, 44.909874]}
+{"tweet": "'@jossshau good win for Bernie'", "coordinates": [-80.4965, 25.683801]}
+{"tweet": "'Good grief. Hillary currently LOSING to Bernie is the STORY. Not Trump on and on and on news conference.'", "coordinates": [-122.130814, 37.678709]}
+{"tweet": "'@MSNBC Gives MI loser more attention than Bernie who is winning.  The press refuses to stop treating her like she's the only Dem in the game'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'YAY BERNIE'", "coordinates": [-85.973029, 42.943183]}
+{"tweet": "'42% reporting Sanders 51.6% Clinton 46.6% #MichiganPrimary'", "coordinates": [-77.569305, 37.606827]}
+{"tweet": "'@roqchams @jeremyscahill the larger the voter turnout the better Bernie does'", "coordinates": [-74.120076, 40.215689]}
+{"tweet": "'It's funny how Sanders supporters think the media is trying to cover up their 'Revolution'. Meanwhile the Paul family has gotten no coverage'", "coordinates": [-78.818343, 35.715805]}
+{"tweet": "'If sHillary was winning by 5 points with 40% reporting @CBSNews would've declared her the winner an hour ago, but it's #Bernie so we'll wait'", "coordinates": [-91.274654, 43.725479]}
+{"tweet": "'Wow Clinton smoked Sanders #MichiganPrimary #MIPrimary'", "coordinates": [-71.034586, 42.494855]}
+{"tweet": "'@MSNBC @CNN Sanders is up 5 w/ 51% in....Still could go either way but the ? is...how many delegates does Hillary win?  #DemPrimary'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'@stevenwtodd #Bernie's in a box...that's where he keeps winning. They won't give him their nomination unless he can break out.nFast.'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "'Let me get this straight. At 02:55 GMT, @cenkuygur has called for #MichiganPrimaryu2026 for Bernie Sanders? :flushed_face: #TYTLive'", "coordinates": [-4.393285, 55.796184]}
+{"tweet": "'Volunteering for Bernie is one of the most fulfilling things I have ever done. #feelthebern https://t.co/mh2pd0dvGA'", "coordinates": [-88.431293, 41.986293]}
+{"tweet": "'I've never had to pay a withdrawl fee. Where do you bank Bernie? https://t.co/4lgsRUoxR6'", "coordinates": [-158.025199, 21.312725]}
+{"tweet": "'@SteveKornacki @SanaSaeed With 42% reporting, Sanders leading 51.6% to 46.6%'", "coordinates": [-79.639319, 43.403221]}
+{"tweet": "'@MSNBC @cnn #MSN the earth shattering news tonight is how #Bernie is #blowingaway the #polls yet they r not saying a fucking word about it!!'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'@lisapease @truthtotweet nnClaims coming out of HC camp about Bernie are absurd. Would be hilarious except for the nastiness of them'", "coordinates": [150.520929, -34.118347]}
+{"tweet": "'Media: wouldn't it be great for Hill if she clinched the nom on #IWD2016 ?nWomen: wouldn't it be great for ALL WOMEN if Bernie won MI today?'", "coordinates": [-124.848975, 45.543542]}
+{"tweet": "'Bernie Sanders is leading Hillary Clinton in Michigan, 52% to 47%, with 41% of the precincts counted. https://t.co/k7mw2WsBzp'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'Sanders takes Michigan!!! #FeelTheBern'", "coordinates": [-82.644739, 37.201483]}
+{"tweet": "'@mikeysandmel they know what they're doing. Hillary's record in Arab world speaks for itself, and Bernie went hard against Islamophobia.'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'#MichiganPrimary #Bernie #Sanders leads by 5 points, with 43% reporting !!'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'Parents are voters in Detriot, MI. Mom voted for Hillary - Dad for Bernie Sanders. My family is split like USA. #FeelTheBern vs. #ImWithHer.'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'We are past the 50% mark now: Sanders continues to lead over Clinton. n51% of precincts reporting: nnSanders   51.7%nClinton    46.5%'", "coordinates": [-86.217544, 41.709039]}
+{"tweet": "'Just call it for Bernie'", "coordinates": [-61.384762, 1.171061]}
+{"tweet": "'@ABCLiz @abc7newsBayArea nMich has bernie fever n22000 up at 10pm'", "coordinates": [-74.461178, 41.393907]}
+{"tweet": "'Bernie is trailing in Detroit area. But steady and holding the bleed. This county is paramount.'", "coordinates": [-83.200169, 39.832013]}
+{"tweet": "'@MedvedSHOW @Allibiis Trump is beating TWO sitting senators, Bernie is beating a damaged candidate with minimal accomplishments'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'sanders took GR at almost 65%! proud of my city! :flag_for_United_States::heavy_check_mark:ufe0f'", "coordinates": [-85.782295, 42.85341]}
+{"tweet": "'Bernie needs 2 go all the way 4 if he doesnt nthe election will B for either Wall Street [D] or Wall Street [R] neither way wall street wins'", "coordinates": [-6.036116, 54.543241]}
+{"tweet": "'@SenSanders maintains a lead in Michigan, but @nytimes stories are all Trump and Clinton.  #Michigan Primary'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'@ephphathoughts Bernie saying the GOP debate showed we need Mental Health reform disappointed me We shouldn't make light of serious issues'", "coordinates": [-96.065628, 35.968624]}
+{"tweet": "'@CNN waiting for Bernie speech in Michigan... Hillary is basically irrelevant after her lies today and yesterday when other senators call it'", "coordinates": [-90.356645, 29.479235]}
+{"tweet": "'Hillary Clinton leads by like 600 delegates against Sanders....... Sad'", "coordinates": [-82.968959, 42.479787]}
+{"tweet": "'Trump V Bernie, The Debate! (@ Neptune Theatre - @stgpresents in Seattle, WA) https://t.co/YCRdpDLmhB'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'@LigiaEscobarr can I go there if Bernie or Clinton wins? :smiling_face_with_open_mouth:'", "coordinates": [-81.869986, 32.360463]}
+{"tweet": "'Having a D- rating didn't prevent the NRA from praising Bernie Sanders yesterday in a tweet.   https://t.co/IhnjyLJZIj'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'yay Bernie :smiling_face_with_heart-shaped_eyes: https://t.co/5ycKKbW5VD'", "coordinates": [-85.973029, 42.943183]}
+{"tweet": "'Bernie Sander's phone banks working hard watching the returns. #FeelTheBern #chicago https://t.co/Z14EoFOFcR'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'Every establishment pundit who  dissed Bernieu2019s campaign right nowu2026 #TYTLive #MichiganPrimary https://t.co/Vk8RKZk62Q'", "coordinates": [-72.718386, 41.723759]}
+{"tweet": "'@BeaverforBernie OK Jose we forfeit take it away Bernie it's all yours oh by the way you have to win 21 more states good luck'", "coordinates": [-82.63717, 27.856937]}
+{"tweet": "'@HeerJeet probably much fewer Republicans stay home if it's Sanders?'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'#MichiganPrimary if Sanders wins tonight, CNN will need to get a Sanders supporter on its panels.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@MMFlint it's an open primary nasty tactics in Michigan saw tons of registered republicans voting Bernie to try and make Donald win general'", "coordinates": [-123.208615, 43.988281]}
+{"tweet": "'People who never worked a day in their lives want Bernie to make College Free LOL get a fucking job'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'Geez MSNBC. First Trump on and on. Now Hillary...you're killing me. #UnidosConBernie'", "coordinates": [-106.791691, 35.015891]}
+{"tweet": "'Detroit really let Michigan down, Bernie could have won every delegate...'", "coordinates": [-83.77959, 41.658626]}
+{"tweet": "'Michigan isn't 'too close to call' @MSNBC. Sanders is leading.. Paging the No Spin Zone, @oreillyfactor'", "coordinates": [-117.86894, 33.606077]}
+{"tweet": "'@NYDailyNews nSleeping its. 22000 lead fornBERNIE FEVER. WAKEUP'", "coordinates": [-74.461178, 41.393907]}
+{"tweet": "''I'm proud of the campaign Senator Sanders and I are running!' - Hillary Clinton.... Now that's class!! #ImWithHer'", "coordinates": [-90.320516, 38.533193]}
+{"tweet": "'@CNN her lies are the story, media fail, and people will remember so will Bernie our next POTUS... https://t.co/ksmoEiXHo2'", "coordinates": [-90.356645, 29.479235]}
+{"tweet": "'If Hillary was really for the people she would want US to decide between her and Bernie and not want to call it in March. Its a long road!!'", "coordinates": [-71.034586, 42.494855]}
+{"tweet": "'@NBCNews WTF are you talking about!!  @TheYoungTurks has the REAL story!!  Bernie ahead by 51.7 - 46.5 with 44% of precincts reporting!'", "coordinates": [-84.710722, 39.052962]}
+{"tweet": "'Even if Clinton loses Michigan Sanders has to win the rest of the states by 10% jahaha#Hillaryclinton'", "coordinates": [-82.63717, 27.856937]}
+{"tweet": "'@poore70 Yeah, but the at least Bernie manned up about it with a reason.'", "coordinates": [-83.308978, 42.181294]}
+{"tweet": "'@HeerJeet also impervious to gibes - both as a personality but also the macho stuff looks weird against Sanders.'", "coordinates": [-77.172219, 38.827378]}
+{"tweet": "'Michigann2,144/4,830 precincts (44.3%) reportingnBernie Sandersn270,737n51.7%nHillary Clintonn243,455n46.5%n523,568 total votes'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Also Macomb (my home county) is definitely helping Bernie right now!!!'", "coordinates": [-90.135782, 34.994192]}
+{"tweet": "'@SKWimbish nBernie fever hits michnUp 22000 at 10pm'", "coordinates": [-74.461178, 41.393907]}
+{"tweet": "'Corporate media is doing their very best to sway voters! This generation is smarter than that! #VoteforBernie:flag_for_United_States: https://t.co/7jZmqbsXBp'", "coordinates": [-97.676631, 38.768801]}
+{"tweet": "'Bernie.....give it up'", "coordinates": [-91.774579, 41.886245]}
+{"tweet": "'@davehill77 @speechboy71 the exit poll from my household was 2-0 Bernie.'", "coordinates": [-83.441942, 42.52605]}
+{"tweet": "'CNN gave Bernie a 2% chance to win Michigan. Quite a turn of events.'", "coordinates": [-64.237659, 43.366298]}
+{"tweet": "'@MurphyFerguson @GABrownsGuy I agree though, I think she beats him. I don't trust the Sanders polls just yet'", "coordinates": [-81.716475, 41.090514]}
+{"tweet": "'Did @HillaryClinton rent a few young women from Bernie's campaign to put on the camera right side of her tonite? L side is older women. ZZZZ'", "coordinates": [-115.384091, 36.129459]}
+{"tweet": "'Looks like the polls were very  far off in Michigan. Bernie Sanders is winning.'", "coordinates": [-75.841424, 39.974835]}
+{"tweet": "'#MichiganPrimary #Bernie leads by 5 points, with 44% reporting !!n#FeelTheBern #Bernie2016 #BernieSanders2016'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'Hey thanks. I would prefer to call myself a Bernie supporter. Specifically Bernie. Thank you and goodnight. https://t.co/vprr8qB5XY'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'Big night for Sen. Sanders'", "coordinates": [-81.465754, 41.060128]}
+{"tweet": "'Polls are worthless. Bernie winning in MI. No one ever polled me.'", "coordinates": [-80.285919, 27.202965]}
+{"tweet": "'#Bernie energy, floating free from sea to sea, drifting on to you and me. So I say it so mote it be! #BernieOrBust @WickNWares'", "coordinates": [-84.976985, 39.793313]}
+{"tweet": "'@TheAuthorGuy Bernie is the best hope for the US. Notgoing to happen. My PM in DC. His party is proudly called Liberal. Bernie would fit in.'", "coordinates": [-79.639319, 43.403221]}
+{"tweet": "'@kellyfineman @sarahmaclean half of #Hillary's speech is STOLEN from #Bernie, just like BillClinton stole the GOP platform in 92. #ImWithHer'", "coordinates": [-157.950476, 21.254837]}
+{"tweet": "'I sure wish that Hillary Clinton would stop lying about Sanders not voting to save the auto industry.'", "coordinates": [-118.394086, 33.780441]}
+{"tweet": "'Bernie is closing up Hillary in Flint. Tough fight.#FeelTheBern @Bucks4Bernie here we come knocking on doors.'", "coordinates": [-83.200169, 39.832013]}
+{"tweet": "'@HillaryClinton You're starting to sound a lot like Bernie @BernieSanders'", "coordinates": [-111.097562, 32.09131]}
+{"tweet": "'Bernie needs to take the gloves off and go full bore against Hillary and the party.'", "coordinates": [-122.367166, 47.647399]}
+{"tweet": "'@CBSPolitics @BerniesHomie @BernieSanders @HillaryClinton Hillary is stealing Bernie lines. Shame on youm'", "coordinates": [-71.417868, 42.549459]}
+{"tweet": "'@JoeWidmer 48% in, Hillary 77k to Sanders 14k https://t.co/ObdtmZv62e'", "coordinates": [-80.095586, 40.36158]}
+{"tweet": "'Somehow I feel if Bernie wins Michigan he will get like 30 delegates and Hillary will get like 100 superdelegates #FeelTheBern'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'02.32 ~&gt; 32% of the returns are in in the Democratic race in Michigan .nSanders is ahead of Clinton 51.1%-47.0%.'", "coordinates": [-0.213503, 51.512805]}
+{"tweet": "'Bernie Sanders potentially winning Michigan would be a HUGE upset. Tell me again how Hillary Clinton won the last debate...'", "coordinates": [-73.508143, 41.187054]}
+{"tweet": "'The student counties are edging this win toward Bernie. We have A LOT of colleges. It's so close, but I think he may win. #MichiganPrimary'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'41% reporting in Ottawa County. Sanders 67%, Clinton 31% #MichiganPrimary'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "'Bernie Sanders Sighting: Miami, Florida/ James L. Knight Center https://t.co/e0qXfGuMPR'", "coordinates": [-80.321683, 25.70904]}
+{"tweet": "'@YumeHasu yeah I'm watching too. It looks really good for Bernie so far.'", "coordinates": [-81.078928, 29.027688]}
+{"tweet": "'Bernie is going to pull it out for Michigan. Most of Ann Arbor has yet to report in. Which will be heavy for bern'", "coordinates": [-84.63184, 42.618566]}
+{"tweet": "'Bill Clinton asking you for your vote for Hillary is like Bernie Maddoff asking you for your money'", "coordinates": [-81.631799, 40.732694]}
+{"tweet": "'@RawStory @TheYoungTurks nWakeup boys bernie fever hit nMichigan up 22000 votes'", "coordinates": [-74.461178, 41.393907]}
+{"tweet": "'Go Bernie, Go!!'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'Just because Bernie is going to win Michigan doesn't mean he is going to get the delegates. That isn't how the Demokratic Party operates.'", "coordinates": [-105.301776, 39.953552]}
+{"tweet": "'If Bernie wins Michigan it will be HUGE for his campaign #SuperTuesday2'", "coordinates": [-81.785053, 41.350358]}
+{"tweet": "'Yayy Bernie Sanders MI projected winner https://t.co/XEpTefFutI'", "coordinates": [-93.356269, 45.006048]}
+{"tweet": "'Really hope Sanders manages to pull off this upset, going back to bed now'", "coordinates": [-0.504965, 51.861227]}
+{"tweet": "'What the heck happened? Now Sanders is only leading by 1.6%? #SuperTuesday2'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'I had to go to the DMV and the dentist today. But Bernie is probably gunna win Michigan so I'm boolin.'", "coordinates": [-150.035259, 61.043884]}
+{"tweet": "'A big chunk of Wayne just came in and Sanders' lead just fell to 1.6 points overall. 50% of Wayne has reported. #MIprimary'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'@ShaunKing unfortunately the Dem party is a mess too - blindly backing Hillary even though the people are still speaking!#DemPrimary #bernie'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'47% reporting Sanders 49.9% Clinton 48.3 ?'", "coordinates": [-77.569305, 37.606827]}
+{"tweet": "'Sanders 49.9% / Clinton 48.3% ... Detroit City is coming through!!'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'@Tortured_Verse nnSanders - 51.7%nClinton - 46.5%nn52% reporting in #democratic #MichiganPrimary #SuperTuesday2'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Inbox from pro-Sanders Dem: 'Why is the media giving Trump a one hour infomercial when there's a cliff-hanger on the Democratic side?''", "coordinates": [-77.248462, 38.971077]}
+{"tweet": "'Sanders lead in Michigan goes from 27K to 9K just like that #MIPrimary #ImWithHer'", "coordinates": [-52.854664, 47.496939]}
+{"tweet": "'@Red4Jacob I'm happy someone is challenging hillary,  but don't think Bernie is the answer.   Not Trump,  either.'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'@mkhammer @MattWelch @BernieSanders I thought it was the Trump Steaks and Vodka.'", "coordinates": [-111.894548, 33.306275]}
+{"tweet": "'Bernie Sanders said if turnout was big he'd win Michigan. He was on to something. #MichiganPrimary'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'Bernie said it best! n'Workers of the world unite; you have nothing to lose but your chains.'n#FeelTheBern'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@SenSanders MICHIGAN FEET dont fail u NOW!!! GET AND VOTE 4 BERNIE!!!!!!'", "coordinates": [-118.037975, 33.873395]}
+{"tweet": "'The results in Michigan just tightened a lot. A big dump of strongly Clinton votes in Wayne County narrows Sanders' lead to 1.6 pts'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@Anestheticx @BernieSanders  I totally agree.IF #Bernie wins they'll have egg on their face after predicting a devastating loss for Bernie'", "coordinates": [-117.672915, 33.802102]}
+{"tweet": "'Wade County still isn't counted in Michigan. Woot! Only 1 point lead for Sanders now! #MichiganPrimary'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'Suddenly getting awfully tight in Michigan.  Sanders having kittens right now.  #MichiganPrimary'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'They Need 2 Go Ahead And Call The Race For Bernie Now!!!!!!!Mi'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'I dare you try to defend Bernie Sanders to me and try to convince me to vote for him.'", "coordinates": [-81.224485, 28.56471]}
+{"tweet": "'@julito77 @BernieBrigade @NBCNews nIts a rout chris and chuckienUp 22000 votes mich hasnBernie fever'", "coordinates": [-74.461178, 41.393907]}
+{"tweet": "'Oof, I guess that 2% drop for Sanders is Detroit results coming in. #MichiganPrimary'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'MI: Sanders 50%, Clinton 48%. Difference of 9 thousand votes.'", "coordinates": [-114.37582, 34.449228]}
+{"tweet": "'Bernie outchea'", "coordinates": [-79.007589, 35.866334]}
+{"tweet": "'Bernie is having a huge night, actually'", "coordinates": [-83.200169, 39.832013]}
+{"tweet": "'And Washtenaw (Ann Arbor) is only 17% counted so far. (Lived there 6 years. UMich; Sanders demo.) Let me look at Lansing (Ingham)...'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'@alissasalazar98 They're in separate races. Bernie is facing Hilary right now for the Dem ticket.'", "coordinates": [-82.354162, 28.141461]}
+{"tweet": "'49.9 Sanders 48.3 Clinton'", "coordinates": [-118.248823, 34.20542]}
+{"tweet": "'@theonlyadult @aalali44  OMG, , Bernie just lost 10 000 vote when a batch of Wayne county came in'", "coordinates": [-76.353876, 44.961937]}
+{"tweet": "'@SenSanders maintains a lead in Michigan and @nytimes coverage is all Clinton and Trump.  #MichiganPrimary https://t.co/l1q6aT1NGd'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'Bernie Sanders is slightly ahead of Hillary Clinton in Michigan ! Bernie 49.8% Clinton 48.3%'", "coordinates": [-88.294633, 41.444387]}
+{"tweet": "'@MMFlint interesting that the rich white liberals are going for Bernie and the folk who someone like him are voting for Hillary.Why is that?'", "coordinates": [-74.070938, 41.127034]}
+{"tweet": "'HRC would never be talking this tough without Bernie in the race'", "coordinates": [-104.813236, 39.478431]}
+{"tweet": "'Nice to know @CNN is reporting auto bailout correctly, @MSNBC is still lying about 'Bernie claims he voted for the bailout,Hillary disagrees'", "coordinates": [-111.894548, 33.306275]}
+{"tweet": "'@CNN nn@BernieSanders  @realDonaldTrump s @HillaryClinton nn= Bernie TRUMPS hillary....:face_with_tears_of_joy::face_with_tears_of_joy::face_with_tears_of_joy::thumbs_up_sign::emoji_modifier_fitzpatrick_type-6::chequered_flag::dancer::emoji_modifier_fitzpatrick_type-6:'", "coordinates": [-121.262498, 38.637436]}
+{"tweet": "'Media doesn't cover Bernie much either for the same reasons'", "coordinates": [-85.649602, 42.215555]}
+{"tweet": "'@ABCPolitics @ABC @realDonaldTrump The same people voting for Bernie, will reject Clinton in November.  Trump will be beat Hillary handedly'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'@CoreyAtad Sure. What I'm getting at is that a lot of Bernie supporters are getting too wrapped up in dismissing Clinton that they'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'disappointed in Michigan that trump won but Bernie is in the lead !!! come on !!!!! we got this :flexed_biceps::emoji_modifier_fitzpatrick_type-1-2::flexed_biceps::emoji_modifier_fitzpatrick_type-1-2::flexed_biceps::emoji_modifier_fitzpatrick_type-1-2:'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'I think the big unions left will endorse Bernie tomorrow after he pulls this out.'", "coordinates": [-86.385306, 41.598756]}
+{"tweet": "'70% reporting in Allegan County. Sanders 60%, Clinton 38%. #MichiganPrimary'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "'@MorganJCaldwell also, for sanders supporters, what would you do if he didn't win the nom?'", "coordinates": [-122.58428, 47.185193]}
+{"tweet": "'@Whiteshirt71 @MMFlint absolutely is!!! Go bernie'", "coordinates": [-118.017789, 33.788913]}
+{"tweet": "'Yo! #HillaryClinton! You sound more and more like @BernieSanders every day! Why are you looking at #Bernie's paper? #FeelTheBern #Bernie'", "coordinates": [-84.976985, 39.793313]}
+{"tweet": "'Mark Ruffalo's huge support for Bernie Sanders. #mood'", "coordinates": [-81.257113, 34.04725]}
+{"tweet": "'@yaboyberniesand Poll-Plus as a reliable forecaster bit the dust whether or not Sanders wins. Margin he will win/lose by will be small.'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'If you're in Michigan vote for Bernie sanders he only up 1%!!! He needs it'", "coordinates": [-75.4314, 40.578043]}
+{"tweet": "'@DylanByers @BretBaier Because the fix is in on the Dems side. Bernie can't win because of the super delegates. This is Kabuki Theater.'", "coordinates": [-74.147217, 40.324956]}
+{"tweet": "'Ok #Hillary 48.3 #Sanders 49.9 c mon so close in #MichiganPrimary. Please. #InternationalWomensDay. Its got to be #HillaryClinton'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'As @ForecasterEnten said, a bunch of Wayne reported, narrowing Bernie's lead to 9k. Still over half Wayne left. https://t.co/XFsEwrazS2'", "coordinates": [-80.095586, 40.36158]}
+{"tweet": "'Almost 40% of Ingham's in &amp; he's winning (MSU). If UMich and EMU students &amp; townies turned out, then Bernie's lead'll hold &amp; he carries MI.'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'@Greg_Palast Hilaryu2019s speech notwithstanding, has Bernie won? Iu2019m not so sure'", "coordinates": [-97.784472, 30.24363]}
+{"tweet": "'Regardless, a great showing by Sanders in Michigan tonight... Clinton has to seriously think about making Sanders her running mate.'", "coordinates": [-115.384091, 36.129459]}
+{"tweet": "'@SenorBush @ilrosso_ Bernie Bros would not have been Warren Warriors'", "coordinates": [-117.039699, 46.710846]}
+{"tweet": "'Looks Like The Clinton Camp Is Going To Cheat Again nWhy Not Call The Race For Bernie !!!!'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Michigan update: Bernie just went from a 5 point lead to a 1.6 point lead. #ImWithHer'", "coordinates": [-71.474186, 41.772455]}
+{"tweet": "'@cenkuygur I love you bro but u gotta stop saying sanders won. Keep the luck on our side don't jinx us'", "coordinates": [-74.089373, 40.847458]}
+{"tweet": "'Holy cow we got a race, at 48% reporting Clinton and Bernie fight over 1%. Ironic really. #WallStreet #OnePercent'", "coordinates": [-121.991728, 37.254665]}
+{"tweet": "'@realDonaldTrump Mr Trump and Sanders have one common important thing: No TPP  Washington/WSJ will conspire with Hillary for TPP.'", "coordinates": [-81.507905, 28.388218]}
+{"tweet": "'Bernie had a significant lead in Michigan and now all of the sudden Hillary is catching up :face_screaming_in_fear::face_screaming_in_fear:'", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'If you're a Democrat then PLEASE vote for Bernie Sanders! If you're Republican PLEASE vote for Marco Rubio! https://t.co/4OPYRlQeCp'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'@zecretary Sweating out Wayne County though, not even halfway counted still good showing for Bernie though'", "coordinates": [-92.767713, 44.943753]}
+{"tweet": "'@cenkuygur  @billmaher  Bernie needs 2 go all the way nif notnthe election will B for either Wall St. [D] or Wall St. [R] nwall street wins'", "coordinates": [-6.036116, 54.543241]}
+{"tweet": "'John Kasich Taurus Bernie Sanders Virgo Ben Carson Virgo Ted Cruz Capricorn Hilary Clinton Scorpio Donald Trump Gemini Marco Rubio Gemini.'", "coordinates": [-79.810142, 43.373074]}
+{"tweet": "'@OkiesForHillary THANK U MISSISSIPPI, U VOTED WITH FAIRNESS UNLIKE SANDERS MICHIGAN VOTERS WHO PLAYED DIRTY POLITICS ON SOCIAL MEDIA!'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'@LaFemmeDeNY Not as much as Trump's people but I've heard a lot of racist, sexist things come from Bernie people - have blocked many of them'", "coordinates": [-78.959206, 43.614586]}
+{"tweet": "'The one sour taste I will have about tonight is my fellow Bernie supporters elevating Michigan over Mississippi voters. I don't feel this.'", "coordinates": [-73.00967, 44.495653]}
+{"tweet": "'@elyse_yo Hells if I know! I sent in my vote for Comrade Sanders well over a week ago. :loudly_crying_face:'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'#Hillary will end night with gain of 20+ delegates over #bernie #MIPrimary #MSPrimary'", "coordinates": [-97.20323, 32.914293]}
+{"tweet": "'I hope Bernie wins so I can dish out the 'I told you so''s. Plus the amount of people that will lose faith in government will be monumental.'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'@stevenwtodd nGOPs who will vote Dem if Trump gets the nomination won't vote for #Bernie. And you might get a 3rd party challenge ,too.'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "'Met Bernie sanders brother today. Nice man who's very proud of his brother. Literal Bernie bros. #tytlive https://t.co/IWWC0xIWbr'", "coordinates": [-1.957296, 50.574606]}
+{"tweet": "'Bernie Sanders was supposed to lose Michigan by 12+% tonight. He's winning.'", "coordinates": [-93.718311, 41.986006]}
+{"tweet": "'@LukeRussert @Lawrence Thats why he refused to debate Bernie on FOX.'", "coordinates": [-56.301983, -15.839423]}
+{"tweet": "'Nate Silver: If Sanders winds up winning in Michigan, it will count as among the greatest polling errors in primary history.'", "coordinates": [-0.213503, 51.512805]}
+{"tweet": "'@MMFlint @CamelotGypsy To Michael Moore: It was only a 23,000 vote margin in Mass. or Bernie would own everything North of Mason-Dixon Line!'", "coordinates": [-74.03435, 42.752988]}
+{"tweet": "'With a sharp narrowing in the polls, Bernie Sanders leads Hillary Clinton by 1.1% in Michigan. #MichiganPrimary'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'A lot of anti-Sanders bull**** quite reminiscent of Better Together: spinning success as failure, stereotyping Bernie Bros, like cybernats.'", "coordinates": [-4.393285, 55.796184]}
+{"tweet": "'@joev816 Um, yes, she won red states which usually go red. Bernie is winning swing state demos.'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'And the Sanders lead decline begins'", "coordinates": [-75.225463, 40.277487]}
+{"tweet": "'My hatred for Criminal Clinton and Socialist Sanders is off the charts'", "coordinates": [-83.433894, 42.352453]}
+{"tweet": "'Close race between Hillary Clinton and Sanders. Clinton 48.3% vs Sanders 49.9%.'", "coordinates": [-79.505086, 46.222736]}
+{"tweet": "'Classy move by Bernie's team https://t.co/LrSVQnwZtB'", "coordinates": [-73.979841, 40.925891]}
+{"tweet": "'#CNN's top story: 'It's tight in Michigan' nnWith 57% of precincts reporting Sanders/Clinton are nearly tied now! WOW! nn#MichiganPrimary'", "coordinates": [-86.217544, 41.709039]}
+{"tweet": "'@guardian @BernieSanders Because of dirty Politics on Social Media SHAME ON U BERNIE MICHIGAN VOTERS!'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'@ZaidJilani This is one reason I like Sanders. Focuses on issues and drops the detritus behind.'", "coordinates": [-77.373778, 38.845651]}
+{"tweet": "'@NoahPipa #Bernie announced his $1 Trillion infrastructure jobs plan a whole year before #Hillary announced her $250B plan. #ImWithHer'", "coordinates": [-157.950476, 21.254837]}
+{"tweet": "'Look at all these states Sanders is slated to win. nnMedia: He should still drop out.  https://t.co/bFEt1ucJfs'", "coordinates": [-85.905408, 38.042147]}
+{"tweet": "'Who was being rude?  Hillary as she talked over Sanders about lies about his vote on the auto bailout. https://t.co/bWPSJI2NCe'", "coordinates": [-86.061524, 41.620816]}
+{"tweet": "'Twisted priorities. Will Bernie get any air time after he is declared winner in Mi? Or will the time go to Teddy? https://t.co/BfGbXUhoIj'", "coordinates": [-104.910562, 38.741142]}
+{"tweet": "'Bernie my homie tho https://t.co/LtulVGtgKz'", "coordinates": [-83.231897, 42.222765]}
+{"tweet": "'@raeshawnnaC @xstex YASS BERNIE'", "coordinates": [-82.036159, 35.016441]}
+{"tweet": "'Sad remember when Clinton our did everyone...bernie doing awesome job'", "coordinates": [-81.498112, 40.767243]}
+{"tweet": "'My face as #Bernie continues to hold onto his lead in the #MichiganPrimary. #HelpUsBernieSanders #YoureOurOnlyHope https://t.co/rDlzNst4J0'", "coordinates": [-122.736467, 42.167149]}
+{"tweet": "'So Bernie CAN win a diverse electorate  https://t.co/WJdkDMYBns'", "coordinates": [-85.847503, 38.108678]}
+{"tweet": "'@killingxmoon @LegionOfChris @SusanLeigh11 @JenniferShutt stop with the talking points there Uncle Bernie'", "coordinates": [-114.818269, 31.332246]}
+{"tweet": "'C'mon Bernie - pull this shit out. #FeelTheBern'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'@DysClaimer @Pietro_pdx my point. If Hillary/Bernie wins California by .5 points, and loses Georgia by 50? Good.'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'Okay Bernie went up to 50% thats better Hillary at 48.2% so we are STILL OKAY #FeelTheBern #MichiganPrimary'", "coordinates": [-81.391247, 42.824496]}
+{"tweet": "'@BayArea4Bernie DIRTY POLITICS BERNIE!!'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'Cmon Bernie'", "coordinates": [-79.007589, 35.866334]}
+{"tweet": "'That picture Hillary circulated of Bernie in traditional African garb may have worked.'", "coordinates": [-76.711521, 39.197211]}
+{"tweet": "'Bernie is currently winning Michigan. Damn right!! #Sanders2016'", "coordinates": [-79.241516, 35.389316]}
+{"tweet": "'If Bernie snags Michigan tonight... :o'", "coordinates": [-141.561094, 41.676329]}
+{"tweet": "'i am going to vote for Bernie and then i am going to move far far away from here'", "coordinates": [-118.120827, 34.071162]}
+{"tweet": "'Democratic PrimarynSanders leads by 2 points, with 47% reporting.n557,927 votes, 47% rptng (2,289 of 4,830 precincts)-Wayne Co coming in now'", "coordinates": [-76.547738, 42.41815]}
+{"tweet": "'I'm biting my nails watching Clinton and Sanders polls inch closer in Michigan. This is way closer than I thought. #MichiganPrimary'", "coordinates": [-86.385306, 41.598756]}
+{"tweet": "'@DanaBashCNN bashing #hillary &amp; promoting trump &amp; sanders but she is very much disliked poor @JohnKingCNN is very fair #WakeUpAmerica #cnn'", "coordinates": [-97.51982, 35.15327]}
+{"tweet": "'Fuck Ya Bernie https://t.co/Zw8CdleRDI'", "coordinates": [-82.928586, 42.450585]}
+{"tweet": "'@cafox71 @50th_President @JoyAnnReid @goldietaylor Outrageous that Bernie supporters didn't know the significance of the hash tag.'", "coordinates": [-121.312069, 38.769833]}
+{"tweet": "'@jkarsh  Bernie....you gotta have heart. ..'", "coordinates": [-84.797988, 33.860284]}
+{"tweet": "'Richard, you know @SenSanders can't do what he says! Hired Monsanto and @KarlRove Trojan GOP camp sent tweet vote 2x https://t.co/p8iXboj8dk'", "coordinates": [-124.848975, 45.543542]}
+{"tweet": "'If Bernie wins Michigan, the key demographic for the general election will be Jimmy Hoffa's corpse.'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'50-42.8 Sanders with 50% reporting #MichiganPrimary #PantsShittingAllowed #tytlive'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'Bernie needs to pull through  https://t.co/QTNVgX0Tjl'", "coordinates": [-80.2006, 26.644671]}
+{"tweet": "'As long as it doesn't go to the convention. Bernie staying close to Hilary on delegates tonight doesn't help him.'", "coordinates": [-77.65493, 37.624458]}
+{"tweet": "'@CNN Bernie is saying they ten out of ballots in Michigan.'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'.@ggreenwald wow, considering the spin about the debate you'd think Bernie had zero chance especially given all these polls #FeelTheBern !!!'", "coordinates": [-75.40809, 39.822204]}
+{"tweet": "'Nets all cover hour+ #Trump expected-victory gloat live while @BernieSanders heads toward what may be biggest 2016 upset yet'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'Grand Rapids, Kalamazoo, Lansing, and Ann Arbor all swinging for Sanders. This is the revolution we need.'", "coordinates": [-85.644649, 42.822221]}
+{"tweet": "'Come on, Bernie! :fire::fire::fire:'", "coordinates": [-81.877771, 41.392684]}
+{"tweet": "'Bernie needs to run up the delegates on Hilary like it's the old BCS college football system'", "coordinates": [-77.65493, 37.624458]}
+{"tweet": "'Michigannn2,396/4,830 precincts (49.6%) reportingnBernie Sandersn288,128n50.0%nHillary Clintonn277,647n48.2%n576,598 total votes'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@NoahPipa #Bernie announced his free public college tuition plan 5 mos before #Hillary announced her mysterious 'debt free' plan. #ImWithHer'", "coordinates": [-157.950476, 21.254837]}
+{"tweet": "'Sanders very close in Wayne County ... not expected, right @MMFlint ?'", "coordinates": [-76.712759, 44.16054]}
+{"tweet": "'Still-tight Dem race in MI - Sanders up in many counties while Clinton with edge around Detroit https://t.co/Bj8Y0TEpM0'", "coordinates": [-76.711521, 39.197211]}
+{"tweet": "'Cracking me up that Hillary can't beat Bernie in Michigan.. #Vote2016'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'36% reporting:Bernie Sanders: 52% (214,180)Hillary Clinton: 47% (193,125)Sanders' lead continues to increase https://t.co/iJyANcKlWp'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'Bernie Sanders has 51% of the vote with 36% reporting in MIPrimary. It's gonna be close https://t.co/ZLUJx4iAJL'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'59% of precincts reporting: nnSanders  50.0%nClinton    48.0% nn#MichiganPrimary #CNN'", "coordinates": [-86.217544, 41.709039]}
+{"tweet": "'Pleeeeeease dear Jesus let us win Michigan #FeelTheBern #MichiganPrimary #Michigan #Sanders'", "coordinates": [-105.148925, 39.819133]}
+{"tweet": "''That's a nice lead you have there Bernie...be a shame if something happened to it.' #FeelTheBern'", "coordinates": [-70.001645, 43.914743]}
+{"tweet": "'@chrislhayes @maddow Hil channels Bernie u201cmoments agou201d from Clev. Nabisco malfeasance, a u201cUSAu201d chant broke out, WAY better u201cTVu201d than Donny'", "coordinates": [-89.989018, 35.076337]}
+{"tweet": "'Michigan voting for Bernie! Wow! Who's going to win?'", "coordinates": [-70.978426, 41.591322]}
+{"tweet": "'Hillary and Bernie neck to neck in Mich. 1 pct point separates em. Bernie doing surprisingly well.'", "coordinates": [-96.234587, 41.175884]}
+{"tweet": "'I don't care who wins. I'm with Bernie! #MichiganPrimary #FeelTheBern #UniteBlue #SuperTuesday2 https://t.co/pFEGorhMrB'", "coordinates": [-84.558691, 33.894492]}
+{"tweet": "'Lord please let Bernie sanders win.'", "coordinates": [-84.094415, 41.860395]}
+{"tweet": "'57% reporting in Ottawa County. 66% Sanders, 32% Clinton. #MichiganPrimary'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "''Black lives matters protesters rally against Bernie Sanders' But he went to jail fighting for black people during the civil rights movement'", "coordinates": [-94.872268, 29.783551]}
+{"tweet": "'Okay can we either make Obama stay or elect Bernie and get on with our lives'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Tight race between @HillaryClinton and Bernie in Michigan but I'm not worried because Alameda and San Mateo Co.s haven't reported in yet.'", "coordinates": [-121.371979, 38.452572]}
+{"tweet": "'Boo. We need @SenSanders to beat @realDonaldTrump  https://t.co/FJTS76KCVP'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@TulsiGabbard Go Hawaii......omg A Sanders/Gabbard ticket!  Then I could go to bed in peace....we simply cant go to war, dear.  And Hillary'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'Come on Bernie! #FeelTheBern #MichiganPrimary'", "coordinates": [-82.932648, 40.079586]}
+{"tweet": "'I would be fine with Hillary or Bernie in office cause they both plan to follow Obama's agenda and I researched everything bout em both :hundred_points_symbol:'", "coordinates": [-85.605166, 30.355644]}
+{"tweet": "'Gotta be honest, I didn't expect to be glued to the dem returns in MI tonight. Also did not expect Sanders to win Livingston County!'", "coordinates": [-84.006198, 42.568064]}
+{"tweet": "'Congratulations to Senator Bernie Sanders on his victory'", "coordinates": [-76.843251, 39.343366]}
+{"tweet": "'@girlziplocked Sanders numbers are slowly going back up. Diff just under 12K now'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Lets go Bernie'", "coordinates": [-73.962582, 40.541722]}
+{"tweet": "'Keep that lead Bernie come on keep that lead. #MichiganPrimary'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'@es_snipes @SymoneDSanders @AlexAskew757 @JustinBamberg The Clinton Is Trying To Steal MI For  Bernie !!!!!!! Why Not Call The Race For Him'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@oz_f I donu2019t think its a disaster though, better for sanders than it is bad for clinton.'", "coordinates": [-122.636135, 45.496769]}
+{"tweet": "'Whether Sanders will win though is anyone's guess, Clinton currently trails by only 2 points #MichiganPrimary'", "coordinates": [-83.800262, 42.215087]}
+{"tweet": "'#MIPrimary 51% reporting Sanders 50% Clinton 48%'", "coordinates": [-77.569305, 37.606827]}
+{"tweet": "'Come on Bernie... so close. #MichiganPrimary'", "coordinates": [-96.85743, 32.997151]}
+{"tweet": "'@NoahPipa looks like you've drank the #WhichHillary KoolAid. #Bernie has been fighting for &amp; talking about many issues, for three decades.'", "coordinates": [-157.950476, 21.254837]}
+{"tweet": "'@stevenwtodd  You need to read PJ O'Rourke;  etc. Lots of agitation going on.n But they ain't voting for Bernie.'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "'Some people are so ignorant, like I feel like I shouldn't be called a communist supporting Bernie Sanders..'", "coordinates": [-83.04024, 40.155625]}
+{"tweet": "'Sanders Massively Outperforms Expectations in Michigan Primary, CNN Ignores It to Cover Trump https://t.co/OaJbl51H6L # via @HuffPostPol'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'Sanders and Clinton are virtually tied in Michigan, with half of precincts counted. Sanders shattering expectations. #MichiganPrimary'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'If Bernie wins Michigan it will be the biggest political upset in a long time, polling gave HC a huge majority'", "coordinates": [-94.733122, 38.868002]}
+{"tweet": "'@TulsiGabbard suffering vets.  just wish someother of our senators and congressmen/women would support Bernie'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'I'm going to get an ulcer over these Clinton/Sanders numbers! SO CLOSE!!! #57chat #MichiganPrimary #PureMichigan'", "coordinates": [-86.217544, 41.709039]}
+{"tweet": "'The #Michigan race has tightened. Could have been called too early, but Bernie is still in the lead. Fingers crossed! #MichiganPrimary'", "coordinates": [-78.028084, 39.426663]}
+{"tweet": "'@BernieSanders @CNNPolitics @HillaryClinton Mr Sanders I am a bit confused by your explanation to vote against the bill to help auto ind 1/3'", "coordinates": [-83.374825, 30.762483]}
+{"tweet": "'@adammc123  Dont you a bernie bro reunion to join :P'", "coordinates": [-76.353876, 44.961937]}
+{"tweet": "'Come on #BernieSanders! Let's do this!!! #FeelTheBern #BernieStrong #Election2016 #Bernie2016 #MichiganPrimary  https://t.co/EAUxAVPp02'", "coordinates": [-82.069567, 26.531814]}
+{"tweet": "'FLIPPING COIN AGAIN IN MICHIGAN BETWEEN HILLARY AND BERNIE ???'", "coordinates": [-94.043628, 28.855128]}
+{"tweet": "'@jaywnj Bernie won Michigan. That's after she try to nail him on the auto bailout. Trump could even make a run @ NY and NJ.'", "coordinates": [-75.563587, 38.788657]}
+{"tweet": "'My boi @LastOfRace wants Bernie for president dont he?'", "coordinates": [-81.907176, 41.089056]}
+{"tweet": "'Come on Bernie #MichiganPrimary'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'DANG....#Bernie lead went back up!   where are our #Hillary vOTES?'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'@ryansiskow @HillaryClinton @BernieSanders Bernie has not won MI'", "coordinates": [-88.097892, 37.771743]}
+{"tweet": "'Bernie fighting for that upset in a big statenMICHIGAN-n50% of votes innSanders 50%nClinton 48% n#MichiganPrimary #Democrats'", "coordinates": [-80.258078, 25.830731]}
+{"tweet": "'@TulsiGabbard Praying Hawaii votes for Bernie.  Watching Michigan and ready to have a stroke till its over. We need this win!  Love youSO!'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'How primaries work: Bernie could lose both Dem primaries and still win the night. Win or lose, MI proves he's competitive in diverse state.'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'61% of precincts reporting: nnSanders:  50.2%nClinton:    47.9nn#MichiganPrimary #CNN'", "coordinates": [-86.217544, 41.709039]}
+{"tweet": "'Just over half of the vote in Michigan, and Sanders retains a 2 point lead. #MichiganPrimary'", "coordinates": [-122.514926, 37.708075]}
+{"tweet": "'Michigan would be an absolute game changer for Bernie heading into Ohio next week and beyond. He needs to hang on. #FeelTheBern'", "coordinates": [-83.200169, 39.832013]}
+{"tweet": "'@HillaryClinton attack on Bernie about auto bailout, but people understand it a as bailout of wall Street as welln#FeelTheBern n#CNNElection'", "coordinates": [-79.639319, 43.403221]}
+{"tweet": "'i wish bernie sanders was my grandpa'", "coordinates": [-85.648591, 42.150587]}
+{"tweet": "'@kristieburchit Good night for Bernie.  The trade issue cuts across parties.'", "coordinates": [-117.277932, 34.032777]}
+{"tweet": "'I will give #CNN props for at least acknowledging how big this is for Bernie. #MichiganPrimary'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'Wow Bernie and @HillaryClinton separated by 14K votes in #MichiganPrimary with 60% in'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'35 point lead for Clinton among black voters in #MIprimary, but Sanders' 15-pt edge among whites could be enough.'", "coordinates": [-83.67529, 36.540739]}
+{"tweet": "'Against super pacs but immorally takes money from them! #MichiganPrimary #Warrencounty #BernieInMi #Bernie https://t.co/koD6Azk6rH'", "coordinates": [-99.200407, 29.332533]}
+{"tweet": "'But on a bright side bernie might pull an upset in Michigan!!!!!'", "coordinates": [-97.993537, 29.840708]}
+{"tweet": "'I CALL BULLSHIT! almost 15K in the lead 'too close to call' It will KILL them to say #Bernie won! #MSNBC this is why I don't watch you!'", "coordinates": [-84.976985, 39.793313]}
+{"tweet": "'@stevenwtodd  See, I don't love #HRC. I just don't want Dems to lose the WH. #Bernie -will lose it.'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "''Bruins are winning. Bernie's winning. UHH UUHHHHH I feel like Trump right now ' - @curious_garno'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'Sanders: 50.2%nClinton: 47.8%nwith 52% reporting in the Democratic #MichiganPrimary #supertuesday'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'@allylauryn ok. But if you pay attention and listen to Obama, he is more of a Bernie guy.'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'So, it will be 'a big, big win' for Bernie if he wins Michigan. Agreed. But Hillary will still expand her delegate lead tonight.'", "coordinates": [-124.848975, 45.543542]}
+{"tweet": "'@TrapBernie @Altai_Armande  Go Bernie'", "coordinates": [-74.146932, 40.643773]}
+{"tweet": "'If Bernie wins Michigan this could be the turning point. VOTE VOTE VOTE.'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'Bernie just needs one major Democrat to express concern about the emails. That's all he needs.'", "coordinates": [-86.418059, 32.284593]}
+{"tweet": "'52% reporting Sanders 50.3% Clinton 47.9% #MichiganPrimary'", "coordinates": [-77.569305, 37.606827]}
+{"tweet": "'Bernie sanders people called me today....i told them i down with bernie'", "coordinates": [-81.133668, 29.127565]}
+{"tweet": "'watching let it rip they saying that bernie got the youth vote in MI!'", "coordinates": [-83.121913, 42.387951]}
+{"tweet": "'Bernie is STILL AHEAD WITH A GOOD LEAD #FeelTheBern #MichiganPrimary'", "coordinates": [-81.391247, 42.824496]}
+{"tweet": "'@SymoneDSanders  The Clinton Is Trying To Steal MI'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Where was #Hillary? #ImWithHer #MichiganPrimary #warrencounty #BernieInMi #bernie https://t.co/5Sv5p7cRoY'", "coordinates": [-99.200407, 29.332533]}
+{"tweet": "'What kind of shenanigans is Bernie trying to pull? https://t.co/X25tUgkXL6'", "coordinates": [-92.889433, 42.491921]}
+{"tweet": "'So close in #MichiganPrimary right now. Go Bernie Go!! #feelthebern'", "coordinates": [-84.15028, 41.58524]}
+{"tweet": "'Thanks, @MSNBC for making Sanders leading in almost every county in MI into a story on how Clinton wins.'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@sunraysunray Kent and Washtenaw counties are going to help Bernie. Wayne will hurt badly.'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'Bernie is currently carrying Clinton County, Michigan https://t.co/mRiFtQaSzQ'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'Hillary:'If you work for me &amp; vote for me, I'll be there for you'. What if I vote for &amp; work for Bernie?'", "coordinates": [-86.348441, 39.631677]}
+{"tweet": "'Made a list of states Bernie won and what party they lean toward based off a map I found. https://t.co/jiHruyacoF'", "coordinates": [-98.614411, 33.835461]}
+{"tweet": "'@iamsambee I do think you were unfair toward @BernieSanders about the finger thing though, Bernie was talked over/interrupted a lot.'", "coordinates": [-112.323914, 33.29026]}
+{"tweet": "'I really hope Bernie gets at least close to winning Michigan'", "coordinates": [-84.262816, 39.995246]}
+{"tweet": "'Just waiting until the general election in November. Hillary or Bernie will beat Trump if it is indeed Trump as the Republican nominee.'", "coordinates": [-83.437523, 42.439001]}
+{"tweet": "'No question Bernie Sanders is outperforming the recent polling and should make this closer than 37 point lead one recent poll showed @wzzm13'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "'Washtenaw includes AnnArbor, should b good 4 Bernie https://t.co/BlA9bsWU1H'", "coordinates": [-76.547738, 42.41815]}
+{"tweet": "'Only half of the Wayne County vote in. Clinton trails Sanders by 14,000 There could be enough there to flip.'", "coordinates": [-114.37582, 34.449228]}
+{"tweet": "'#Hillary (48%) closes the gap in #Michigan vs #Sanders (50%) as Detroit (Wayne County) votes come in, via @MSNBC. https://t.co/FQKgRyoP4o'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'@Jehoshua_F @allylauryn @POTUS agreed. I think if you listen to the msgs coming out of the White House it is Bernie-esq'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'Can we pause the Bernie-Hillary wars for a moment? Major Carbon Monoxide Explosion West Coast https://t.co/51un2si2T2'", "coordinates": [-117.666227, 33.386645]}
+{"tweet": "'@mxd omfg BERNIE !! So close'", "coordinates": [-83.800262, 42.215087]}
+{"tweet": "'i just want bernie to win mi cause I live here &amp; I voted. &amp; he's the democratic candidate I want to win'", "coordinates": [-83.121913, 42.387951]}
+{"tweet": "'@MSNBC just said Ottawa and Kent counties are essential to Sanders. The spit take I did can only be described as epic. #MichiganPrimary'", "coordinates": [-73.957898, 40.663907]}
+{"tweet": "'if bernie can win michigan then it means the entire rust belt is in play - illinois, indiana, ohio, pennsylvania, new york'", "coordinates": [-73.380745, 40.767592]}
+{"tweet": "'@NoahPipa #bernie's been talking about NAFTA, SMS, Iraq, climate change, equal pay, paid leave, campaign/crime reform, healthcare &amp; tuition.'", "coordinates": [-157.950476, 21.254837]}
+{"tweet": "'@MeltingStrogg I mean the way people thinks and the ideals they hold. The States Bernie wins are in the minority on many issues'", "coordinates": [-86.348441, 39.631677]}
+{"tweet": "''If Bernie wins I will streak around forever' -@sethnolan'", "coordinates": [-122.546166, 48.689345]}
+{"tweet": "'Even if Sanders wins Michigan, it's a better alternative to ANY GOP candidate! College debt, cuts in SNAP, is not the best thing 4 the poor!'", "coordinates": [-86.005464, 37.749997]}
+{"tweet": "'@stephpurrdomo brb lemme call bernie to help me with the overcost of this tuition'", "coordinates": [-122.076144, 36.948098]}
+{"tweet": "'via @CNN: Sanders Leads Clinton in Michigan with 61% of Precincts Reportingn#copolitics #coleg'", "coordinates": [-105.109815, 39.614151]}
+{"tweet": "'Register to attend the Bernie Sanders Rally in Tampa! This Thursday 03/10 at 4 pm at the Florida State Fairgrounds!nhttps://t.co/mFi2OBtf9m'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'And by basically tied, I mean Bernie is ahead in Genesee.'", "coordinates": [-86.418059, 32.284593]}
+{"tweet": "'Good news for Clinton: She's winning Wayne County (Detroit) 59%-36%, with half the precincts counted. Tied with Sanders statewide.'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'Interesting thing to note: Despite Hillary having the majority of the black vote in Michigan, Bernie has her 70/30 in the Muslim vote.'", "coordinates": [139.857273, 36.395099]}
+{"tweet": "'HE WAS DOWN 20 POINTS JUST A FEW WEEKS AGO. #GOBERNIEGO https://t.co/cCZsqoVruV'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'You're right Bernie, poor white people don't exist! https://t.co/3vPGMotC7c'", "coordinates": [-76.534012, 39.078029]}
+{"tweet": "'If Bernie wins Michigan and the African American vote, it's just confirming how backwards the South still is.'", "coordinates": [-111.979047, 33.319945]}
+{"tweet": "''The millennials LOOOOVE Bernie Sanders they MUST vote''", "coordinates": [-83.121913, 42.387951]}
+{"tweet": "'Bernie is pulling ahead of Hillary in MI. Not surprised given how often I hear ppl talk about 'feeling the Bern.' #AnyoneButClinton #ABC'", "coordinates": [-85.648591, 42.150587]}
+{"tweet": "'if Trump is Hitler, then Bernie must be Stalin??? https://t.co/BgHyctAO7Q'", "coordinates": [-81.784858, 41.37066]}
+{"tweet": "'Bernie to Win MI!!!  Feel the Bern!!!'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'#MichiganPrimary #Bernie leads by 2 points, with 53% reporting.n#FeelTheBern #Bernie2016 #BernieSanders2016'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'50% Sanders vs 48% Clinton, 62% reported. #FeeltheBernnhttps://t.co/PuzgrbEa7Z'", "coordinates": [-123.208615, 43.988281]}
+{"tweet": "'Bernie's gap increasing!! @shittheldam #Michigan #SuperTuesday2'", "coordinates": [-81.785053, 41.350358]}
+{"tweet": "'@Modern_Scot @fenwaymoose They are the establishment. They don't want to acknowledge Bernie because he'll turn their cozy world upside down'", "coordinates": [-122.829672, 45.491481]}
+{"tweet": "'Bernie is winning Michigan. If the lead holds that is yuuuuge!!!!!'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Bernie has got the lead in FLINT #TYTlive'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "''Clinton's firewall is buckling'- @davidaxelrod on CNN. @MMFlint @SusanSarandon @BernieSanders @BenJealous @ninaturner @gabymhoffmann'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'95 Year-Old WWII Vet Voted 4 Bernie Sanders 2day in Mississippi https://t.co/zqaqalmeVS via @vets4bernie #VoteBernie https://t.co/hM3h80B0EW'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'Oh, man, watching MSNBC spin its wheels on Muslims voting for Bernie is pretty ... entertaining. Flabbergasting. Something.'", "coordinates": [-84.777849, 39.483806]}
+{"tweet": "'Sanders up 20k votes with half of Detroit in.'", "coordinates": [-86.418059, 32.284593]}
+{"tweet": "'Bernie is winning Michigan. If the lead holds that is yuuuuge!!!!!'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'Bernie is winning in Michigan but then again so is trump'", "coordinates": [-83.831237, 42.899436]}
+{"tweet": "'#Bernie will win #Michigan &amp; stay above 15% required delegate threshold in #Mississippi. That's my mantra.'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'Hear Bernie Sanders is going to trump the Donald by bringing out Bernie's Matzoh Ball Soup and Sanders' Schmatas at his pending presser.'", "coordinates": [-83.441942, 42.52605]}
+{"tweet": "'Bernie's lead in Michigan back up between 2.4 to 2.8%...#SuperTuesday2'", "coordinates": [-87.634643, 24.396308]}
+{"tweet": "'Didn't the poll a week ago say that Bernie was trailing Hillary by over 20% in Michigan? How come he is 2% ahead now? Oh they #FeelTheBern'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'Texas women love #bernie! Proud of my vote! Thank you #MichiganPrimary ! #WhichHillary #warrencounty https://t.co/HJeAtkcRJ4'", "coordinates": [-99.200407, 29.332533]}
+{"tweet": "'@MSNBC ITS A BIG F'ing DEAL IF HE WINS OR LOSES A CLOSE ONE BCUZ HE IS BLOWING AWAY THE POLLS &amp; ALL U idiot #HillaryPawns r sucking! #Bernie'", "coordinates": [-93.329515, 44.889964]}
+{"tweet": "'@artanis_lives I was. 92% Sanders, 88% Hillary. Low seventies on Cruz if I remember. That was without extended questions.'", "coordinates": [-81.33713, 28.966155]}
+{"tweet": "'The Bernie train is coming. #MichiganPrimary #FeelTheBern https://t.co/SL3Tkfzggn'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'#CNN gives #Sanders his speech for the night and NOT @HillaryClinton? #MichiganPrimary EXCUSE ME? Clinton won!!!!!!! In Mississippi!'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'Several friends in Detroit proudly announced on FB they were voting for Sanders. https://t.co/xMGa7RjPN7'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'Those are repubs in Michigan voting for Bernie. We already know they are working to sabotage Hillary.'", "coordinates": [-81.532635, 41.449669]}
+{"tweet": "'...if i go to bed and wake up and find out clinton took the lead over sanders i'm going to riot.'", "coordinates": [-90.418108, 41.696088]}
+{"tweet": "'If Bernie was on track for the nomination, he should get ~13 of Mississippiu2019s 36 delegates. He currently is gettingu2026 1.'", "coordinates": [-73.994578, 40.676412]}
+{"tweet": "'Bernie, a Jew, is winning the votes of Dearborn's Muslim Arab workers, according to Lawrence O'Donnell, MSNBC'", "coordinates": [-73.388984, 41.094742]}
+{"tweet": "'Art of the Comeback: Trumpu2019s Big Tuesdayu2026nn Rubio Crushedu2026nn MI: Sanders 50%, Clinton 48%nn Later: ID, HI https://t.co/HkOBh3HpRu'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'The fact that Bernie is winning in Michigan with polling like this just days ago is outstanding #Bernie2016 https://t.co/HQEl8Cp3Op'", "coordinates": [-91.51308, 36.970298]}
+{"tweet": "'Wow! What's happening in Mich with #FeelTheBern is interesting. What does the success of candidates like Trump and Sanders tell us?'", "coordinates": [-94.455929, 45.436941]}
+{"tweet": "'@paulstorms Michigan still too close to call (but I have Sanders winning in the end, tweeted it about 3 hours or so ago)'", "coordinates": [-82.681852, 35.421216]}
+{"tweet": "'@YeaYouRite Bernie is winning Kent Country (Grand Rapids) 64% with only 15 of 250 precincts reporting, that should offset Wayne (Detroit).'", "coordinates": [139.661641, 35.600599]}
+{"tweet": "'@ihradio I prayed for Bernie Sanders to win, and he did! He won Michigan and it was close in Mississippi! Prayer works miracles!'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@NoahPipa Don't know what rock u're living under, or if u never listen to Bernie, but he talks about tons of issues. Quit the Clinton KooAid'", "coordinates": [-157.950476, 21.254837]}
+{"tweet": "'65% of the precincts reporting: nnSanders: 50.3%nClinton:   47.9%nn#MichiganPrimary #CNN'", "coordinates": [-86.217544, 41.709039]}
+{"tweet": "'Nearly 80 percent reporting in Allegan County. 60% Sanders, 39% Clinton. #MichiganPrimary'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "'@katielirette @victoriaaa_reid this is what happens when u talk ab trump so talk about Bernie instead'", "coordinates": [-91.218994, 30.354161]}
+{"tweet": "'@Maynard1Rick @HuffPostPol she is stealing lines from Bernie'", "coordinates": [-71.417868, 42.549459]}
+{"tweet": "'@MSNBC @CNN there are 4 counties that still haven't voted hopefully they're not voting  for that slimeball Sanders https://t.co/AfdG5EM3HX'", "coordinates": [-75.130194, 39.698642]}
+{"tweet": "'#BernieSanders n67% in. Sanders 51% Clinton 48% (CNN)'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'@SenSanders , winning the Jewish vote. Jews should note: Bernie is an isolationist. He would have voted against U.S. intervention in WWII.'", "coordinates": [-82.244556, 27.829894]}
+{"tweet": "'Flint just flipped in Bernie's favor #MichianPrimary'", "coordinates": [-79.487651, 37.886607]}
+{"tweet": "'57% of vote is now in and Sanders lead is increased to 3%. He has now taken the lead in county where Flint is.'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'Michigan still out. But @BernieSanders holds a narrow margin. This is #huuuge. I knew it would be a Bernie night with the high turnout.'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'This is just unbelievable @washingtonpost https://t.co/GRSsMWEzVd #MichiganPrimary #DemDebate @BernieSanders @SenSanders @HillaryClinton'", "coordinates": [-77.526464, 38.715315]}
+{"tweet": "'10:22 PM ET:  Current results in Michigan - Sanders 50% Clinton 48%  Gonna be a nail biter but Sanders has already exceeded expectations.'", "coordinates": [-86.061524, 41.620816]}
+{"tweet": "'All the republicans telling everyone in Michigan to vote for Bernie in the primary because it's open primary to help gop in general. Dirty'", "coordinates": [-123.208615, 43.988281]}
+{"tweet": "'#Sanders sues Ohio for not letting 17 yr olds vote: does he now lead in election related lawsuits?nnhttps://t.co/EEC1Q796nq'", "coordinates": [-93.520913, 44.799239]}
+{"tweet": "'#MSNBC Your bias for Trump and Sanders is showing clearly tonight...'", "coordinates": [-84.262816, 39.995246]}
+{"tweet": "'Wow, Bernie is leading in the county where Flint resides.... #MIPrimary'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'@cnnbrk so you r tied to Trump!!!!  Haven't even paid a bit of attention to the fact that @BernieSanders is beating @HillaryClinton in MI'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'Come on Michigan ! Bernie need these votes'", "coordinates": [-91.218994, 30.354161]}
+{"tweet": "'When you only support Bernie to say #feelthebern'", "coordinates": [-118.627874, 34.347483]}
+{"tweet": "'57% of vote is now in and Sanders lead is increased to 3%. He has now taken the lead in county where Flint is. #MIPrimary #FeelTheBern'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'Flint just flipped in Bernie's favor #MichiganPrimary'", "coordinates": [-79.487651, 37.886607]}
+{"tweet": "'@6nsinvt nyou can do msnbc-her whole speech, bernie's speech-2 minutes.'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'There's no way to know whether Clinton can overtake Sanders without information on the results by city--not county--which we do not have'", "coordinates": [-77.119401, 38.801826]}
+{"tweet": "'@dhallofficial @gopenshaw n1 minute ago: 'Road ahead for #Sanders is long even if he pulls off.. ...victory in #Michigan:'-@FiveThirtyEight'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "'It's nice that Bernie is winning in Michigan but he has no chance in the Sunbelt, so the only gain is a slightly more progressive convention'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'@OGDavidGNowak Time to pound home #Bernie msg so you can unwrap a candidate you'll be proud of. #InFor50 #FeeltheBern #NotMeUs'", "coordinates": [-122.514926, 37.708075]}
+{"tweet": "'Miss you hawaiiii :heavy_black_heart:ufe0f:heavy_black_heart:ufe0f:heavy_black_heart:ufe0f don't false vote!!! Vote Bernie my hawaiiii @ Marine Corps Base Hawaii https://t.co/dzY5qScY04'", "coordinates": [-157.778654, 21.42733]}
+{"tweet": "'@SupermanHotMale Bernie voters want it both ways..Obama took huge wall st money..but Hilary is on the take?'", "coordinates": [-71.257909, 41.92922]}
+{"tweet": "'@CNNPolitics If sanders wins Michigan then d white Americans woke up &amp; voted Sanders n respond to black votes 4 Hillary'", "coordinates": [-123.024209, 49.180153]}
+{"tweet": "'@BernieSanders leading in #MichiganPrimary open your eyes #USA the revolution is here !!! #FeelTheBern  https://t.co/I7pu8MPT0h'", "coordinates": [-80.170343, 26.274467]}
+{"tweet": "'@TheOneAstro I mean I'm sure Bernie Sanders SINCERELY believes that The Establishment is the biggest and possibly only problem America has.'", "coordinates": [-82.644739, 37.201483]}
+{"tweet": "'Bernie sanders barely won a state he was supposed to take 75-80% of the vote in. How is this night impressive for him again?'", "coordinates": [-95.774704, 35.995476]}
+{"tweet": "'A higher turnout is a good sign for Sanders going forward ... And for Democrats. #NativeVote16 https://t.co/euXJflEyCT'", "coordinates": [-97.131525, 47.86007]}
+{"tweet": "'#ImWithHer but @cnn needs to treat this like Sanders is winning, not like this is temporary.'", "coordinates": [-118.248823, 34.20542]}
+{"tweet": "'@es_snipes  Erica, look at this!! xoxonMichigann n2,750/4,830 precincts (56.9%) reportingnnBernie Sanders n50.6%nnHillary Clintonn47.6%'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@Thetiredbroker If you like Bernie vote for him. I'm not going to. The trashing of Hillary by Bernie voters makes me sick.'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'68% of precincts reporting: nnSanders:  50.6%nClinton:    47.6%nn#MichiganPrimary #CNN'", "coordinates": [-86.217544, 41.709039]}
+{"tweet": "'@PinkUSADreamer I don't have anything against Bernie, as a person. I haven't heard anything scandalous about him. I disagree with socialism.'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'Hawaiiii happy 41 bday hakuela!!!! :heavy_black_heart:ufe0f:heavy_black_heart:ufe0f:heavy_black_heart:ufe0f:heavy_black_heart:ufe0f vote. Bernie !!! Hawaiii your turn!!!! @ Hokuleau2026 https://t.co/LRNw2fCaAC'", "coordinates": [-157.950476, 21.254837]}
+{"tweet": "'Hillary along with Cruz ,Kasich and Rubio got TRUMPED...he pulled so many working class blue shirts ...Bernie beat her w/ the young crazies.'", "coordinates": [-122.58428, 47.185193]}
+{"tweet": "'@speechboy71 As a Bernie volunteer, I can tell you conservative Dems are voting in the Rep. primaries in many states. It is a real effect.'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'@Niggenius @BernieSanders I love how 'Bernie Bro' is a thing. :face_with_tears_of_joy::face_with_tears_of_joy::loudly_crying_face::loudly_crying_face:'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@sanderswinsbig   #Never Trump because of his small fingers'", "coordinates": [-121.69198, 36.643802]}
+{"tweet": "'@CNNPolitics Screw you I am not listening to disgusting Bernie Sanders, when you completely ignore Hillary. Click'", "coordinates": [-84.820309, 38.403186]}
+{"tweet": "'Glad I got to see my Bernie again yesterday :face_throwing_a_kiss: @ Williston State College https://t.co/r0CPDCKfVc'", "coordinates": [-103.669074, 48.142489]}
+{"tweet": "'@RyanLizza In exit poll, Bernie wins the under 50k vote and the over 50k vote! Albeit by 1% each.'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'Man this shit is heating up trump keeps winning Bernie will kill him in the general'", "coordinates": [-121.576613, 38.43792]}
+{"tweet": "'Media said Clinton was going to win Michigan by double digits, Bernie is leading. #Bernie2016 #BernieSanders https://t.co/kkHjz5D0qU'", "coordinates": [-75.788756, 38.45104]}
+{"tweet": "'Wayne County votes continue to come in and Bernie's lead continues to grow. Up 21k now. Anyone with guts would call it. #MichiganPrimary'", "coordinates": [-86.418059, 32.284593]}
+{"tweet": "'Here We Go People , Msnbc Cnn Chuck Todd Chris Matthew And Joy Read nGoing To Spin Bernie Win!!!!!!!!!!!!!!!!!!!'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'Michigann2,750/4,830 precincts (56.9%) reportinnBernie Sandersn337,528n50.6%nnHillary Clintonn317,007n47.6%n666,543 total votes'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'.@lsarsour @ShaunKing Is this type of whining by Bernie supporters that turns me off.'", "coordinates": [-122.436232, 47.495315]}
+{"tweet": "'i hope bernie wins in michigan. but i REALLY hope bernie wins michigan cause i bet my dad fifty cents on it'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'#berniesandersn69% in. 51% Sanders 48% Clinton'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'Kent, Grand Rapids, Ottowa all favor Bernie. https://t.co/iM8XCEUNLs'", "coordinates": [-86.385306, 41.598756]}
+{"tweet": "'Really @CNN...You're tuning into Bernie shortly but failed to give Hillary airtime in lieu of Trump infomercial?!?! #FAIL'", "coordinates": [-82.421473, 29.600496]}
+{"tweet": "'Okay, based on what's out in #MIPrimary final margin will be prob &lt;2%. At this point I think Sanders wins, but delegates get split.'", "coordinates": [-77.172219, 38.827378]}
+{"tweet": "'@ProgPoli Sanders is about to talk. He hasn't won yet. Smh'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'#oops: Last big Michigan poll had Clinton leading Sanders by 21 percent #FeelTheBern #copolitics #coleg'", "coordinates": [-105.109815, 39.614151]}
+{"tweet": "'genesee county (where flint is) just flipped to green (bernie) like i s2g last ic hecked it was hillary blue'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'also thanks bernie for finally making michigan relevant'", "coordinates": [-75.280284, 39.871811]}
+{"tweet": "'@Heenok_Abitbol @pbump the Washington post hates Bernie with a vengeance - Owner will have to pay more taxes. I don't trust them on this'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'If it is as crucial as said then it should have been Sanders &amp; Warren already, since Sanders alone is now NYTs &amp; corp. media cast as loser.'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'@franifio Say Bombast again, showing your lack of intellect. Sanders loses, Trump destroys your Felon.'", "coordinates": [-80.203991, 26.320692]}
+{"tweet": "'@TuxcedoCat @MSNBC @chucktodd Well I wish they announce Bernie won the Muslim vote they went 70 pct for him and he greatly improved blk vote'", "coordinates": [-84.321948, 33.752879]}
+{"tweet": "'#Bernie is young woman's candidate, #equalpay #MichiganPrimary #warrencounty #Bernieinmi https://t.co/RL93unFNiV'", "coordinates": [-99.200407, 29.332533]}
+{"tweet": "'Is it possible that in Michigan's open primary, a sizable number of Rubio voters crossed over to vote for Sanders?'", "coordinates": [-122.124852, 47.423073]}
+{"tweet": "'If Bernie loses tonight I will have wasted valuable slumber #SuperTuesday2'", "coordinates": [-81.785053, 41.350358]}
+{"tweet": "'Bernie is currently leading in Michigan :))'", "coordinates": [-81.244501, 28.489488]}
+{"tweet": "'Sanders versus TrumpnCommunism versus CapitalismnWhich side with the Conservative Commentariat choose?nSeriously'", "coordinates": [-81.825749, 38.43513]}
+{"tweet": "'Red states may ultimately prevent blue states from nominating Bernie. Will blue states stop red states from nominating Trump?'", "coordinates": [-73.962582, 40.541722]}
+{"tweet": "'Michigan primary tonight! Sanders is leading by about 3 points. He needs this win to close the delegate gap with Clinton.'", "coordinates": [-122.324818, 37.845953]}
+{"tweet": "'@smerconish Bernie loses either way bc the Democrat Party has rigged it to make Hillary win bc they are all about democracy and the people'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'@stevenwtodd Also, that's  @RealClear? nStick with the poll that got it right the last time. If they like Bernie, so do I. So far ...no.'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "'We don't need Forbes to tell us this! #MichiganPrimary #FeelTheBern @BernieSanders #BernieOrBust https://t.co/dS47wjbhLn'", "coordinates": [-84.558691, 33.894492]}
+{"tweet": "'@GoddessAshbynI support Bernie;I'll vote for whoever gets the nominationn&amp;don't like the way some Bernie &amp; Hillary supporters eat their ownu2026'", "coordinates": [-80.519851, 39.719801]}
+{"tweet": "'@SenSanders THIS DEBBIE WAKERMAN SHULTZ SHE LOOKS LIKE DUTCH SHULTZ YOU HAVE TO BE KIDDING BERNIE HIT HER SHE'S A PHONY BAD TEETH  LOOKS BAD'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'I'm spinning this as a Clinton supporter, but a 3% in Michigan doesn't help Sanders' delegate count much'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'71% In 22,000+ Bernie'", "coordinates": [-85.648591, 42.150587]}
+{"tweet": "'Hawaiiii vote for Bernie sanders :heavy_black_heart:ufe0f:heavy_black_heart:ufe0f:heavy_black_heart:ufe0f:heavy_black_heart:ufe0f:heavy_black_heart:ufe0f:thumbs_down_sign::emoji_modifier_fitzpatrick_type-1-2: @ Hawaii News Now https://t.co/jiTuvCheSD'", "coordinates": [-157.950476, 21.254837]}
+{"tweet": "'Can Bernie hold on in Michigan? Hillary Clinton is now on upset alert in the Wolverine State.'", "coordinates": [-86.061524, 41.620816]}
+{"tweet": "'Colorized photograph of @BernieSanders being arrested for defending civil rights in the 60s #FeelTheBern #tytlive  https://t.co/FONlMwrJWG'", "coordinates": [-122.356239, 47.785059]}
+{"tweet": "'#BernieSanders n71% in. Sanders 51%, Clinton 48%.'", "coordinates": [-122.790065, 45.421863]}
+{"tweet": "'@ShaunKing Are you saying Bernie would win those states?'", "coordinates": [-74.026675, 40.683935]}
+{"tweet": "'67% reporting in Ottawa County. 66% Sanders, 32% Clinton. #MichiganPrimary'", "coordinates": [-85.751406, 42.883679]}
+{"tweet": "'Hillary Clinton is ahead of Bernie Sanders. Clinton leads the polls with 7.6%. Next poll closes in less than 32 mins.'", "coordinates": [-87.940033, 41.644102]}
+{"tweet": "'#CNN just won't declare #Bernie the winner in #Michigan. What are they waiting for? The Atlanta network in a total state of denial ?'", "coordinates": [-79.76259, 40.477383]}
+{"tweet": "'@mat_johnson at least bernie has some nice manishevitz'", "coordinates": [-71.089522, 42.412466]}
+{"tweet": "'@MSNBC is sooooo salty about Bernie in Michigan #FeelTheBern'", "coordinates": [-83.800262, 42.215087]}
+{"tweet": "'Dem MIprimary race remains tight; Bernie Sanders 52%, Hillary Clinton 47%. 51% in https://t.co/DACIJ2giWO'", "coordinates": [-96.977527, 32.620678]}
+{"tweet": "'71% of precincts reporting: nnSanders:  50.6%nClinton:    47.5%nn#MichiganPrimary #CNN'", "coordinates": [-86.217544, 41.709039]}
+{"tweet": "'DEMOCRATIC RESULTS: With half the votes in, Sanders holds a narrow lead in Michigan. https://t.co/f0TLsVoRYd'", "coordinates": [-97.928935, 30.127892]}
+{"tweet": "'News Guide: Trump's Tuesday wins show staying power; Sanders, Clinton jockey for Michigan. https://t.co/YzMDEjioSF'", "coordinates": [-83.288056, 42.255085]}
+{"tweet": "'#MichiganPrimary #Bernie leads by 3 points, with 61% reporting.n#FeelTheBern #Bernie2016 #BernieSanders2016'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'FYI, @SteveKornacki, Sanders % in Wayne County went up slightly not down.'", "coordinates": [-118.668404, 33.704538]}
+{"tweet": "'@ZoamSc2 Bernie not gonna beat trump so who cares'", "coordinates": [-97.839309, 31.10447]}
+{"tweet": "'Bernie Sanders have topped Hillary in Genesee County by a little over 100 votes.'", "coordinates": [-81.046876, 35.001706]}
+{"tweet": "'Clinton's campaign tried to temper expectations, but regardless, this is an impressive night for Sanders'", "coordinates": [-87.322724, 20.734206]}
+{"tweet": "'@williejacksonjr I plan to keep riding them about this cuz they are misrepresenting a big story negatively for Bernie.'", "coordinates": [-111.894548, 33.306275]}
+{"tweet": "'@stevenwtodd  If #Bernie wins Detroit...that's he game change. Then he can win Chicago...big ticket engines. So far..it's nice, but...'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "''Bernie' appeared on Tuesday 8 at the 17th place in the Top20 of Norway's Trends: https://t.co/B4KJhbSAnW #trndnl'", "coordinates": [12.07046, 64.333799]}
+{"tweet": "'FINAL Harrison County democratic results (58/58 precincts):nnClinton - 74%nSanders - 25%'", "coordinates": [-89.137059, 30.351774]}
+{"tweet": "'@SenSanders DEMOCRAT SUPPORT CRIMINALS  THE CLINTON WE NEED THE TRUTH NOT LIES ELITE ESTABLISHMENT FROM BOTH SIDES'", "coordinates": [-74.041878, 40.570842]}
+{"tweet": "'Bernie's lead in Michigan doesn't get any smaller as more votes come in. This has been shocking. (But good.)'", "coordinates": [-84.777849, 39.483806]}
+{"tweet": "'When People On My Timeline say They Voted For #Trump n#VoteForBernie https://t.co/KpOfARKBG1'", "coordinates": [-71.191421, 42.227797]}
+{"tweet": "'@bee_tee_ess dude, I hope it's Bernie v Trump. I will feel the Bern'", "coordinates": [-83.204418, 42.474131]}
+{"tweet": "'Strangely, polls showing Bernie winning big among young people in MI. Yet the race is virtually tied. Again, young ppl don't show up.'", "coordinates": [-111.083219, 32.057802]}
+{"tweet": "''I'm moving to Canada if Trump wins.' That's so stupid. I hate Hillary n Bernie, but I wouldn't move if they win? I'll stand up for myself'", "coordinates": [-83.21789, 42.155281]}
+{"tweet": "'@TeeForest you really think if Bernie gets the nomination, the majority of people are going to vote for him and his socialism?'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'@BernieSanders is building momentum @HillaryClinton looked beaten. #Bernie'sArmy is building momentum to take #OH #FL &amp; the rest of America'", "coordinates": [-95.823268, 29.522325]}
+{"tweet": "'Michigan is so tight right now between Clinton and Sanders. OMG!'", "coordinates": [-82.620093, 27.821353]}
+{"tweet": "'@TeeForest @BernieSanders Bernie got HAMMERED in Mississippi. Lol.'", "coordinates": [-124.482003, 32.528832]}
+{"tweet": "'I still say Bernie should have pushed more for an Iowa recount #primary'", "coordinates": [-90.135782, 34.994192]}
+{"tweet": "'@dhallofficial @gopenshaw t nThey're not God!  It's the Big Picture that counts...and #Bernie-(unless something changes) is not in it.'", "coordinates": [-0.336055, 51.527592]}
+{"tweet": "'Hillary and Bernie within 100 votes of each other in Genesee  County, your vote matters'", "coordinates": [-83.80635, 42.75267]}
+{"tweet": "'Sanders won 81% of voters ages 18-29 in Michigan. #FeelTheBern'", "coordinates": [-83.244107, 42.081092]}
+{"tweet": "'Like #NAFTA wasn't as awesome as #Clinton told everyone? #MichiganForBernie  https://t.co/sd0VKhuBwO'", "coordinates": [-96.012722, 36.699006]}
+{"tweet": "'@Thugseidon bernie beats trump in national election polls what are you talking about'", "coordinates": [-122.283944, 38.154977]}
+{"tweet": "'In the past 16 hours, the WA Post has published 16 negative articles on Bernie. As for Hillary, only one that is suggestive of criticism.'", "coordinates": [-122.324818, 37.845953]}
+{"tweet": "'@MMFlint @MLive Wolfe is peeing in his pants! 'Bernie Sanders has 'a nice little lead'. ''", "coordinates": [-106.645646, 25.837092]}
+{"tweet": "'@FiveThirtyEight NOT 1 HILLARY VOTER PLAYED THE DIRTY TRICKS ON SOCIAL MEDIA TODAY ONLY BERNIE'S!'", "coordinates": [-117.282538, 32.53962]}
+{"tweet": "'Proud that I'm probably friends on Facebook with all of the people that voted for Sanders tonight in Mississippi.'", "coordinates": [-73.724998, 42.660879]}

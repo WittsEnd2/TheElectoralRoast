@@ -1,0 +1,23 @@
+{
+  "name": "umbchacks",
+  "version": "1.0.0",
+  "description": "UMBC HACKS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colemalban/UMBCHacks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colemalban/UMBCHacks/issues"
+  },
+  "homepage": "https://github.com/Colemalban/UMBCHacks#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
